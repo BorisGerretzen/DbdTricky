@@ -1,0 +1,12 @@
+﻿using System.Text.Json.Serialization;
+using DbdTricky.Lib.Common;
+
+namespace DbdTricky.Lib.Archives;
+
+public class DbdTrickyArchiveNode
+{
+    public required string Name { get; init; }
+    [JsonConverter(typeof(JsonStringEnumConverter<DbdRole>))] public required DbdRole Role { get; init; }
+    public string? Objective { get; init; }
+    public required List<DbdTrickyArchiveReward> Rewards { get; init; }
+}
