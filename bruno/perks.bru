@@ -1,0 +1,15 @@
+meta {
+  name: perks
+  type: http
+  seq: 20
+}
+
+get {
+  url: {{url}}/perks
+  body: none
+  auth: none
+}
+
+params:query {
+  ~character: dwight
+}

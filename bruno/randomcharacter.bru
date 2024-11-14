@@ -1,0 +1,16 @@
+meta {
+  name: randomcharacter
+  type: http
+  seq: 22
+}
+
+get {
+  url: {{url}}/randomcharacter
+  body: none
+  auth: none
+}
+
+params:query {
+  ~role: survivor
+  ~includeperks: 
+}

@@ -1,0 +1,17 @@
+meta {
+  name: characterinfo
+  type: http
+  seq: 4
+}
+
+get {
+  url: {{url}}/characterinfo
+  body: none
+  auth: none
+}
+
+params:query {
+  ~character: dwight
+  ~includeperks: 
+  ~includeitem: 
+}

@@ -1,0 +1,18 @@
+meta {
+  name: addons
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{url}}/addons
+  body: none
+  auth: none
+}
+
+params:query {
+  ~item: item_camper_flashlight
+  ~role: survivor
+  ~item_type: flashlight
+  ~item: Item_Slasher_TormentMode
+}

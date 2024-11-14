@@ -1,0 +1,16 @@
+meta {
+  name: customizations
+  type: http
+  seq: 7
+}
+
+get {
+  url: {{url}}/customizations
+  body: none
+  auth: none
+}
+
+params:query {
+  ~character: dwight
+  ~type: outfit
+}

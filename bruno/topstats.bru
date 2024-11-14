@@ -1,0 +1,15 @@
+meta {
+  name: topstats
+  type: http
+  seq: 27
+}
+
+get {
+  url: {{url}}/topstats?stat=protectionhits_unhooked
+  body: none
+  auth: none
+}
+
+params:query {
+  stat: protectionhits_unhooked
+}
