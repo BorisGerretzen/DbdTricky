@@ -4,6 +4,7 @@ namespace DbdTricky.Lib.Characters;
 
 public class DbdTrickyCharactersClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyCharactersClient
 {
+    /// <inheritdoc />
     public Task<Dictionary<long, DbdTrickyCharacter>> GetCharacters(DbdTrickyRole? role, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
@@ -12,6 +13,7 @@ public class DbdTrickyCharactersClient(HttpClient http) : DbdTrickyBaseClient(ht
         return Get<Dictionary<long, DbdTrickyCharacter>>("characters", parameters, cancellationToken);
     }
 
+    /// <inheritdoc />
     public Task<DbdTrickyCharacter?> GetCharacter(string characterId, bool includePerks = false, bool includeItem = false, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?> { { "character", characterId } };
@@ -21,6 +23,7 @@ public class DbdTrickyCharactersClient(HttpClient http) : DbdTrickyBaseClient(ht
         return GetOrDefault<DbdTrickyCharacter>("characterinfo", parameters, cancellationToken);
     }
 
+    /// <inheritdoc />
     public Task<DbdTrickyCharacter> GetRandom(DbdTrickyRole? role, bool includePerks = false, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();

@@ -4,6 +4,7 @@ namespace DbdTricky.Lib.Items;
 
 public class DbdTrickyItemsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyItemsClient
 {
+    /// <inheritdoc />
     public Task<Dictionary<string, DbdTrickyItem>> GetItems(DbdTrickyRole? role = null, string? type = null, string? itemType = null, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
@@ -14,6 +15,7 @@ public class DbdTrickyItemsClient(HttpClient http) : DbdTrickyBaseClient(http), 
         return Get<Dictionary<string, DbdTrickyItem>>("items", parameters, cancellationToken);
     }
 
+    /// <inheritdoc />
     public Task<DbdTrickyItem?> GetItem(string itemId, bool includeAddons = false, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?> { { "item", itemId } };

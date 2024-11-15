@@ -4,6 +4,7 @@ namespace DbdTricky.Lib.Addons;
 
 public class DbdTrickyAddonsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyAddonsClient
 {
+    /// <inheritdoc />
     public Task<Dictionary<string, DbdTrickyAddon>> GetAddons(DbdTrickyRole? role = null, string? itemType = null, string? item = null,
         CancellationToken cancellationToken = default)
     {
@@ -15,6 +16,7 @@ public class DbdTrickyAddonsClient(HttpClient http) : DbdTrickyBaseClient(http),
         return Get<Dictionary<string, DbdTrickyAddon>>("addons", parameters, cancellationToken);
     }
 
+    /// <inheritdoc />
     public Task<DbdTrickyAddon?> GetAddon(string addonId, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?> { { "addon", addonId } };

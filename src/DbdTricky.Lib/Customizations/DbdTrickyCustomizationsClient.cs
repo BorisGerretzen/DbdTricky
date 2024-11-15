@@ -4,6 +4,7 @@ namespace DbdTricky.Lib.Customizations;
 
 public class DbdTrickyCustomizationsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyCustomizationsClient
 {
+    /// <inheritdoc />
     public Task<Dictionary<string, DbdTrickyCustomization>> GetCustomizations(string? character, string? type, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
@@ -13,6 +14,7 @@ public class DbdTrickyCustomizationsClient(HttpClient http) : DbdTrickyBaseClien
         return Get<Dictionary<string, DbdTrickyCustomization>>("customizations", parameters, cancellationToken);
     }
 
+    /// <inheritdoc />
     public Task<DbdTrickyCustomization?> GetCustomization(string itemId, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?> { { "item", itemId } };

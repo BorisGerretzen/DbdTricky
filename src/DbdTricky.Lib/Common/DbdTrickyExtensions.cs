@@ -33,6 +33,12 @@ public static class DbdTrickyExtensions
         };
     }
 
+    /// <summary>
+    /// Adds the DbdTricky services to the service collection.
+    /// </summary>
+    /// <param name="services">Service collection.</param>
+    /// <param name="configuration">Override default configuration.</param>
+    /// <param name="configureClient">Configurator for httpclient used.</param>
     public static IServiceCollection AddDbdTricky(this IServiceCollection services, DbdTrickyConfiguration? configuration = null, Action<HttpClient>? configureClient = null)
     {
         configureClient ??= client =>
