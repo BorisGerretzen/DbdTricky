@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Common;
 
-public enum DbdRole
+public enum DbdTrickyRole
 {
     Killer,
     Survivor,

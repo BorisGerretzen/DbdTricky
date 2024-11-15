@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Shrine;
 
-public interface IDbdShrineClient
+public interface IDbdTrickyShrineClient
 {
     /// <summary>
     /// Gets the current shrine.

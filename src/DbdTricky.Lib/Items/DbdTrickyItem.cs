@@ -10,7 +10,7 @@ public class DbdTrickyItem
     [JsonPropertyName("item_type")] public string? ItemType { get; init; }
     public required string Name { get; init; }
     public string? Description { get; init; }
-    [JsonConverter(typeof(JsonStringEnumConverter<DbdRole>))] public DbdRole? Role { get; init; }
+    [JsonConverter(typeof(JsonStringEnumConverter<DbdTrickyRole>))] public DbdTrickyRole? Role { get; init; }
     public List<DbdTrickyModifier>? Modifiers { get; init; }
     public required int Bloodweb { get; init; }
     public string? Event { get; init; }
@@ -19,7 +19,7 @@ public class DbdTrickyItem
     
     /// <summary>
     /// Addons indexed by id.
-    /// Only present when the item is of type <c>power</c> and data is retrieved through <see cref="IDbdItemsClient.GetItem"/>.
+    /// Only present when the item is of type <c>power</c> and data is retrieved through <see cref="IDbdTrickyItemsClient.GetItem"/>.
     /// </summary>
     public Dictionary<string, DbdTrickyAddon>? Addons { get; init; }
 }

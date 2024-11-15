@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Customizations;
 
-public interface IDbdCustomizationsClient
+public interface IDbdTrickyCustomizationsClient
 {
     /// <summary>
     /// Get all customizations.

@@ -10,7 +10,7 @@ public class DbdTrickyAddon
     public required List<string> Parent { get; init; } 
     public required string Name { get; init; }
     public required string Description { get; init; }
-    [JsonConverter(typeof(JsonStringEnumConverter<DbdRole>))] public required DbdRole Role { get; init; }
+    [JsonConverter(typeof(JsonStringEnumConverter<DbdTrickyRole>))] public required DbdTrickyRole Role { get; init; }
     public List<DbdTrickyModifier>? Modifiers { get; init; }
     public required int Bloodweb { get; init; }
     public required string Rarity { get; init; }

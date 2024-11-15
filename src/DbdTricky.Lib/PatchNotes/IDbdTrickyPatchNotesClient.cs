@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.PatchNotes;
 
-public interface IDbdPatchNotesClient
+public interface IDbdTrickyPatchNotesClient
 {
     /// <summary>
     /// Get all patch notes

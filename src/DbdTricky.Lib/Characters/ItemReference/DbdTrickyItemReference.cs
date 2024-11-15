@@ -9,12 +9,12 @@ namespace DbdTricky.Lib.Characters;
 public class DbdTrickyItemReference
 {
     /// <summary>
-    /// When the item is retrieved through <see cref="IDbdCharactersClient.GetCharacters"/>.
+    /// When the item is retrieved through <see cref="IDbdTrickyCharactersClient.GetCharacters"/>.
     /// </summary>
     public string? Id { get; init; }
     
     /// <summary>
-    /// When the item is retrieved through <see cref="IDbdCharactersClient.GetCharacter"/>.
+    /// When the item is retrieved through <see cref="IDbdTrickyCharactersClient.GetCharacter"/>.
     /// </summary>
     public DbdTrickyItem? Item { get; init; }
 }

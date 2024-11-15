@@ -2,7 +2,7 @@
 
 namespace DbdTricky.Lib.Addons;
 
-public interface IDbdAddonsClient
+public interface IDbdTrickyAddonsClient
 {
     /// <summary>
     /// Gets all addons.
@@ -12,7 +12,7 @@ public interface IDbdAddonsClient
     /// <param name="item">Get addons for specific item (only returns something for killer powers).</param>
     /// <param name="cancellationToken"></param>
     /// <returns>Addons indexed by id.</returns>
-    Task<Dictionary<string, DbdTrickyAddon>> GetAddons(DbdRole? role = null, string? itemType = null, string? item = null, CancellationToken cancellationToken = default);
+    Task<Dictionary<string, DbdTrickyAddon>> GetAddons(DbdTrickyRole? role = null, string? itemType = null, string? item = null, CancellationToken cancellationToken = default);
     
     /// <summary>
     /// Gets addon by id.

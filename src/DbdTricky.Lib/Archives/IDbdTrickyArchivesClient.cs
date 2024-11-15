@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Archives;
 
-public interface IDbdArchivesClient
+public interface IDbdTrickyArchivesClient
 {
     /// <summary>
     /// Gets all archives.

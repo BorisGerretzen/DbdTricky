@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.TopStats;
 
-public interface IDbdTopStatsClient
+public interface IDbdTrickyTopStatsClient
 {
     /// <summary>
     /// Get the top stats for a specific stat.

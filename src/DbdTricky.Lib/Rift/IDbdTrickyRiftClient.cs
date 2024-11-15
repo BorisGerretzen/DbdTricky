@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Rift;
 
-public interface IDbdRiftClient
+public interface IDbdTrickyRiftClient
 {
     /// <summary>
     /// Gets all rifts.

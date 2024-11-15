@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Journals;
 
-public interface IDbdJournalsClient
+public interface IDbdTrickyJournalsClient
 {
     /// <summary>
     /// Get all journals

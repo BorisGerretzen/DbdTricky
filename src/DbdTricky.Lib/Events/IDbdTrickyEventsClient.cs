@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Events;
 
-public interface IDbdEventsClient
+public interface IDbdTrickyEventsClient
 {
     /// <summary>
     /// Gets a list of all events.

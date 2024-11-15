@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Maps;
 
-public interface IDbdMapsClient
+public interface IDbdTrickyMapsClient
 {
     /// <summary>
     /// Get all maps

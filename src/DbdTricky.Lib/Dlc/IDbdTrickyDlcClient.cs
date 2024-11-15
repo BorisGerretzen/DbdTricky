@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Dlc;
 
-public interface IDbdDlcClient
+public interface IDbdTrickyDlcClient
 {
     /// <summary>
     /// Get all DLCs.

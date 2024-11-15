@@ -2,7 +2,7 @@
 
 namespace DbdTricky.Lib.Offerings;
 
-public interface IDbdOfferingsClient
+public interface IDbdTrickyOfferingsClient
 {
     /// <summary>
     /// Get all offerings.
@@ -10,7 +10,7 @@ public interface IDbdOfferingsClient
     /// <param name="role">Filter by role.</param>
     /// <param name="cancellationToken"></param>
     /// <returns>Offerings indexed by id.</returns>
-    Task<Dictionary<string, DbdTrickyOffering>> GetOfferings(DbdRole? role = null, CancellationToken cancellationToken = default);
+    Task<Dictionary<string, DbdTrickyOffering>> GetOfferings(DbdTrickyRole? role = null, CancellationToken cancellationToken = default);
     
     /// <summary>
     /// Get an offering by id.

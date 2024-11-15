@@ -1,6 +1,6 @@
 ﻿namespace DbdTricky.Lib.Versions;
 
-public interface IDbdVersionsClient
+public interface IDbdTrickyVersionsClient
 {
     /// <summary>
     /// Gets the versions of the different APIs.

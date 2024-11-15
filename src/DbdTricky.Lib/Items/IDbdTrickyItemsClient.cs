@@ -2,7 +2,7 @@
 
 namespace DbdTricky.Lib.Items;
 
-public interface IDbdItemsClient
+public interface IDbdTrickyItemsClient
 {
     /// <summary>
     /// Get all items
@@ -12,7 +12,7 @@ public interface IDbdItemsClient
     /// <param name="itemType">Filter by item type (<c>"medkit"</c>, <c>"map"</c>, <c>"flashlight"</c>, <c>"firecracker"</c>, <c>"toolbox"</c>, <c>null</c>)</param>
     /// <param name="cancellationToken"></param>
     /// <returns>Items indexed by id.</returns>
-    Task<Dictionary<string, DbdTrickyItem>> GetItems(DbdRole? role = null, string? type = null, string? itemType = null, CancellationToken cancellationToken = default);
+    Task<Dictionary<string, DbdTrickyItem>> GetItems(DbdTrickyRole? role = null, string? type = null, string? itemType = null, CancellationToken cancellationToken = default);
     
     /// <summary>
     /// Get an item by id.
