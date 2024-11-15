@@ -38,7 +38,7 @@ public static class DbdTrickyExtensions
     /// </summary>
     /// <param name="services">Service collection.</param>
     /// <param name="configuration">Override default configuration.</param>
-    /// <param name="configureClient">Configurator for httpclient used.</param>
+    /// <param name="configureClient">HttpClient configurator. Note that using this will override configuration applied using <see cref="configuration"/>.</param>
     public static IServiceCollection AddDbdTricky(this IServiceCollection services, DbdTrickyConfiguration? configuration = null, Action<HttpClient>? configureClient = null)
     {
         configureClient ??= client =>
@@ -69,7 +69,7 @@ public static class DbdTrickyExtensions
         services.AddHttpClient<IDbdTrickyVersionsClient, DbdTrickyVersionsClient>(configureClient);
 
         services.AddTransient<IDbdTrickyClient, DbdTrickyClient>();
-        
+
         return services;
     }
 }
