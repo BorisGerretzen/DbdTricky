@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace DbdTricky.Tests;
+namespace DbdTricky.Tests.Infrastructure;
 
 public static class ResourceReader
 {

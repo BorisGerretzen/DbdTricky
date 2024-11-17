@@ -1,4 +1,5 @@
 ﻿using DbdTricky.Lib.RankReset;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 

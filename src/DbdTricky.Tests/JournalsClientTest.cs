@@ -1,5 +1,6 @@
 ﻿using System.Net;
 using DbdTricky.Lib.Journals;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 

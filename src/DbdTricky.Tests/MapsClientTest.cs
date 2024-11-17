@@ -1,5 +1,6 @@
 ﻿using System.Net;
 using DbdTricky.Lib.Maps;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 

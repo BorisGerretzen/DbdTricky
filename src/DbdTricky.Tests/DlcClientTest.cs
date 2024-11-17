@@ -1,4 +1,5 @@
 ﻿using DbdTricky.Lib.Dlc;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 

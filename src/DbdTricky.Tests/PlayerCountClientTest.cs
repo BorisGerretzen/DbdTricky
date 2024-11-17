@@ -1,4 +1,5 @@
 ﻿using DbdTricky.Lib.PlayerCount;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 

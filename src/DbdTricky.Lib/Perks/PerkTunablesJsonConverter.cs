@@ -11,6 +11,7 @@ public class PerkTunablesJsonConverter : JsonConverter<DbdTrickyPerkTunables>
         {
             JsonTokenType.StartObject => new DbdTrickyPerkTunables(JsonSerializer.Deserialize<Dictionary<int, List<string>>>(ref reader, options)),
             JsonTokenType.StartArray => new DbdTrickyPerkTunables(JsonSerializer.Deserialize<List<List<string>>>(ref reader, options)),
+            JsonTokenType.Null when Nullable.GetUnderlyingType(typeToConvert) is not null => null,
             _ => throw new JsonException()
         };
     }

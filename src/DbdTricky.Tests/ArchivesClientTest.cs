@@ -1,6 +1,7 @@
 ﻿using System.Net;
 using DbdTricky.Lib.Archives;
 using DbdTricky.Lib.Common;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 

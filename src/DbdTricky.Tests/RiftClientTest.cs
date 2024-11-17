@@ -1,5 +1,6 @@
 ﻿using System.Net;
 using DbdTricky.Lib.Rift;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 
@@ -25,7 +26,7 @@ public class RiftClientTest
             Assert.That(free.Amount, Is.EqualTo(100000));
             Assert.That(free.Id, Is.EqualTo("Bloodpoints"));
             Assert.That(free.Type, Is.EqualTo("currency"));
-            var premium = rift.Premium["1"];
+            var premium = rift.Premium["1"].ToList();
             Assert.That(premium, Is.Not.Null);
             Assert.That(premium.Count, Is.EqualTo(3));
             var premiumItem = premium.First();

@@ -1,4 +1,5 @@
 ﻿using DbdTricky.Lib.Shrine;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 

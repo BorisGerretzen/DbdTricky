@@ -2,7 +2,7 @@
 using DbdTricky.Lib.Common;
 using RichardSzalay.MockHttp;
 
-namespace DbdTricky.Tests;
+namespace DbdTricky.Tests.Infrastructure;
 
 public static class TestHttpClientFactory
 {

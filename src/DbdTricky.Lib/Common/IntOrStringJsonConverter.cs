@@ -17,8 +17,6 @@ public class IntOrStringJsonConverter : JsonConverter<int>
                 if (int.TryParse(str, out var value)) return value;
                 throw new JsonException($"Cannot convert {str} to int");
             }
-            case JsonTokenType.Null when Nullable.GetUnderlyingType(typeToConvert) != null:
-                throw new JsonException("Cannot convert null to non-nullable type");
             default:
                 throw new JsonException();
         }

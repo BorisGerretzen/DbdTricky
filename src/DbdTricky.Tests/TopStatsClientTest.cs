@@ -1,4 +1,5 @@
 ﻿using DbdTricky.Lib.TopStats;
+using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
 
