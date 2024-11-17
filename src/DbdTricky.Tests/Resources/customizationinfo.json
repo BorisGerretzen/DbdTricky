@@ -1,0 +1,14 @@
+{
+    "id": "ZA_020",
+    "type": "charm",
+    "category": null,
+    "name": "Mangled Unicorn",
+    "description": "A carnival prize with a gaping entry wound that bleeds stuffing.",
+    "collection": "Killer Memorabilia",
+    "character": null,
+    "role": "killer",
+    "rarity": "rare",
+    "outfit": null,
+    "items": null,
+    "image": "UI/Icons/Customization/ZA_020.png"
+}

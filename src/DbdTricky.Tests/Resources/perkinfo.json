@@ -1,0 +1,26 @@
+{
+    "id": "Adrenaline",
+    "categories": [
+        "navigation",
+        "adaptation"
+    ],
+    "name": "Adrenaline",
+    "description": "You are fuelled by unexpected energy when on the verge of escape.<br><br>This perk activates when the exit gates are powered.<br><br>Instantly heal one health state if you are injured or in the dying state and sprint at {0}% of your normal running speed for {1} seconds.<br><br>Adrenaline ignores the Exhausted status effect. Causes the <b>Exhausted</b> status effect for {2} seconds.<br><br>Exhausted prevents Survivors from activating exhausting perks.",
+    "role": "survivor",
+    "character": 1,
+    "tunables": [
+        [
+            "150"
+        ],
+        [
+            "3"
+        ],
+        [
+            "60",
+            "50",
+            "40"
+        ]
+    ],
+    "teachable": 40,
+    "image": "UI/Icons/Perks/iconPerks_adrenaline.png"
+}

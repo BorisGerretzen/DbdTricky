@@ -7,7 +7,7 @@ public class DbdTrickyEvent
     public required string Event { get; init; }
     public required string Type { get; init; }
     public required string Name { get; init; }
-    public required int Multiplier { get; init; }
+    public required float Multiplier { get; init; }
     public required long Start { get; init; }
     public required long End { get; init; }
     

@@ -1,0 +1,112 @@
+{
+    "index": 268435491,
+    "id": "K36",
+    "alias": "lich",
+    "name": "The Lich",
+    "role": "killer",
+    "difficulty": "intermediate",
+    "gender": "male",
+    "height": "average",
+    "bio": "Few dare speak The Lich's true name, for fear that he may hear... or worse.<br><br>His personal perks, <b>Weave Attunement</b>, <b>Languid Touch</b>, and <b>Dark Arrogance</b> allow him to exploit used items, exhaust those who disturb the crows, and increase vault speed.",
+    "story": "The Whispered One. Lord of the Rotted Tower. The Master of Secrets. Few dare speak his true name, for fear that he may hear—or worse.<br><br>Even as a young wizard, Vecna’s command of magic was matched by none. While others spent decades committing to and perfecting one school of magic, he effortlessly mastered each one of them. After his mother’s execution for witchcraft, his focus became obsession as he studied the darkest school of magic—necromancy, the magic of life and death.<br><br>As his power grew, so did his ambition. Over the centuries, he shed his mortal shell and ascended to lichdom. His power gave rise to a great empire, ruled over from his Rotted Tower.<br><br>His thirst for dark knowledge to fill his Book of Vile Darkness led him to many realms and planes. But it was in his own realm one of his servants found something—a spell, perhaps, torn from an ancient tome—written in a language he had never seen. From it he could sense an incredible dark energy. Without any document of the language, he had to spend months painstakingly analyzing its syntax, its phonetics, its form. He documented every stroke of every letter, scrutinizing and theorizing on their meanings, in a massive book hidden in his chambers. When his lieutenants came to him with problems in their domain, Vecna told them to deal with it themselves. He had more important matters to attend to.<br><br>Countless nights were spent memorizing the strange script, attempting to make it make sense. Only occasionally would he leave his keep to investigate rumors of people who had disappeared without a trace in the night. At these scenes, he could sense the same foreign magic that emanated from the torn page. He was convinced that whatever was killing these people had also written this strange script.<br><br>He was confounded, which made him furious. The scenes, few and far between, had no pattern, no common motive. No sign of struggle, no body, and only a lingering hum of dark energy. To what end did they need these bodies?<br><br>One dark night, he had a breakthrough: a word he had been interpreting as “dying” made more sense as “disappearing.” Perhaps these people were not being killed at all: perhaps they were being taken alive. He applied this substitution through his notes and everything seemed to fall into place.<br><br>He copied what he had learned to a fresh piece of parchment, written phonetically. He began to speak the words aloud and the room darkened. It filled with a creeping black fog. He felt himself displacing, going somewhere else. Vecna resisted, incanting memorized spells, holding the fog at bay. But as he gazed into the darkness, he felt that alluring energy from it; a despair, an evil he could scarcely imagine. A sick curiosity overcoming him, he dropped his concentration, and let the fog take him. Whatever it was, wherever it was, he understood that the only way to harness it was to submit to it. He knew, in his cold, unbeating heart, that its dark secrets would one day be his.",
+    "tunables": {
+        "MaxWalkSpeed": 460,
+        "CarryingCamperMaxWalkSpeedPercent": 0.800000011920929,
+        "TerrorRadius": 3200,
+        "=====================ADDONS=====================": 3200,
+        "Addon_14_CooldownReductionOnBasicAttackSuccess": 5,
+        "Addon_15_SurvivorDistanceFromTreasureChest": 600,
+        "Addon_15_EffectLifetime": 3,
+        "Addon_16_MangledEffectLifetime": 45,
+        "Addon_16_HemorrhageEffectLifetime": 45,
+        "Addon_17_UndetectableEffectLifetime": 10,
+        "Addon_18_ObliviousEffectLifetime": 15,
+        "Addon_18_MinimumGuaranteedMimicSpawnAmount": 2,
+        "ScoreEvent_TimeToReceiveBloodpointsAfterActivatingSpell": 15
+    },
+    "item": {
+        "id": "Item_Slasher_K36Power",
+        "type": "power",
+        "item_type": null,
+        "name": "VILE DARKNESS",
+        "description": "Bound with the skin and flesh of men, the Book is packed with spells both forbidden and wicked.<br><br>To select a Spell, hold Ability button 1 to open the Spell selection. The Lich has 4 different Spells:<br><br>Mage Hand: Creates a magical hand that lifts downed pallets or blocks upright pallets for 4 seconds.Flight of the Damned: Conjures 5 flying entities that pass through obstacles and injure Survivors.Dispelling Sphere: Casts a moving invisible sphere that reveals Survivors & temporarily disables Magic Items.Fly: Briefly move faster, ignoring vaults and pallets.<br><br><b>SPECIAL ITEM: MAGIC ITEMS</b><br><br>Treasure Chests found around the map can contain Magic Items for Survivors to equip. These include Boots/Gauntlets of:<br><br>The Interloper: When Mage Hand is used, reveals aura of affected pallets and applies Haste for 3 seconds.The Nightwatch: Reveals auras of Flight of the Damned.The Archivist: Makes Dispelling Sphere visible.The Skyguard: Reveals The Lich's aura during Fly and for a few seconds after.Additionally, upon procurement, all Magic Items briefly reveal Vecna's aura.<br><br><b>SPECIAL ITEMS: HAND & EYE OF VECNA</b><br><br>Rarely, Treasure Chests contain the Hand or Eye of Vecna. When picked up and used by a Survivor at full health, they cost them a health state, reveal their location with Killer Instinct for 3 seconds, and grant them a special ability.<br><br>Hand of Vecna: A Fast Locker Entry teleports the Survivor to a further locker.Eye of Vecna: A Fast Locker Exit hides the Survivor's aura and grants Haste for 12 seconds.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 0,
+        "event": null,
+        "rarity": "common",
+        "image": "UI/Icons/Powers/Churros/iconPowers_VileDarkness.png"
+    },
+    "outfit": [
+        "K36_Head01",
+        "K36_Body01",
+        "K36_W01"
+    ],
+    "dlc": "Churros",
+    "image": "UI/Icons/CharPortraits/Churros/K36_TheLich_Portrait.png",
+    "perks": [
+        {
+            "id": "K36P01",
+            "categories": null,
+            "name": "Weave Attunement",
+            "description": "You are so attuned to magical energies that you can sense even minor ripples around enchantments.<br><br>When an item becomes depleted for the first time, it is dropped. You see the auras of dropped items.<br><br>Survivors within {0} meters of dropped items have their auras revealed to you.<br><br>When a Survivor picks up a Survivor item, they suffer from the <b>Oblivious</b> status effect for {1} seconds.<br><br>Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.<br><br>“No number of novelties will protect you from me!” - Vecna",
+            "role": "killer",
+            "character": 268435491,
+            "tunables": [
+                [
+                    "12"
+                ],
+                [
+                    "20",
+                    "25",
+                    "30"
+                ]
+            ],
+            "teachable": 30,
+            "image": "UI/Icons/Perks/Churros/iconPerks_WeaveAttunement.png"
+        },
+        {
+            "id": "K36P02",
+            "categories": null,
+            "name": "Languid Touch",
+            "description": "Your dreadful aura is so suffocating that even terrifying scenes tire your prey.<br><br>When a Survivor within {0} meters of you scares a crow, they suffer from the <b>Exhausted</b> status effect for {1} seconds.<br><br><i>Languid Touch</i> has a cooldown of {2} seconds.<br><br>Exhausted prevents Survivors from activating exhausting perks.<br><br>“Submit to me. It is inevitable.” - Vecna",
+            "role": "killer",
+            "character": 268435491,
+            "tunables": [
+                [
+                    "36"
+                ],
+                [
+                    "6",
+                    "8",
+                    "10"
+                ],
+                [
+                    "20"
+                ]
+            ],
+            "teachable": 35,
+            "image": "UI/Icons/Perks/Churros/iconPerks_LanguidTouch.png"
+        },
+        {
+            "id": "K36P03",
+            "categories": null,
+            "name": "Dark Arrogance",
+            "description": "When everything is going right, you are an inescapable inevitability.<br><br><b>Increases</b> the duration you are blinded by any means and the duration of pallet stuns by {0}%.<br><br><b>Increases</b> regular vault speed by {1}%.<br><br>“Run all you want. I will not be denied.” - Vecna",
+            "role": "killer",
+            "character": 268435491,
+            "tunables": [
+                [
+                    "25"
+                ],
+                [
+                    "15",
+                    "20",
+                    "25"
+                ]
+            ],
+            "teachable": 40,
+            "image": "UI/Icons/Perks/Churros/iconPerks_DarkArrogance.png"
+        }
+    ]
+}

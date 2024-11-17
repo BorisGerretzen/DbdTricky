@@ -1,0 +1,1639 @@
+{
+    "Anniversary2019Offering": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "notavailableinpartymode"
+        ],
+        "name": "Gruesome Gateau",
+        "description": "A terrific stomach-churning cake to mark our three years together. Grants <b>103%</b> bonus Bloodpoints in all categories for all players this trial.",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconFavors_gruesomeGateau.png"
+    },
+    "Anniversary2020Offering": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "notavailableinpartymode"
+        ],
+        "name": "Ghastly Gateau",
+        "description": "A spectacularly grim cake to mark our four years together. 1% tastier than a Gruesome Gateau. Grants <b>104%</b> bonus Bloodpoints in all categories for all players this trial.",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconFavors_4thAnniversary.png"
+    },
+    "Anniversary2021Offering": {
+        "type": "points",
+        "tags": [
+            "notavailableinpartymode",
+            "stack"
+        ],
+        "name": "Sacrificial Cake",
+        "description": "A revolting cake that marks our five years together. The slightest taste fills you with an incomprehensible energy, reaching out to something beyond. Grants <b>105%</b> bonus Bloodpoints in all categories for all players this trial.",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconsFavors_5thAnniversary.png"
+    },
+    "Anniversary2022Offering": {
+        "type": "points",
+        "tags": [
+            "notavailableinpartymode",
+            "stack"
+        ],
+        "name": "Frightful Flan",
+        "description": "It may be a masquerade ball, but there is no masking the foul odor of this quivering yellow mass.<br><br>Consuming it, however, fills you with vigor.<br><br>Grants <b>106%</b> bonus Bloodpoints in all categories for all players this trial.",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconsFavors_6thAnniversary.png"
+    },
+    "Anniversary2023Offering": {
+        "type": "points",
+        "tags": [
+            "notavailableinpartymode",
+            "stack"
+        ],
+        "name": "TERRORMISU",
+        "description": "A celebratory dessert to be eaten during the masquerade. Each layer is more horrifying than the last.<br><br>Grants <b>107%</b> bonus Bloodpoints in all categories for all players this trial.Reveals the aura of an Invitation within <b>32 meter(s).</b>",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconsFavors_7thAnniversary.png"
+    },
+    "Anniversary2024Offering": {
+        "type": "points",
+        "tags": [
+            "notavailableinpartymode",
+            "stack"
+        ],
+        "name": "SCREECH COBBLER",
+        "description": "If you listen really closely, you can almost hear it screaming for more ice cream.<br><br>Grants <b>108%</b> bonus Bloodpoints in all categories for all players this trial.Reveals the aura of Invitation within <b>16 meters.</b>Create <b>1</b> more chest.",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconsFavors_8thAnniversary.png"
+    },
+    "AnnotatedBlueprint": {
+        "type": "proceduralgeneration",
+        "tags": [
+            "stack"
+        ],
+        "name": "Annotated Blueprint",
+        "description": "<b>Tremendously</b> increases the chance of spawning the Hatch in the Killer Shack, if the map has a Killer Shack.",
+        "role": null,
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Yemen/iconFavors_annotatedBlueprint.png"
+    },
+    "ArdentRavenWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Ardent Raven Wreath",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Deviousness category.",
+        "role": "killer",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_ardentRavenWreath.png"
+    },
+    "ArdentShrikeWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Ardent Shrike Wreath",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Sacrifice category.",
+        "role": "killer",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_ardentShrikeWreath.png"
+    },
+    "ArdentSpottedowlWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Ardent Spotted Owl Wreath",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Hunting category.",
+        "role": "killer",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_ardentSpottedOwlWreath.png"
+    },
+    "ArdentTanagerWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Ardent Tanager Wreath",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Brutality category.",
+        "role": "killer",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_ardentTanagerWreath.png"
+    },
+    "AzarovKey": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Azarov's Key",
+        "description": "<b>Tremendously increases</b> the chances of being sent to the Autohaven Wreckers when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_azarovsKey.png"
+    },
+    "BlackSaltStatuette": {
+        "type": "luck",
+        "tags": [
+            "stack",
+            "white"
+        ],
+        "name": "Black Salt Statuette",
+        "description": "<b>Moderately increases</b> luck of <b>all</b> Survivors.",
+        "role": "survivor",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_blackSaltStatuette.png"
+    },
+    "BlackSplinter": {
+        "type": "killer",
+        "tags": [
+            "notavailableinpartymode",
+            "black",
+            "mystery",
+            "not_available_for_shape"
+        ],
+        "name": "Black Splinter",
+        "description": "Allows you to take on the role of <b>The Shape</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><br>Secret.",
+        "role": "killer",
+        "rarity": "ultrarare",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC2/iconFavors_blackSplinter.png"
+    },
+    "BlackWard": {
+        "type": "protection",
+        "tags": [
+            "personal",
+            "black",
+            "ward"
+        ],
+        "name": "Black Ward",
+        "description": "Burning this offering grants you protection against the loss of your add-ons at the end of the trial.",
+        "role": "killer",
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_wardBlack.png"
+    },
+    "BloodiedBlueprint": {
+        "type": "proceduralgeneration",
+        "tags": [
+            "personal",
+            "stack"
+        ],
+        "name": "Bloodied Blueprint",
+        "description": "Reveals the aura of the basement hooks to you for <b>20 seconds</b> at the start of the trial. <b>Tremendously</b> increases the chance of spawning the basement in the Killer Shack, if the map has a Killer Shack.",
+        "role": null,
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Yemen/iconFavors_bloodiedBlueprint.png"
+    },
+    "BloodyPartyStreamers": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "notavailableinpartymode"
+        ],
+        "name": "Bloody Party Streamers",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in all categories for all players this trial.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconFavors_bloodyPartyStreamers.png"
+    },
+    "BogLaurelSachet": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Bog Laurel Sachet",
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Objective category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_bogLaurelSachet.png"
+    },
+    "BoneSplinter": {
+        "type": "killer",
+        "tags": [
+            "notavailableinpartymode",
+            "black",
+            "mystery",
+            "not_available_for_cannibal"
+        ],
+        "name": "Bone Splinter",
+        "description": "Allows you to take on the role of <b>The Cannibal</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><br>Secret.",
+        "role": "killer",
+        "rarity": "ultrarare",
+        "retired": 1,
+        "image": "UI/Icons/Favors/Cannibal/iconFavors_boneSplinter.png"
+    },
+    "BoundEnvelope": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Bound Envelope",
+        "description": "Grants <b>25%</b> bonus Bloodpoints in <b>all</b> categories to all Survivors.",
+        "role": "survivor",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_boundEnvelope.png"
+    },
+    "CattleTag28": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Cattle Tag-28",
+        "description": "<b>Slightly increases</b> the chances of being sent to Coldwind Farm when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "common",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_cattleTag28.png"
+    },
+    "ChalkPouch": {
+        "type": "luck",
+        "tags": [
+            "stack",
+            "personal",
+            "white"
+        ],
+        "name": "Chalk Pouch",
+        "description": "<b>Slightly increases</b> luck.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_chalkPouch.png"
+    },
+    "CharredWeddingPhotograph": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Charred Wedding Photograph",
+        "description": "<b>Tremendously increases</b> the chances of being sent to Crotus Prenn Asylum when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_charredWeddingPhotograph.png"
+    },
+    "ChildrensBook": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Children's Book",
+        "description": "<b>Considerably increases</b> the chances of being sent to Red Forest when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC5/iconFavors_childrensBook.png"
+    },
+    "ClearReagent": {
+        "type": "atmosphere",
+        "tags": [
+            "stack"
+        ],
+        "name": "Clear Reagent",
+        "description": "<b>Slightly lessens</b> the Dark Mist.",
+        "role": null,
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_clearReagent.png"
+    },
+    "ColdwindCattleTag81": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Coldwind Cattle Tag-81",
+        "description": "<b>Considerably increases</b> the chances of being sent to Coldwind Farm when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_cattleTag81.png"
+    },
+    "CreamChalkPouch": {
+        "type": "luck",
+        "tags": [
+            "stack",
+            "white",
+            "personal"
+        ],
+        "name": "Cream Chalk Pouch",
+        "description": "<b>Moderately increases</b> luck.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_creamChalkPouch.png"
+    },
+    "CrescentMoonBouquet": {
+        "type": "lighting",
+        "tags": null,
+        "name": "Crescent Moon Bouquet",
+        "description": "Calls upon The Entity for a <b>dimmed moonlight</b>.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_crecentMoonBouquet.png"
+    },
+    "CrispleafAmaranthSachet": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Crispleaf Amaranth Sachet",
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Survival category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_crispleafAmaranthSachet.png"
+    },
+    "CutCoin": {
+        "type": "chest",
+        "tags": [
+            "black",
+            "stack"
+        ],
+        "name": "Cut Coin",
+        "description": "Calls on The Entity to prevent the appearance of <b>2</b> chests.",
+        "role": "killer",
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_cutCoin.png"
+    },
+    "CypressMementoMori": {
+        "type": "killing",
+        "tags": [
+            "black",
+            "mystery"
+        ],
+        "name": "Cypress Memento Mori",
+        "description": "Grants <b>10 000 post-trial bloodpoints</b> upon performing any Mori on the last Survivor.<br><br>Secret.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_momentoMoriCypress.png"
+    },
+    "DecrepitClapboard": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Decrepit Clapboard",
+        "description": "<b>Considerably increases</b> the chances of being sent to Haddonfield when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC2/iconFavors_decrepitClapboard.png"
+    },
+    "DevoutRavenWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Devout Raven Wreath",
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Deviousness category.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_devoutRavenWreath.png"
+    },
+    "DevoutShrikeWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Devout Shrike Wreath",
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Sacrifice category.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_devoutShrikeWreath.png"
+    },
+    "DevoutSpottedowlWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Devout Spotted Owl Wreath",
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Hunting category.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_devoutSpottedOwlWreath.png"
+    },
+    "DevoutTanagerWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Devout Tanager Wreath",
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Brutality category.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_devoutTanagerWreath.png"
+    },
+    "EbonyMementoMori": {
+        "type": "killing",
+        "tags": [
+            "black",
+            "mystery"
+        ],
+        "name": "Ebony Memento Mori",
+        "description": "Grants the ability to <b>kill all Survivors</b> who have reached the <b>second Hook State</b> by your hand during the next trial.Secret.",
+        "role": "killer",
+        "rarity": "ultrarare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_momentoMoriEbony.png"
+    },
+    "EclipseThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "RPD Badge",
+        "description": "<b>Tremendously increases</b> the chance of being sent to Raccoon City police station when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Eclipse/iconsFavors_RPDBadge.png"
+    },
+    "EmergencyCertificate": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Emergency Certificate",
+        "description": "<b>Slightly increases</b> the chances of being sent to L\u00e9ry's Memorial Institute when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "common",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC4/iconFavors_emergencyCertificate.png"
+    },
+    "EscapeCake": {
+        "type": "points",
+        "tags": [
+            "white",
+            "stack",
+            "personal",
+            "notavailableinpartymode"
+        ],
+        "name": "Escape! Cake",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in all categories.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconFavors_escapeCake.png"
+    },
+    "FaintReagent": {
+        "type": "atmosphere",
+        "tags": [
+            "stack"
+        ],
+        "name": "Faint Reagent",
+        "description": "<b>Slightly thickens</b> the Dark Mist.",
+        "role": null,
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_faintReagent.png"
+    },
+    "FragrantBogLaurel": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Fragrant Bog Laurel",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Objective category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_fragrantBogLaurel.png"
+    },
+    "FragrantCrispleafAmaranth": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Fragrant Crispleaf Amaranth",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Survival category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_fragrantCrispleafAmaranth.png"
+    },
+    "FragrantPrimroseBlossom": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Fragrant Primrose Blossom",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Altruism category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_fragrantPrimroseBlossom.png"
+    },
+    "FragrantSweetWilliam": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Fragrant Sweet William",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in the Boldness category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_fragrantSweetWilliam.png"
+    },
+    "FreshBogLaurel": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Fresh Bog Laurel",
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Objective category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_freshBogLaurel.png"
+    },
+    "FreshCrispleafAmaranth": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Fresh Crispleaf Amaranth",
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Survival category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_freshCrispleafAmaranth.png"
+    },
+    "FreshPrimroseBlossom": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Fresh Primrose Blossom",
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Altruism category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_freshPrimroseBlossom.png"
+    },
+    "FreshSweetWilliam": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Fresh Sweet William",
+        "description": "Grants <b>75%</b> bonus Bloodpoints in the Boldness category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_freshSweetWilliam.png"
+    },
+    "FullMoonBouquet": {
+        "type": "lighting",
+        "tags": null,
+        "name": "Full Moon Bouquet",
+        "description": "Calls upon The Entity for the <b>brightest moonlight</b>.",
+        "role": null,
+        "rarity": "veryrare",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_fullMoonBouquet.png"
+    },
+    "FumingCordage": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Fuming Cordage",
+        "description": "<b>Slightly increases</b> the chances of being sent to Backwater Swamp when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "common",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC3/iconFavors_fumingCordage.png"
+    },
+    "FumingWelcomeSign": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Fuming Welcome Sign",
+        "description": "<b>Considerably increases</b> the chances of being sent to Backwater Swamp when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC3/iconFavors_fumingWelcomeSign.png"
+    },
+    "GlassSplinter": {
+        "type": "killer",
+        "tags": [
+            "notavailableinpartymode",
+            "black",
+            "mystery",
+            "not_available_for_pig"
+        ],
+        "name": "Glass Splinter",
+        "description": "Allows you to take on the role of <b>The Pig</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><br>Secret.",
+        "role": "killer",
+        "rarity": "ultrarare",
+        "retired": 1,
+        "image": "UI/Icons/Favors/Finland/iconFavors_glassSplinter.png"
+    },
+    "GranmasCookbook": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Grandma's Cookbook",
+        "description": "<b>Tremendously increases</b> the chances of being sent to Backwater Swamp when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/DLC3/iconFavors_granmasCookbook.png"
+    },
+    "Halloween2021Offering": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "notavailableinpartymode",
+            "personal"
+        ],
+        "name": "Cursed Seed",
+        "description": "Calls upon The Entity to generate <b>1 tangled hook</b> and <b>1 tangled generator</b>.As a Killer, hook a Survivor on a <b>tangled hook</b> for the first time to earn bonus Bloodpoints.As a Survivor, find and repair a <b>tangled generator</b> to earn bonus Bloodpoints.Using this offering increases the amount of Bloodpoints earned for these interactions.NOTE: During the event, 1 default tangled hook and 1 default tangled generator will spawn on the map.Stacks.<i>Only playable during The Midnight Grove event.</i>",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Halloween2021/iconFavors_CursedSeed.png"
+    },
+    "Halloween2022Offering": {
+        "type": "points",
+        "tags": [
+            "notavailableinpartymode",
+            "stack"
+        ],
+        "name": "Arcane Dowsing Rod",
+        "description": "Taps into the latent energy of The Entity's realm to find even more concentrated pockets of power.<br><br>Personal.Provides a +<b>100%</b> Bloodpoints bonus to\u00a0all Haunted By Daylight score events.Provides a directional cue when within <b>24</b> meters of an Unstable Rift or Portal.<i>Only usable when playing <b>Event: Haunted by Daylight</b>.</i>",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Halloween2022/iconFavors_ArcaneDowsingRod.png"
+    },
+    "HalloweenOffering": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "notavailableinpartymode",
+            "personal"
+        ],
+        "name": "Pustula Petals",
+        "description": "Calls upon The Entity to generate <b>1 Blighted Hook</b> and <b>1 Blighted Generator</b>.As a Killer, hook a Survivor on a <b>Blighted Hook</b> for the first time to earn bonus Bloodpoints.As a Survivor, find and repair a <b>Blighted Generator</b> to earn bonus Bloodpoints.Using this offering increases the amount of Bloodpoints earned for these interactions.NOTE: During the event, 1 default Blighted Hook and 1 default Blighted Generator will spawn in the map.Stacks.<i>Only playable during the Midnight Grove Event.</i>",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Halloween/iconFavors_pustulaPetals.png"
+    },
+    "HarvestFestivalLeaflet": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Harvest Festival Leaflet",
+        "description": "<b>Slightly increases</b> the chances of being sent to Haddonfield when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "common",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC2/iconFavors_harvestFestivalLeaflet.png"
+    },
+    "HazyReagent": {
+        "type": "atmosphere",
+        "tags": [
+            "stack"
+        ],
+        "name": "Hazy Reagent",
+        "description": "<b>Moderately thickens</b> the Dark Mist.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_hazyReagent.png"
+    },
+    "HeartLocket": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Heart Locket",
+        "description": "<b>Tremendously increases</b> the chances of being sent to Coldwind Farm when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_heartLocket.png"
+    },
+    "HollowShell": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Hollow Shell",
+        "description": "Grants <b>25%</b> bonus Bloodpoints in all categories.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_hollowShell.png"
+    },
+    "IonThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Crow's Eye",
+        "description": "<b>Tremendously increases</b> the chance to be sent to Forsaken Boneyard when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Ion/iconFavors_crowsEye.png"
+    },
+    "IvoryChalkPouch": {
+        "type": "luck",
+        "tags": [
+            "stack",
+            "white",
+            "personal"
+        ],
+        "name": "Ivory Chalk Pouch",
+        "description": "<b>Considerably increases</b> luck.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_ivoryChalkPouch.png"
+    },
+    "IvoryMementoMori": {
+        "type": "killing",
+        "tags": [
+            "black",
+            "mystery"
+        ],
+        "name": "Ivory Memento Mori",
+        "description": "Grants the ability to <b>kill one Survivor</b> who has reached the <b>second Hook State</b> by your hand during the next trial.Secret.",
+        "role": "killer",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_momentoMoriIvory.png"
+    },
+    "JapaneseCountrySide": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Yamaoka Family Crest",
+        "description": "<b>Tremendously increases</b> the chances of being sent to Yamaoka Estate when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Haiti/iconFavors_yamaokasCrest.png"
+    },
+    "Jigsawpiece": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Jigsaw Piece",
+        "description": "<b>Tremendously increases</b> the chances of being sent to Gideon Meat Packing Plant when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Finland/iconFavors_jigsawPiece.png"
+    },
+    "KenyaThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Damaged Photo",
+        "description": "<b>Tremendously increases</b> the chance to be sent to Ormond when burnt.<br><br><b>Aug. 28th, \u201896</b>",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Kenya/iconFavors_damagedPhoto.png"
+    },
+    "LunacyTicket": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Lunacy Ticket",
+        "description": "<b>Slightly increases</b> the chances of being sent to Crotus Prenn Asylum when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "common",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_lunacyTicket.png"
+    },
+    "MacmillanLedgerPage": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "MacMillan Ledger Page",
+        "description": "<b>Slightly increases</b> the chances of being sent to the MacMillan Estate when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "common",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_macmillianLedgerPage.png"
+    },
+    "MacMillanPhalanxBone": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "MacMillan's Phalanx Bone",
+        "description": "<b>Tremendously increases</b> the chances of being sent to the MacMillan Estate when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_macmilliansPhalanxBone.png"
+    },
+    "MeteorThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Ichorous Loam",
+        "description": "<b>Tremendously increases</b> the chance to be sent to Withered Isle when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Meteor/iconFavors_IchorousLoam.png"
+    },
+    "MoldyOak": {
+        "type": "hook",
+        "tags": [
+            "black",
+            "stack"
+        ],
+        "name": "Moldy Oak",
+        "description": "Calls upon The Entity to <b>Slightly decrease</b> the <b>distance</b> between sacrificial hooks appearing in the world.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_moldyOak.png"
+    },
+    "MuddySplinter": {
+        "type": "killer",
+        "tags": [
+            "notavailableinpartymode",
+            "black",
+            "mystery",
+            "not_available_for_witch"
+        ],
+        "name": "Muddy Splinter",
+        "description": "Allows you to take on the role of <b>The Hag</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><br>Secret.",
+        "role": "killer",
+        "rarity": "ultrarare",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC3/iconFavors_muddySplinter.png"
+    },
+    "MurkyReagent": {
+        "type": "atmosphere",
+        "tags": [
+            "stack"
+        ],
+        "name": "Murky Reagent",
+        "description": "<b>Greatly thickens</b> the Dark Mist.",
+        "role": null,
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_murkyReagent.png"
+    },
+    "NewMoonBouquet": {
+        "type": "lighting",
+        "tags": null,
+        "name": "New Moon Bouquet",
+        "description": "Calls upon The Entity for the <b>darkest moonlight</b>.",
+        "role": null,
+        "rarity": "ultrarare",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_newMoonBouquet.png"
+    },
+    "PaintedRiverRock": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Painted River Rock",
+        "description": "<b>Slightly increases</b> the chances of being sent to Red Forest when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "common",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC5/iconFavors_paintedRiverRock.png"
+    },
+    "PElliotLunacyTicket": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "P.Elliott Lunacy Ticket",
+        "description": "<b>Considerably increases</b> the chances of being sent to Crotus Prenn Asylum when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_pElliottLunacyTicket.png"
+    },
+    "PetrifiedOak": {
+        "type": "hook",
+        "tags": [
+            "white",
+            "stack"
+        ],
+        "name": "Petrified Oak",
+        "description": "Calms The Entity and <b>Slightly increases</b> the <b>distance</b> between sacrificial hooks appearing in the world.",
+        "role": "survivor",
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_petrifiedOak.png"
+    },
+    "PrimroseBlossomSachet": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Primrose Blossom Sachet",
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Altruism category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_primroseBlossomSachet.png"
+    },
+    "PsychiatricAssessmentReport": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Psychiatric Assessment Report",
+        "description": "<b>Considerably increases</b> the chances of being sent to L\u00e9ry's Memorial Institute when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC4/iconFavors_psychiatricAssessmentReport.png"
+    },
+    "PutridOak": {
+        "type": "hook",
+        "tags": [
+            "black",
+            "stack"
+        ],
+        "name": "Putrid Oak",
+        "description": "Calls upon The Entity to <b>Considerably decrease</b> the <b>distance</b> between sacrificial hooks appearing in the world.",
+        "role": "killer",
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_putridOak.png"
+    },
+    "QatarThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Hawkins National Laboratory I.D.",
+        "description": "<b>Tremendously\u00a0increases</b>\u00a0the chance to be sent to Hawkins National Laboratory when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Qatar/iconFavors_hawkinsNationalLaboratoryID.png"
+    },
+    "QuantumThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Beef Tallow Mixture",
+        "description": "<b>Tremendously increases</b> the chance to be sent to The Decimated Borgo when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Quantum/iconFavors_BeefTallowMixture.png"
+    },
+    "QuarterMoonBouquet": {
+        "type": "lighting",
+        "tags": null,
+        "name": "Quarter Moon Bouquet",
+        "description": "Calls upon The Entity for a <b>brighter moonlight</b>.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_quarterMoonBouquet.png"
+    },
+    "RavenWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Raven Wreath",
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Deviousness category.",
+        "role": "killer",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_ravenWreath.png"
+    },
+    "RedMoney": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "notavailableinpartymode",
+            "personal"
+        ],
+        "name": "Red Envelope",
+        "description": "A gesture of generosity to bring good fortune to the unfortunate. Calls upon The Entity to generate <b>1 Red Envelope</b> in the trial.<br><br>The aura of your own envelope is revealed to you at the start of the trial.Interacting with your own Red Envelope reveals its aura to all other players in the trial until claimed.Opening another player's Red Envelope awards you with <b>Bloodpoints of a random amount.</b>When another player opens your envelope during the trial, you are awarded Bloodpoints and a cosmetic from the <b>Moonlight Burrow</b> collection.Increased Bloodpoints awarded from Lunar New Year Generators and Hooks.",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/LunarNewYear/iconFavors_redMoneyPacket.png"
+    },
+    "RottenOak": {
+        "type": "hook",
+        "tags": [
+            "black",
+            "stack"
+        ],
+        "name": "Rotten Oak",
+        "description": "Calls upon The Entity to <b>Moderately decrease</b> the <b>distance</b> between sacrificial hooks appearing in the world.",
+        "role": "killer",
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_rottenOak.png"
+    },
+    "SacrificalWard": {
+        "type": "proceduralgeneration",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Sacrificial Ward",
+        "description": "Calls upon The Entity to reject all offerings that alter the chance of being sent to a specific realm.<br><br>This can only be canceled if four identical realm offerings are played.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Yemen/iconFavors_wardSacrificial.png"
+    },
+    "SaltPouch": {
+        "type": "luck",
+        "tags": [
+            "stack",
+            "white"
+        ],
+        "name": "Salt Pouch",
+        "description": "<b>Slightly increases</b> luck of <b>all</b> Survivors.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_saltPouch.png"
+    },
+    "ScratchedCoin": {
+        "type": "chest",
+        "tags": [
+            "black",
+            "stack"
+        ],
+        "name": "Scratched Coin",
+        "description": "Calls on The Entity to prevent the appearance of <b>1</b> chest.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_scratchedCoin.png"
+    },
+    "SealedEnvelope": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "white",
+            "notavailableinpartymode",
+            "personal"
+        ],
+        "name": "Sealed Envelope",
+        "description": "Grants <b>25%</b> bonus Bloodpoints in all categories.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_sealedEnvelope.png"
+    },
+    "ShatteredGlasses": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Shattered Glasses",
+        "description": "<b>Tremendously increases</b> the chances of being sent to L\u00e9ry's Memorial Institute when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/DLC4/iconFavors_shatteredGlasses.png"
+    },
+    "ShinyCoin": {
+        "type": "chest",
+        "tags": [
+            "white",
+            "stack"
+        ],
+        "name": "Shiny Coin",
+        "description": "Calls on The Entity to create <b>2</b> more chests.",
+        "role": "survivor",
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_shinyCoin.png"
+    },
+    "ShockSplinter": {
+        "type": "killer",
+        "tags": [
+            "notavailableinpartymode",
+            "black",
+            "mystery",
+            "not_available_for_killer07"
+        ],
+        "name": "Shock Splinter",
+        "description": "Allows you to take on the role of The Doctor for the next trial. <i>Your current perks and add-ons will not be used.</i><br><br>Secret.",
+        "role": "killer",
+        "rarity": "ultrarare",
+        "retired": 1,
+        "image": "UI/Icons/Favors/DLC4/iconFavors_shockSplinter.png"
+    },
+    "ShreddedPlate": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Shredded Plate",
+        "description": "<b>Slightly increases</b> the chances of being sent to the Autohaven Wreckers when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "common",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_plateShredded.png"
+    },
+    "ShrikeWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Shrike Wreath",
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Sacrifice category.",
+        "role": "killer",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_shrikeWreath.png"
+    },
+    "ShroudofBinding": {
+        "type": "position",
+        "tags": [
+            "white",
+            "mystery"
+        ],
+        "name": "Shroud of Binding",
+        "description": "All Survivors start the trial together.<br><br>Secret.",
+        "role": "survivor",
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_shroudOfBinding.png"
+    },
+    "ShroudofSeparation": {
+        "type": "position",
+        "tags": [
+            "black",
+            "mystery"
+        ],
+        "name": "Shroud of Separation",
+        "description": "All Survivors start the trial separated.<br><br>Secret.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_shroudOfSeparation.png"
+    },
+    "ShroudofUnion": {
+        "type": "position",
+        "tags": [
+            "white",
+            "mystery"
+        ],
+        "name": "Shroud of Union",
+        "description": "You start the trial with someone else.<br><br>Secret.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_shroudOfUnion.png"
+    },
+    "SignedLedgerPage": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Signed Ledger Page",
+        "description": "<b>Considerably increases</b> the chances of being sent to the MacMillan Estate when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_signedLedgerPage.png"
+    },
+    "SmokingSplinter": {
+        "type": "killer",
+        "tags": [
+            "notavailableinpartymode",
+            "black",
+            "mystery",
+            "not_available_for_nightmare"
+        ],
+        "name": "Smoking Splinter",
+        "description": "Allows you to take on the role of <b>The Nightmare</b> for the next trial. <i>Your current perks and add-ons will not be used.</i><br><br>Secret.<br>",
+        "role": "killer",
+        "rarity": "ultrarare",
+        "retired": 1,
+        "image": "UI/Icons/Favors/England/iconFavors_smokingSplinter.png"
+    },
+    "SpottedOwlWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Spotted Owl Wreath",
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Hunting category.",
+        "role": "killer",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_spottedOwlWreath.png"
+    },
+    "Spring2024Offering": {
+        "type": "points",
+        "tags": [
+            "notavailableinpartymode",
+            "personal",
+            "stack"
+        ],
+        "name": "Bloodshot Eye",
+        "description": "An eye filled with, and capable of finding, strange blood.<br><br>At the start of the trial, show the auras of <b>Fragile Blood Basins</b> for an additional <b>40 seconds</b>. <b>Blood Zones</b> stay protected for an additional <b>15 seconds</b> after their creation.Creating and removing a <b>Blood Zones</b> is <b>50% faster.</b>",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Spring/iconFavors_bloodshotEye.png"
+    },
+    "StrodeRealtyKey": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Strode Realty Key",
+        "description": "<b>Tremendously increases</b> the chances of being sent to Haddonfield when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/DLC2/iconFavors_strodeRealtyKey.png"
+    },
+    "SummerOffering": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "notavailableinpartymode"
+        ],
+        "name": "BBQ Invitation",
+        "description": "Has the distinct aroma of burning flesh.<br><br>Grants a <b>100% Bloodpoints bonus</b> to Summer hooks and finished Summer generator repairs.",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Summer/iconFavors_bbqInvitation.png"
+    },
+    "SurvivorPudding": {
+        "type": "points",
+        "tags": [
+            "black",
+            "stack",
+            "personal",
+            "notavailableinpartymode"
+        ],
+        "name": "Survivor Pudding",
+        "description": "Grants <b>100%</b> bonus Bloodpoints in all categories.<br><br>Personal.",
+        "role": "killer",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Anniversary/iconFavors_survivorPudding.png"
+    },
+    "SweetWilliamSachet": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "personal",
+            "white",
+            "notavailableinpartymode"
+        ],
+        "name": "Sweet William Sachet",
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Boldness category.<br><br>Personal.",
+        "role": "survivor",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_sweetWilliamSachet.png"
+    },
+    "TanagerWreath": {
+        "type": "points",
+        "tags": [
+            "stack",
+            "black",
+            "notavailableinpartymode"
+        ],
+        "name": "Tanager Wreath",
+        "description": "Grants <b>50%</b> bonus Bloodpoints in the Brutality category.",
+        "role": "killer",
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_tanagerWreath.png"
+    },
+    "TarnishedCoin": {
+        "type": "chest",
+        "tags": [
+            "white",
+            "stack"
+        ],
+        "name": "Tarnished Coin",
+        "description": "Calls on The Entity to create <b>1</b> more chest.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_tarnishedCoin.png"
+    },
+    "TheLastMask": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "The Last Mask",
+        "description": "<b>Tremendously increases</b> the chances of being sent to Red Forest when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/DLC5/iconFavors_theLastMask.png"
+    },
+    "ThePiedPiper": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "The Pied Piper",
+        "description": "<b>Tremendously increases</b> the chances of being sent to Springwood when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/England/iconFavors_thePiedPiper.png"
+    },
+    "TornBlueprint": {
+        "type": "proceduralgeneration",
+        "tags": [
+            "personal",
+            "stack"
+        ],
+        "name": "Torn Blueprint",
+        "description": "Reveals the aura of the basement hooks to you for <b>20 seconds</b> at the start of the trial. <b>Tremendously</b> increases the chance of spawning the basement in the main building, if the map has a main building.",
+        "role": null,
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Yemen/iconFavors_tornBlueprint.png"
+    },
+    "UkraineThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Shattered Bottle",
+        "description": "<b>Tremendously\u00a0increases</b>\u00a0the chance to be sent to Grave of Glenvale\u00a0when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Ukraine/iconFavors_ShatteredBottle.png"
+    },
+    "UmbraThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Alien Flora",
+        "description": "<b>Tremendously increases</b> the chance to be sent to <b>Toba Landing</b> when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Umbra/iconFavors_alienFlora.png"
+    },
+    "VigosBlueprint": {
+        "type": "proceduralgeneration",
+        "tags": [
+            "stack"
+        ],
+        "name": "Vigo\u2019s Blueprint",
+        "description": "<b>Tremendously</b> increases the chance of spawning the Hatch in the main building, if the map has a main building.",
+        "role": null,
+        "rarity": "common",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Yemen/iconFavors_vigosBlueprint.png"
+    },
+    "VigosJarOfSaltyLips": {
+        "type": "luck",
+        "tags": [
+            "stack",
+            "white"
+        ],
+        "name": "Vigo's Jar of Salty Lips",
+        "description": "<b>Considerably increases</b> luck of <b>all</b> Survivors.",
+        "role": "survivor",
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_jarOfSaltyLips.png"
+    },
+    "VigosShroud": {
+        "type": "position",
+        "tags": [
+            "personal",
+            "mystery",
+            "white"
+        ],
+        "name": "Vigo's Shroud",
+        "description": "You start the trial as far as possible from the Killer.<br><br>Secret.",
+        "role": "survivor",
+        "rarity": "uncommon",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_vigosShroud.png"
+    },
+    "VirginiaPlate": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme",
+            "notavailableinpartymode"
+        ],
+        "name": "Virginia Plate",
+        "description": "<b>Considerably increases</b> the chances of being sent to the Autohaven Wreckers when burnt.<br><br>Stacks.",
+        "role": null,
+        "rarity": "uncommon",
+        "retired": 1,
+        "image": "UI/Icons/Favors/iconFavors_plateVirginia.png"
+    },
+    "WalesThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Mary\u2019s Letter",
+        "description": "<b>Tremendously\u00a0increases</b>\u00a0the chance to be sent to Midwich\u00a0Elementary School\u00a0when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Wales/iconFavors_marysLetter.png"
+    },
+    "WhiteWard": {
+        "type": "protection",
+        "tags": [
+            "personal",
+            "white",
+            "ward"
+        ],
+        "name": "White Ward",
+        "description": "Burning this offering grants you protection against the loss of your item and add-ons.",
+        "role": "survivor",
+        "rarity": "veryrare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/iconFavors_wardWhite.png"
+    },
+    "WormholeThemeOffering": {
+        "type": "world",
+        "tags": [
+            "stack",
+            "theme"
+        ],
+        "name": "Airlock Doors",
+        "description": "<b>Tremendously increases</b> the chance to be sent to <b>Nostromo Wreckage</b> when burnt.",
+        "role": null,
+        "rarity": "rare",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Wormhole/iconFavors_airlockDoors.png"
+    }
+}

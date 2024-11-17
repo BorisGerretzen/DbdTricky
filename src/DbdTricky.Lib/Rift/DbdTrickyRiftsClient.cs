@@ -14,6 +14,6 @@ public class DbdTrickyRiftsClient(HttpClient http) : DbdTrickyBaseClient(http), 
     public Task<DbdTrickyRift?> GetRift(string tomeId, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?> { { "tome", tomeId } };
-        return Get<DbdTrickyRift?>("rifts", parameters, cancellationToken);
+        return GetOrDefault<DbdTrickyRift?>("rifts", parameters, cancellationToken);
     }
 }

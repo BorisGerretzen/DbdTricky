@@ -39,11 +39,13 @@ public class DbdTrickyBaseClient
     {
         if (parameters == null) return null;
         var sb = new StringBuilder();
+        var i = 0;
+        
         foreach(var (key, value) in parameters)
         {
             sb.Append(key);
             if(value != null) sb.Append('=').Append(value);
-            sb.Append('&');
+            if(i++ < parameters.Count - 1) sb.Append('&');
         }
         
         return sb.ToString();

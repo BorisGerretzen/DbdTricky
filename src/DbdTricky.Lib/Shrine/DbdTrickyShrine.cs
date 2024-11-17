@@ -19,8 +19,8 @@ public class DbdTrickyShrine
 
 public class DbdTrickyShrinePerk
 {
-    public string? Id { get; init; }
-    public required string Name { get; init; }
+    public required string Id { get; init; }
+    public string? Name { get; init; }
     public string? Description { get; init; }
     public string? Image { get; init; }
     public string? Character { get; init; }

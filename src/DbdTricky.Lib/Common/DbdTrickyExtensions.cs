@@ -22,7 +22,7 @@ namespace DbdTricky.Lib.Common;
 
 public static class DbdTrickyExtensions
 {
-    public static string ToString(this DbdTrickyRole role)
+    public static string AsString(this DbdTrickyRole role)
     {
         return role switch
         {

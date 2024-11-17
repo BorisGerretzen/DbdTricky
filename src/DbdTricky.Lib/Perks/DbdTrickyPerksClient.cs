@@ -21,10 +21,10 @@ public class DbdTrickyPerksClient(HttpClient http) : DbdTrickyBaseClient(http), 
     }
 
     /// <inheritdoc />
-    public Task<Dictionary<string, DbdTrickyPerk>> GetRandom(DbdTrickyRole? role, CancellationToken cancellationToken = default)
+    public Task<Dictionary<string, DbdTrickyPerk>> GetRandom(DbdTrickyRole? role = null, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
-        if (role.HasValue) parameters.Add("role", role.Value.ToString());
+        if (role.HasValue) parameters.Add("role", role.Value.AsString());
 
         return Get<Dictionary<string, DbdTrickyPerk>>("randomperks", parameters, cancellationToken);
     }

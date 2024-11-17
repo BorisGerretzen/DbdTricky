@@ -8,7 +8,7 @@ public class DbdTrickyItemsClient(HttpClient http) : DbdTrickyBaseClient(http), 
     public Task<Dictionary<string, DbdTrickyItem>> GetItems(DbdTrickyRole? role = null, string? type = null, string? itemType = null, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
-        if(role.HasValue) parameters.Add("role", role.Value.ToString());
+        if(role.HasValue) parameters.Add("role", role.Value.AsString());
         if(!string.IsNullOrWhiteSpace(type)) parameters.Add("type", type);
         if(!string.IsNullOrWhiteSpace(itemType)) parameters.Add("itemtype", itemType);
         

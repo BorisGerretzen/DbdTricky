@@ -1,4 +1,5 @@
-﻿using DbdTricky.Lib.Common;
+﻿using System.Text.Json.Serialization;
+using DbdTricky.Lib.Common;
 
 namespace DbdTricky.Lib.Customizations;
 
@@ -10,7 +11,7 @@ public class DbdTrickyCustomization
     public string? Description { get; init; }
     public string? Collection { get; init; }
     public long? Character { get; init; }
-    public DbdTrickyRole? Role { get; init; }
+    [JsonConverter(typeof(JsonStringEnumConverter<DbdTrickyRole>))] public DbdTrickyRole? Role { get; init; }
     public required string Rarity { get; init; }
     public string? Outfit { get; init; }
     public List<string>? Items { get; init; }

@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics.Contracts;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
+using DbdTricky.Lib.Common;
 
 namespace DbdTricky.Lib.Perks;
 
@@ -9,7 +10,7 @@ public partial record DbdTrickyPerk
     public List<string>? Categories { get; init; }
     public required string Name { get; init; }
     public required string Description { get; init; }
-    public required string Role { get; init; }
+    [JsonConverter(typeof(JsonStringEnumConverter<DbdTrickyRole>))] public required DbdTrickyRole Role { get; init; }
     public long? Character { get; init; }
     public required string Image { get; init; }
     public required int Teachable { get; init; }

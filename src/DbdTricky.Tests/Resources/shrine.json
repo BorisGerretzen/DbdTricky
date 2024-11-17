@@ -1,0 +1,27 @@
+{
+    "id": 247,
+    "perks": [
+        {
+            "id": "Coulrophobia",
+            "bloodpoints": 100000,
+            "shards": 2000
+        },
+        {
+            "id": "Enduring",
+            "bloodpoints": 100000,
+            "shards": 2000
+        },
+        {
+            "id": "S43P01",
+            "bloodpoints": 100000,
+            "shards": 2000
+        },
+        {
+            "id": "S43P03",
+            "bloodpoints": 100000,
+            "shards": 2000
+        }
+    ],
+    "start": 1731423600,
+    "end": 1732028399
+}

@@ -1,0 +1,43 @@
+﻿{
+  "id": 247,
+  "perks": [
+    {
+      "id": "coulrophobia",
+      "name": "Coulrophobia",
+      "description": "Even those without a fear of clowns know to be terrified of you.<br><br>Survivors within your Terror Radius have a 30/40/50% penalty to healing progression speed, and healing Skill Checks move 50% faster.<br>",
+      "image": "UI/Icons/Perks/Guam/iconPerks_coulrophobia.png",
+      "character": "The Clown",
+      "bloodpoints": 100000,
+      "shards": 2000
+    },
+    {
+      "id": "enduring",
+      "name": "Enduring",
+      "description": "You are resilient to pain.<br><br>You reduce the duration of <b>pallet stuns</b> by 40/45/50%. Has no effect while carrying a Survivor.",
+      "image": "UI/Icons/Perks/iconPerks_enduring.png",
+      "character": "The Hillbilly",
+      "bloodpoints": 100000,
+      "shards": 2000
+    },
+    {
+      "id": "s43p01",
+      "name": "Finesse",
+      "description": "The threat of danger can motivate any creature to strengthen its resolve.<br><br>This perk activates when you are healthy.<br><br><li>Your fast vaults are 20% faster.</li><br><br>This perk goes on cooldown for 40/35/30 seconds after performing a fast vault.<br><br>\"Just need to push myself a bit further.\" - Lara Croft",
+      "image": "UI/Icons/Perks/Donut/iconPerks_Finesse.png",
+      "character": "Lara Croft",
+      "bloodpoints": 100000,
+      "shards": 2000
+    },
+    {
+      "id": "s43p03",
+      "name": "Specialist",
+      "description": "Adventure. Exploration. Excavation. You are in your element.<br><br>Each time you open or rummage through a chest, gain <b>1 token</b>, up to 6.<br><br>When you perform a great Skill Check on a generator, consume <b>all tokens</b>. Then, for each token consumed, reduce the maximum required generator progress by 2/3/4.<br><br>\"Well, then. Doesn't this feel familiar?\" - Lara Croft",
+      "image": "UI/Icons/Perks/Donut/iconPerks_Specialist.png",
+      "character": "Lara Croft",
+      "bloodpoints": 100000,
+      "shards": 2000
+    }
+  ],
+  "start": 1731423600,
+  "end": 1732028399
+}

@@ -2,6 +2,7 @@
 
 public class DbdTrickyModifier
 {
-    public required string Key { get; init; }
-    public required float Value { get; init; }
+    public string? Conditions { get; init; }
+    public string? Key { get; init; }
+    public float? Value { get; init; }
 }

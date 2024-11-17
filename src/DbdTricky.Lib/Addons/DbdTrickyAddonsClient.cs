@@ -9,7 +9,7 @@ public class DbdTrickyAddonsClient(HttpClient http) : DbdTrickyBaseClient(http),
         CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
-        if (role.HasValue) parameters.Add("role", role.Value.ToString());
+        if (role.HasValue) parameters.Add("role", role.Value.AsString());
         if (itemType != null) parameters.Add("item_type", itemType);
         if (item != null) parameters.Add("item", item);
 

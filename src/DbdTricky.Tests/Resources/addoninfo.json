@@ -1,0 +1,18 @@
+{
+    "id": "ADDON_flashlight_lonflifebattery",
+    "type": "itemaddon",
+    "item_type": "flashlight",
+    "parents": [],
+    "name": "Long Life Battery",
+    "description": "A recent model of battery that lasts longer.<br><br>Adds <b>6 seconds</b> of use to the Flashlight.",
+    "role": "survivor",
+    "modifiers": [
+        {
+            "key": "ModifyItemMaxCharge",
+            "value": 6
+        }
+    ],
+    "bloodweb": 1,
+    "rarity": "rare",
+    "image": "UI/Icons/ItemAddons/iconAddon_longLifeBattery.png"
+}

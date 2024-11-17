@@ -1,0 +1,21 @@
+{
+    "index": 3,
+    "id": "Jake",
+    "alias": "jake",
+    "name": "Jake Park",
+    "role": "survivor",
+    "difficulty": "none",
+    "gender": "male",
+    "height": "average",
+    "bio": "A solitary survivalist, able to hold his own in most situations.<br><br>His personal perks, <b>Iron Will</b>, <b>Calm Spirit</b> and <b>Saboteur</b>, allow him to more effectively move about the environment and survive while injured.",
+    "story": "Growing up the son of a wealthy CEO was always going to put pressure on Jake Park. When his brother graduated with honors from Yale the pressure on Jake intensified. Jake just wasn't the academic type, but his father never really understood his refusal to embrace the expensive education he lavished upon him. Eventually, Jake rebelled by dropping out of school entirely.<br><br>Now, Jake lives off the grid on the edge of the woods. It\u2019s been years since he spoke to his father but his mother checks in once in a while. It was she who eventually called the police.<br><br>The cops said he got lost in the woods and a search party looked for days, but gave up as bad weather rolled in. Despite passionate pleas from his mother, they never resumed the search and Jake went down in history as another casualty of the woods.",
+    "tunables": null,
+    "item": null,
+    "outfit": [
+        "J_Head01",
+        "J_Torso01",
+        "J_Legs01"
+    ],
+    "dlc": null,
+    "image": "UI/Icons/CharPortraits/S04_JakePark_Portrait.png"
+}

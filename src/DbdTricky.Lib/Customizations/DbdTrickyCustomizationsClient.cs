@@ -5,7 +5,7 @@ namespace DbdTricky.Lib.Customizations;
 public class DbdTrickyCustomizationsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyCustomizationsClient
 {
     /// <inheritdoc />
-    public Task<Dictionary<string, DbdTrickyCustomization>> GetCustomizations(string? character, string? type, CancellationToken cancellationToken = default)
+    public Task<Dictionary<string, DbdTrickyCustomization>> GetCustomizations(string? character = null, string? type = null, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
         if (character is not null) parameters.Add("character", character);
@@ -19,6 +19,6 @@ public class DbdTrickyCustomizationsClient(HttpClient http) : DbdTrickyBaseClien
     {
         var parameters = new Dictionary<string, string?> { { "item", itemId } };
 
-        return GetOrDefault<DbdTrickyCustomization>("customizations", parameters, cancellationToken);
+        return GetOrDefault<DbdTrickyCustomization>("customizationinfo", parameters, cancellationToken);
     }
 }

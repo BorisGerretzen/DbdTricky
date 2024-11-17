@@ -1,11 +1,12 @@
 ﻿using System.Text.Json.Serialization;
+using DbdTricky.Lib.Common;
 
 namespace DbdTricky.Lib.Characters;
 
 public class DbdTrickyCharacter
 {
     public required string Name { get; init; }
-    public required string Role { get; init; }
+    [JsonConverter(typeof(JsonStringEnumConverter<DbdTrickyRole>))] public required DbdTrickyRole Role { get; init; }
     public required string Image { get; init; }
     public required string Difficulty { get; init; }
     public required string Gender { get; init; }

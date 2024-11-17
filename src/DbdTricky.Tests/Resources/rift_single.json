@@ -1,0 +1,613 @@
+﻿{
+  "tiers": 70,
+  "free": {
+    "2": [
+      {
+        "amount": 1,
+        "id": "RW_030",
+        "type": "item"
+      }
+    ],
+    "4": [
+      {
+        "amount": 1,
+        "id": "RW_025",
+        "type": "item"
+      }
+    ],
+    "7": [
+      {
+        "amount": 1,
+        "id": "RW_014",
+        "type": "item"
+      }
+    ],
+    "10": [
+      {
+        "amount": 1,
+        "id": "RW_005",
+        "type": "item"
+      }
+    ],
+    "14": [
+      {
+        "amount": 1,
+        "id": "NK_Torso002_03",
+        "type": "item"
+      }
+    ],
+    "18": [
+      {
+        "amount": 1,
+        "id": "RW_021",
+        "type": "item"
+      }
+    ],
+    "23": [
+      {
+        "amount": 1,
+        "id": "BE_Mask03_01",
+        "type": "item"
+      }
+    ],
+    "28": [
+      {
+        "amount": 1,
+        "id": "DK_Legs002_03",
+        "type": "item"
+      }
+    ],
+    "33": [
+      {
+        "amount": 1,
+        "id": "WI_W03_01",
+        "type": "item"
+      }
+    ],
+    "38": [
+      {
+        "amount": 1,
+        "id": "RW_016",
+        "type": "item"
+      }
+    ],
+    "43": [
+      {
+        "amount": 1,
+        "id": "RW_010",
+        "type": "item"
+      }
+    ],
+    "49": [
+      {
+        "amount": 1,
+        "id": "RW_007",
+        "type": "item"
+      }
+    ],
+    "55": [
+      {
+        "amount": 1,
+        "id": "TR_W009",
+        "type": "item"
+      }
+    ],
+    "63": [
+      {
+        "amount": 1,
+        "id": "CM_Head011",
+        "type": "item"
+      }
+    ],
+    "70": [
+      {
+        "amount": 1,
+        "id": "RW_017",
+        "type": "item"
+      }
+    ]
+  },
+  "premium": {
+    "1": [
+      {
+        "amount": 1,
+        "id": "RW_009",
+        "type": "item"
+      },
+      {
+        "amount": 1,
+        "id": "RW_012",
+        "type": "item"
+      },
+      {
+        "amount": 1,
+        "id": "RW_023",
+        "type": "item"
+      }
+    ],
+    "2": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "3": [
+      {
+        "amount": 1,
+        "id": "RW_015",
+        "type": "item"
+      }
+    ],
+    "4": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "5": [
+      {
+        "amount": 1,
+        "id": "JP_Torso010",
+        "type": "item"
+      }
+    ],
+    "6": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "7": [
+      {
+        "amount": 1,
+        "id": "TN_Head009",
+        "type": "item"
+      }
+    ],
+    "8": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "9": [
+      {
+        "amount": 1,
+        "id": "TW_Body009",
+        "type": "item"
+      }
+    ],
+    "10": [
+      {
+        "amount": 1,
+        "id": "RW_031",
+        "type": "item"
+      }
+    ],
+    "11": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "12": [
+      {
+        "amount": 1,
+        "id": "RW_026",
+        "type": "item"
+      }
+    ],
+    "13": [
+      {
+        "amount": 1,
+        "id": "JP_Legs010",
+        "type": "item"
+      }
+    ],
+    "14": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "15": [
+      {
+        "amount": 1,
+        "id": "TN_Body009",
+        "type": "item"
+      }
+    ],
+    "16": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "17": [
+      {
+        "amount": 1,
+        "id": "TW_W009",
+        "type": "item"
+      }
+    ],
+    "18": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "19": [
+      {
+        "amount": 1,
+        "id": "MT_Head004_03",
+        "type": "item"
+      }
+    ],
+    "20": [
+      {
+        "amount": 1,
+        "id": "RW_032",
+        "type": "item"
+      }
+    ],
+    "21": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "22": [
+      {
+        "amount": 1,
+        "id": "JP_Head010",
+        "type": "item"
+      }
+    ],
+    "23": [
+      {
+        "amount": 1,
+        "id": "TN_W009",
+        "type": "item"
+      }
+    ],
+    "24": [
+      {
+        "amount": 1,
+        "id": "MT_Torso004_03",
+        "type": "item"
+      }
+    ],
+    "25": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "26": [
+      {
+        "amount": 1,
+        "id": "RW_027",
+        "type": "item"
+      }
+    ],
+    "27": [
+      {
+        "amount": 1,
+        "id": "TR_Mask009",
+        "type": "item"
+      }
+    ],
+    "28": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "29": [
+      {
+        "amount": 1,
+        "id": "RW_033",
+        "type": "item"
+      }
+    ],
+    "30": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "31": [
+      {
+        "amount": 1,
+        "id": "TW_Head009",
+        "type": "item"
+      }
+    ],
+    "32": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "33": [
+      {
+        "amount": 1,
+        "id": "CM_Torso011",
+        "type": "item"
+      }
+    ],
+    "34": [
+      {
+        "amount": "25",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "35": [
+      {
+        "amount": 1,
+        "id": "MT_Legs004_03",
+        "type": "item"
+      }
+    ],
+    "36": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "37": [
+      {
+        "amount": 1,
+        "id": "RW_028",
+        "type": "item"
+      }
+    ],
+    "38": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "39": [
+      {
+        "amount": 1,
+        "id": "TR_Body009",
+        "type": "item"
+      }
+    ],
+    "40": [
+      {
+        "amount": 1,
+        "id": "RW_019",
+        "type": "item"
+      }
+    ],
+    "41": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "42": [
+      {
+        "amount": 1,
+        "id": "RW_006",
+        "type": "item"
+      }
+    ],
+    "43": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "44": [
+      {
+        "amount": 1,
+        "id": "DF_Head001_03",
+        "type": "item"
+      }
+    ],
+    "45": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "46": [
+      {
+        "amount": 1,
+        "id": "TC_Torso05_03",
+        "type": "item"
+      }
+    ],
+    "47": [
+      {
+        "amount": 1,
+        "id": "CM_Legs011",
+        "type": "item"
+      }
+    ],
+    "48": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "49": [
+      {
+        "amount": 1,
+        "id": "BE_W006_01",
+        "type": "item"
+      }
+    ],
+    "50": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "51": [
+      {
+        "amount": 1,
+        "id": "RW_020",
+        "type": "item"
+      }
+    ],
+    "52": [
+      {
+        "amount": 1,
+        "id": "WI_Body03_01",
+        "type": "item"
+      }
+    ],
+    "53": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "54": [
+      {
+        "amount": 1,
+        "id": "DF_Legs001_03",
+        "type": "item"
+      }
+    ],
+    "55": [
+      {
+        "amount": 1,
+        "id": "RW_034",
+        "type": "item"
+      }
+    ],
+    "56": [
+      {
+        "amount": 1,
+        "id": "RW_022",
+        "type": "item"
+      }
+    ],
+    "57": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "58": [
+      {
+        "amount": 1,
+        "id": "NK_Head003_03",
+        "type": "item"
+      }
+    ],
+    "59": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "60": [
+      {
+        "amount": 1,
+        "id": "TC_W05_03",
+        "type": "item"
+      }
+    ],
+    "61": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "62": [
+      {
+        "amount": 1,
+        "id": "DF_Torso001_03",
+        "type": "item"
+      }
+    ],
+    "63": [
+      {
+        "amount": 1,
+        "id": "RW_029",
+        "type": "item"
+      }
+    ],
+    "64": [
+      {
+        "amount": 1,
+        "id": "DK_Torso001_03",
+        "type": "item"
+      }
+    ],
+    "65": [
+      {
+        "amount": 1,
+        "id": "RW_011",
+        "type": "item"
+      }
+    ],
+    "66": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "67": [
+      {
+        "amount": 1,
+        "id": "RW_008",
+        "type": "item"
+      }
+    ],
+    "68": [
+      {
+        "amount": "50",
+        "id": "Cells",
+        "type": "currency"
+      }
+    ],
+    "69": [
+      {
+        "amount": 1,
+        "id": "TC_Legs05_03",
+        "type": "item"
+      }
+    ],
+    "70": [
+      {
+        "amount": 1,
+        "id": "RW_024",
+        "type": "item"
+      }
+    ]
+  },
+  "start": 1572307200
+}

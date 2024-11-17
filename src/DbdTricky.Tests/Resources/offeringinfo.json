@@ -1,0 +1,14 @@
+{
+    "id": "BloodyPartyStreamers",
+    "type": "points",
+    "tags": [
+        "stack",
+        "notavailableinpartymode"
+    ],
+    "name": "Bloody Party Streamers",
+    "description": "Grants <b>100%</b> bonus Bloodpoints in all categories for all players this trial.",
+    "role": null,
+    "rarity": "rare",
+    "retired": 0,
+    "image": "UI/Icons/Favors/Anniversary/iconFavors_bloodyPartyStreamers.png"
+}

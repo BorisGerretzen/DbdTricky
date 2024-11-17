@@ -1,0 +1,562 @@
+[
+    {
+        "event": "BPEVENT_Bloodfeast_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODFEAST!",
+        "multiplier": 2,
+        "start": 1441929600,
+        "end": 1442016000
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1444521600,
+        "end": 1444694400
+    },
+    {
+        "event": "Halloween2017",
+        "type": "special",
+        "name": "Halloween Event",
+        "multiplier": 0,
+        "start": 1508436000,
+        "end": 1509645600
+    },
+    {
+        "event": "Winter2017",
+        "type": "special",
+        "name": "Winter Event",
+        "multiplier": 0,
+        "start": 1513188000,
+        "end": 1515002400
+    },
+    {
+        "event": "Winter2019",
+        "type": "special",
+        "name": null,
+        "multiplier": 0,
+        "start": 1513188000,
+        "end": 1515002400
+    },
+    {
+        "event": "Lunar",
+        "type": "special",
+        "name": "Howling Grounds",
+        "multiplier": 0,
+        "start": 1518721200,
+        "end": 1520276400
+    },
+    {
+        "event": "Summer",
+        "type": "special",
+        "name": "SCORCHING SUMMER BBQ",
+        "multiplier": 0,
+        "start": 1533654000,
+        "end": 1534863600
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1537488000,
+        "end": 1538006400
+    },
+    {
+        "event": "Halloween2018",
+        "type": "special",
+        "name": "The Hallowed Blight",
+        "multiplier": 0,
+        "start": 1539972000,
+        "end": 1541181600
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 1.5,
+        "start": 1541444400,
+        "end": 1542049200
+    },
+    {
+        "event": "Winter2018",
+        "type": "special",
+        "name": "Winter Event",
+        "multiplier": 0,
+        "start": 1545073200,
+        "end": 1546542000
+    },
+    {
+        "event": "BPEVENT_WinterBloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "Winter Festival Bloodhunt",
+        "multiplier": 2,
+        "start": 1545937200,
+        "end": 1546542000
+    },
+    {
+        "event": "Lunar2019",
+        "type": "special",
+        "name": "MOONRISE",
+        "multiplier": 0,
+        "start": 1548874800,
+        "end": 1550084400
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1556820000,
+        "end": 1557165600
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1560535200,
+        "end": 1561053600
+    },
+    {
+        "event": "Anniversary2019",
+        "type": "special",
+        "name": "THIRD YEAR ANNIVERSARY",
+        "multiplier": 0,
+        "start": 1560880800,
+        "end": 1562090400
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1569510000,
+        "end": 1569855600
+    },
+    {
+        "event": "Halloween2019",
+        "type": "special",
+        "name": "WITHERING BLIGHT",
+        "multiplier": 0,
+        "start": 1572307200,
+        "end": 1573660800
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1572534000,
+        "end": 1572879600
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1577980800,
+        "end": 1578326400
+    },
+    {
+        "event": "Lunar2020",
+        "type": "special",
+        "name": "SCARLET SWARM",
+        "multiplier": 0,
+        "start": 1579622400,
+        "end": 1580832000
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 1.5,
+        "start": 1585148400,
+        "end": 1586962800
+    },
+    {
+        "event": "Anniversary2020",
+        "type": "special",
+        "name": "FOURTH YEAR ANNIVERSARY",
+        "multiplier": 0,
+        "start": 1592924400,
+        "end": 1594738800
+    },
+    {
+        "event": "Halloween2020",
+        "type": "special",
+        "name": "THE ETERNAL BLIGHT",
+        "multiplier": 0,
+        "start": 1603292400,
+        "end": 1604505600
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1603983600,
+        "end": 1604334599
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 1.5,
+        "start": 1610726400,
+        "end": 1611331200
+    },
+    {
+        "event": "Lunar2021",
+        "type": "special",
+        "name": "GILDED STAMPEDE",
+        "multiplier": 0,
+        "start": 1613059200,
+        "end": 1614268800
+    },
+    {
+        "event": "Gnome2021",
+        "type": "special",
+        "name": null,
+        "multiplier": 0,
+        "start": 1620831600,
+        "end": 1622646000
+    },
+    {
+        "event": "Anniversary2021",
+        "type": "special",
+        "name": "FIFTH YEAR ANNIVERSARY",
+        "multiplier": 0,
+        "start": 1625065200,
+        "end": 1626966000
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1627570800,
+        "end": 1628002800
+    },
+    {
+        "event": "Halloween2021",
+        "type": "special",
+        "name": "THE MIDNIGHT GROVE",
+        "multiplier": 0,
+        "start": 1634828400,
+        "end": 1635955200
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1637856000,
+        "end": 1638201600
+    },
+    {
+        "event": "Winter2021",
+        "type": "special",
+        "name": "BONE CHILL",
+        "multiplier": 0,
+        "start": 1639065600,
+        "end": 1640275200
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 1.5,
+        "start": 1642176000,
+        "end": 1642780800
+    },
+    {
+        "event": "Lunar2022",
+        "type": "special",
+        "name": "LURKING STRIPES",
+        "multiplier": 0,
+        "start": 1643137200,
+        "end": 1644346800
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 1.5,
+        "start": 1646064000,
+        "end": 1646668800
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1653318000,
+        "end": 1653922800
+    },
+    {
+        "event": "Anniversary2022",
+        "type": "special",
+        "name": "TWISTED MASQUERADE",
+        "multiplier": 0,
+        "start": 1655393400,
+        "end": 1656603000
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1655996400,
+        "end": 1656342000
+    },
+    {
+        "event": "Halloween2022",
+        "type": "special",
+        "name": "HAUNTED BY DAYLIGHT",
+        "multiplier": 0,
+        "start": 1665673200,
+        "end": 1667487600
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 2,
+        "start": 1669132800,
+        "end": 1669737600
+    },
+    {
+        "event": "Winter2022",
+        "type": "special",
+        "name": "BONE CHILL",
+        "multiplier": 0,
+        "start": 1670515200,
+        "end": 1672848000
+    },
+    {
+        "event": "Lunar2023Mini",
+        "type": "special",
+        "name": "MOONLIGHT BURROW",
+        "multiplier": 0,
+        "start": 1673971200,
+        "end": 1674583200
+    },
+    {
+        "event": "Lunar2023",
+        "type": "special",
+        "name": "MOONLIGHT BURROW",
+        "multiplier": 0,
+        "start": 1674583200,
+        "end": 1676415600
+    },
+    {
+        "event": "Barrel2023",
+        "type": "special",
+        "name": null,
+        "multiplier": 0,
+        "start": 1678806000,
+        "end": 1679324400
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1684854000,
+        "end": 1685458800
+    },
+    {
+        "event": "Anniversary2023",
+        "type": "special",
+        "name": "TWISTED MASQUERADE",
+        "multiplier": 0,
+        "start": 1687446000,
+        "end": 1689260400
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 1.5,
+        "start": 1688742000,
+        "end": 1689260400
+    },
+    {
+        "event": "Summer2023",
+        "type": "special",
+        "name": "SCORCHING BBQ",
+        "multiplier": 0,
+        "start": 1691074800,
+        "end": 1692284400
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 1.5,
+        "start": 1694530800,
+        "end": 1695135600
+    },
+    {
+        "event": "Halloween2023",
+        "type": "special",
+        "name": "HAUNTED BY DAYLIGHT",
+        "multiplier": 0,
+        "start": 1697652000,
+        "end": 1699297200
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1698678000,
+        "end": 1699286400
+    },
+    {
+        "event": "Winter2023",
+        "type": "special",
+        "name": "BONE CHILL",
+        "multiplier": 0,
+        "start": 1702569600,
+        "end": 1704384000
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1703260800,
+        "end": 1703606400
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1705420800,
+        "end": 1706630400
+    },
+    {
+        "event": "DreadByDaylightZodiac",
+        "type": "special",
+        "name": "LIGHTS OUT",
+        "multiplier": 0,
+        "start": 1707321600,
+        "end": 1707926400
+    },
+    {
+        "event": "BPEVENT_Bloodrush_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODRUSH!",
+        "multiplier": 1.5,
+        "start": 1707926400,
+        "end": 1708444800
+    },
+    {
+        "event": "EddieZodiac",
+        "type": "special",
+        "name": "@#EVENT_Eddie_TITLE",
+        "multiplier": 0,
+        "start": 1708617600,
+        "end": 1710259200
+    },
+    {
+        "event": "Spring2024",
+        "type": "special",
+        "name": "BLOOD MOON",
+        "multiplier": 0,
+        "start": 1710774000,
+        "end": 1711897200
+    },
+    {
+        "event": "CakeApplepie",
+        "type": "special",
+        "name": "MY LITTLE ONI",
+        "multiplier": 0,
+        "start": 1711976400,
+        "end": 1712149200
+    },
+    {
+        "event": "ChocolateBoxV1",
+        "type": "special",
+        "name": "CHAOS SHUFFLE",
+        "multiplier": 0,
+        "start": 1714662000,
+        "end": 1715266800
+    },
+    {
+        "event": "BPEVENT_Bloodfeast_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODFEAST!",
+        "multiplier": 3,
+        "start": 1715702400,
+        "end": 1716303600
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1717426800,
+        "end": 1718290800
+    },
+    {
+        "event": "Anniversary2024",
+        "type": "special",
+        "name": "TWISTED MASQUERADE",
+        "multiplier": 0,
+        "start": 1718290800,
+        "end": 1720105200
+    },
+    {
+        "event": "CalamariV1",
+        "type": "special",
+        "name": null,
+        "multiplier": 0,
+        "start": 1721919600,
+        "end": 1723734000
+    },
+    {
+        "event": "BPEVENT_Bloodhunt_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODHUNT!",
+        "multiplier": 2,
+        "start": 1725548400,
+        "end": 1726153200
+    },
+    {
+        "event": "FireflyV1",
+        "type": "special",
+        "name": "LIGHTS OUT - CASTLEVANIA",
+        "multiplier": 0,
+        "start": 1726153200,
+        "end": 1726758000
+    },
+    {
+        "event": "ChocolateBoxEclair",
+        "type": "special",
+        "name": "CHAOS SHUFFLE",
+        "multiplier": 0,
+        "start": 1727190000,
+        "end": 1728399600
+    },
+    {
+        "event": "BPEVENT_Bloodfeast_NAME",
+        "type": "bloodpoints",
+        "name": "BLOODFEAST!",
+        "multiplier": 3,
+        "start": 1727190000,
+        "end": 1727794800
+    },
+    {
+        "event": "Halloween2024",
+        "type": "special",
+        "name": "HAUNTED BY DAYLIGHT",
+        "multiplier": 0,
+        "start": 1729177200,
+        "end": 1730991600
+    }
+]

@@ -8,7 +8,7 @@ public class DbdTrickyOfferingsClient(HttpClient http) : DbdTrickyBaseClient(htt
     public Task<Dictionary<string, DbdTrickyOffering>> GetOfferings(DbdTrickyRole? role = null, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
-        if (role.HasValue) parameters.Add("role", role.Value.ToString());
+        if (role.HasValue) parameters.Add("role", role.Value.AsString());
 
         return Get<Dictionary<string, DbdTrickyOffering>>("offerings", parameters, cancellationToken);
     }
