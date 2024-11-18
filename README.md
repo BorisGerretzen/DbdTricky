@@ -1,6 +1,6 @@
 ﻿# DbdTricky.Net
 
-[![NuGet](https://img.shields.io/nuget/v/DbdTricky.Net.svg)](https://www.nuget.org/packages/DbdTricky.Net/)
+[![NuGet](https://img.shields.io/nuget/v/DbdTricky.Lib.svg)](https://www.nuget.org/packages/DbdTricky.Lib/)
 
 This project is not affiliated with Dead by Daylight or with https://dbd.tricky.lol.
 
