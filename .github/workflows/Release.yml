@@ -36,6 +36,10 @@ jobs:
             .nuke/temp
             ~/.nuget/packages
           key: ${{ runner.os }}-${{ hashFiles('**/global.json', '**/*.csproj', '**/Directory.Packages.props') }}
+      - name: 'Setup: .NET Core SDK'
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.x'
       - name: 'Run: Pack, Push'
         run: ./build.cmd Pack Push
         env:

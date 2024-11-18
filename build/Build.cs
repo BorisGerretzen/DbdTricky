@@ -11,12 +11,14 @@ using static Nuke.Common.Tools.Git.GitTasks;
 
 [GitHubActions("Release",
     GitHubActionsImage.UbuntuLatest,
+    AutoGenerate = false,
     InvokedTargets = [nameof(Pack), nameof(Push)],
     EnableGitHubToken = true,
     OnWorkflowDispatchRequiredInputs = [nameof(PackageVersion)])]
 [GitHubActions(
     "Test",
     GitHubActionsImage.UbuntuLatest,
+    AutoGenerate = false,
     InvokedTargets = [nameof(Test)],
     On = [GitHubActionsTrigger.Push, GitHubActionsTrigger.PullRequest])]
 class Build : NukeBuild
