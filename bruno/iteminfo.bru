@@ -1,16 +1,16 @@
 meta {
   name: iteminfo
   type: http
-  seq: 11
+  seq: 12
 }
 
 get {
-  url: {{url}}/iteminfo?item=Item_Slasher_TormentMode
+  url: {{url}}/iteminfo?item=Item_Slasher_TormentMode&includeaddons
   body: none
   auth: none
 }
 
 params:query {
   item: Item_Slasher_TormentMode
-  ~includeaddons: 
+  includeaddons: 
 }

@@ -9640,6 +9640,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Dwight/DF_Head033.png"
     },
+    "DF_Head035": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 0,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "DF_outfit_035",
+        "items": null,
+        "image": "UI/Icons/Customization/Dwight/DF_Head035.png"
+    },
     "DF_Head03_01": {
         "type": "item",
         "category": "head",
@@ -10355,6 +10368,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Dwight/DF_Legs033.png"
     },
+    "DF_Legs035": {
+        "type": "item",
+        "category": "legs",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 0,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "DF_outfit_035",
+        "items": null,
+        "image": "UI/Icons/Customization/Dwight/DF_Legs035.png"
+    },
     "DF_Legs05": {
         "type": "item",
         "category": "legs",
@@ -10860,6 +10886,23 @@
             "DF_Legs033"
         ],
         "image": "UI/Icons/Customization/Dwight/DF_outfit_033.png"
+    },
+    "DF_outfit_035": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 0,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "DF_Head035",
+            "DF_Torso035",
+            "DF_Legs035"
+        ],
+        "image": "UI/Icons/Customization/Dwight/DF_outfit_035.png"
     },
     "DF_Torso001": {
         "type": "item",
@@ -11536,6 +11579,19 @@
         "outfit": "DF_outfit_033",
         "items": null,
         "image": "UI/Icons/Customization/Dwight/DF_Torso033.png"
+    },
+    "DF_Torso035": {
+        "type": "item",
+        "category": "torso",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 0,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "DF_outfit_035",
+        "items": null,
+        "image": "UI/Icons/Customization/Dwight/DF_Torso035.png"
     },
     "DF_Torso03_01": {
         "type": "item",
@@ -20864,6 +20920,19 @@
         "items": null,
         "image": "UI/Icons/PlayerCards/Badges/Fudge/Release/Icons/FU_BDG_09.png"
     },
+    "FU_BDG_15": {
+        "type": "playercard",
+        "category": "badge",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Fudge/HF1/Icons/FU_BDG_15.png"
+    },
     "FU_BDG_18": {
         "type": "playercard",
         "category": "badge",
@@ -20980,6 +21049,19 @@
         "outfit": null,
         "items": null,
         "image": "UI/Icons/PlayerCards/Banners/Fudge/Release/Icons/FU_BNR_08_icon.png"
+    },
+    "FU_BNR_09": {
+        "type": "playercard",
+        "category": "banner",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Banners/Fudge/HF1/Icons/FU_BNR_09_icon.png"
     },
     "FU_BNR_12": {
         "type": "playercard",
@@ -21319,6 +21401,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Clown/GK_Body022.png"
     },
+    "GK_Body023": {
+        "type": "item",
+        "category": "body",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435467,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "GK_outfit_023",
+        "items": null,
+        "image": "UI/Icons/Customization/Clown/GK_Body023.png"
+    },
     "GK_Body02_03": {
         "type": "item",
         "category": "body",
@@ -21657,6 +21752,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Clown/GK_Head022.png"
     },
+    "GK_Head023": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435467,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "GK_outfit_023",
+        "items": null,
+        "image": "UI/Icons/Customization/Clown/GK_Head023.png"
+    },
     "GK_Head02_03": {
         "type": "item",
         "category": "head",
@@ -21886,6 +21994,23 @@
             "GK_W022"
         ],
         "image": "UI/Icons/Customization/Clown/GK_outfit_022.png"
+    },
+    "GK_outfit_023": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435467,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "GK_Head023",
+            "GK_Body023",
+            "GK_W023"
+        ],
+        "image": "UI/Icons/Customization/Clown/GK_outfit_023.png"
     },
     "GK_outfit_02_03": {
         "type": "outfit",
@@ -22193,6 +22318,19 @@
         "outfit": "GK_outfit_022",
         "items": null,
         "image": "UI/Icons/Customization/Clown/GK_W022.png"
+    },
+    "GK_W023": {
+        "type": "item",
+        "category": "weapon",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435467,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "GK_outfit_023",
+        "items": null,
+        "image": "UI/Icons/Customization/Clown/GK_W023.png"
     },
     "GK_W02_01": {
         "type": "item",
@@ -24926,6 +25064,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Spirit/HK_Body021.png"
     },
+    "HK_Body022": {
+        "type": "item",
+        "category": "body",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435468,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "HK_outfit_022",
+        "items": null,
+        "image": "UI/Icons/Customization/Spirit/HK_Body022.png"
+    },
     "HK_Head006_01": {
         "type": "item",
         "category": "head",
@@ -25368,6 +25519,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Spirit/HK_Head021.png"
     },
+    "HK_Head022": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435468,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "HK_outfit_022",
+        "items": null,
+        "image": "UI/Icons/Customization/Spirit/HK_Head022.png"
+    },
     "HK_outfit_008": {
         "type": "outfit",
         "category": null,
@@ -25639,6 +25803,23 @@
             "HK_W021"
         ],
         "image": "UI/Icons/Customization/Spirit/HK_outfit_021.png"
+    },
+    "HK_outfit_022": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435468,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "HK_Head022",
+            "HK_Body022",
+            "HK_W022"
+        ],
+        "image": "UI/Icons/Customization/Spirit/HK_outfit_022.png"
     },
     "HK_W006_01": {
         "type": "item",
@@ -26029,6 +26210,19 @@
         "outfit": "HK_outfit_021",
         "items": null,
         "image": "UI/Icons/Customization/Spirit/HK_W021.png"
+    },
+    "HK_W022": {
+        "type": "item",
+        "category": "weapon",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435468,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "HK_outfit_022",
+        "items": null,
+        "image": "UI/Icons/Customization/Spirit/HK_W022.png"
     },
     "HK_W023": {
         "type": "item",
@@ -41378,6 +41572,19 @@
         "items": null,
         "image": "UI/Icons/Customization/K33/K33_Body008.png"
     },
+    "K33_Body010": {
+        "type": "item",
+        "category": "body",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435488,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "K33_outfit_010",
+        "items": null,
+        "image": "UI/Icons/Customization/K33/K33_Body010.png"
+    },
     "K33_Body02": {
         "type": "item",
         "category": "body",
@@ -41429,6 +41636,19 @@
         "outfit": "K33_outfit_008",
         "items": null,
         "image": "UI/Icons/Customization/K33/K33_Head008.png"
+    },
+    "K33_Head010": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435488,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "K33_outfit_010",
+        "items": null,
+        "image": "UI/Icons/Customization/K33/K33_Head010.png"
     },
     "K33_Head02": {
         "type": "item",
@@ -41493,6 +41713,23 @@
             "K33_W008"
         ],
         "image": "UI/Icons/Customization/K33/K33_outfit_008.png"
+    },
+    "K33_outfit_010": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435488,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "K33_Head010",
+            "K33_Body010",
+            "K33_W010"
+        ],
+        "image": "UI/Icons/Customization/K33/K33_outfit_010.png"
     },
     "K33_outfit_02": {
         "type": "outfit",
@@ -41588,6 +41825,19 @@
         "outfit": "K33_outfit_008",
         "items": null,
         "image": "UI/Icons/Customization/K33/K33_W008.png"
+    },
+    "K33_W010": {
+        "type": "item",
+        "category": "weapon",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435488,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "K33_outfit_010",
+        "items": null,
+        "image": "UI/Icons/Customization/K33/K33_W010.png"
     },
     "K33_W02": {
         "type": "item",
@@ -43836,6 +44086,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Legion/KK_Body034.png"
     },
+    "KK_Body035": {
+        "type": "item",
+        "category": "body",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435469,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "KK_outfit_035",
+        "items": null,
+        "image": "UI/Icons/Customization/Legion/KK_Body035.png"
+    },
     "KK_Head015": {
         "type": "item",
         "category": "head",
@@ -44395,6 +44658,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Legion/KK_Mask034.png"
     },
+    "KK_Mask035": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435469,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "KK_outfit_035",
+        "items": null,
+        "image": "UI/Icons/Customization/Legion/KK_Mask035.png"
+    },
     "KK_outfit_009_01": {
         "type": "outfit",
         "category": null,
@@ -44836,6 +45112,23 @@
             "KK_W034"
         ],
         "image": "UI/Icons/Customization/Legion/KK_outfit_034.png"
+    },
+    "KK_outfit_035": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435469,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "KK_Mask035",
+            "KK_Body035",
+            "KK_W035"
+        ],
+        "image": "UI/Icons/Customization/Legion/KK_outfit_035.png"
     },
     "KK_W006": {
         "type": "item",
@@ -45343,6 +45636,19 @@
         "outfit": "KK_outfit_034",
         "items": null,
         "image": "UI/Icons/Customization/Legion/KK_W034.png"
+    },
+    "KK_W035": {
+        "type": "item",
+        "category": "weapon",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435469,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "KK_outfit_035",
+        "items": null,
+        "image": "UI/Icons/Customization/Legion/KK_W035.png"
     },
     "KS_Head007": {
         "type": "item",
@@ -71272,6 +71578,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S31/S31_Head016.png"
     },
+    "S31_Head017": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 30,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S31_outfit_017",
+        "items": null,
+        "image": "UI/Icons/Customization/S31/S31_Head017.png"
+    },
     "S31_Head01_01": {
         "type": "item",
         "category": "head",
@@ -71453,6 +71772,19 @@
         "outfit": "S31_outfit_016",
         "items": null,
         "image": "UI/Icons/Customization/S31/S31_Legs016.png"
+    },
+    "S31_Legs017": {
+        "type": "item",
+        "category": "legs",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 30,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S31_outfit_017",
+        "items": null,
+        "image": "UI/Icons/Customization/S31/S31_Legs017.png"
     },
     "S31_Legs01_01": {
         "type": "item",
@@ -71723,6 +72055,23 @@
             "S31_Legs016"
         ],
         "image": "UI/Icons/Customization/S31/S31_outfit_016.png"
+    },
+    "S31_outfit_017": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 30,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "S31_Head017",
+            "S31_Torso017",
+            "S31_Legs017"
+        ],
+        "image": "UI/Icons/Customization/S31/S31_outfit_017.png"
     },
     "S31_outfit_01_01": {
         "type": "outfit",
@@ -72093,6 +72442,19 @@
         "outfit": "S31_outfit_016",
         "items": null,
         "image": "UI/Icons/Customization/S31/S31_Torso016.png"
+    },
+    "S31_Torso017": {
+        "type": "item",
+        "category": "torso",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 30,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S31_outfit_017",
+        "items": null,
+        "image": "UI/Icons/Customization/S31/S31_Torso017.png"
     },
     "S31_Torso01_01": {
         "type": "item",
@@ -73941,6 +74303,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S35/S35_Head016.png"
     },
+    "S35_Head017": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 34,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S35_outfit_017",
+        "items": null,
+        "image": "UI/Icons/Customization/S35/S35_Head017.png"
+    },
     "S35_Head01_01": {
         "type": "item",
         "category": "head",
@@ -74109,6 +74484,19 @@
         "outfit": "S35_outfit_013",
         "items": null,
         "image": "UI/Icons/Customization/S35/S35_Legs013.png"
+    },
+    "S35_Legs017": {
+        "type": "item",
+        "category": "legs",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 34,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S35_outfit_017",
+        "items": null,
+        "image": "UI/Icons/Customization/S35/S35_Legs017.png"
     },
     "S35_Legs01_01": {
         "type": "item",
@@ -74370,6 +74758,23 @@
             "S35_Legs013"
         ],
         "image": "UI/Icons/Customization/S35/S35_outfit_013.png"
+    },
+    "S35_outfit_017": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 34,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "S35_Head017",
+            "S35_Torso017",
+            "S35_Legs017"
+        ],
+        "image": "UI/Icons/Customization/S35/S35_outfit_017.png"
     },
     "S35_outfit_01_01": {
         "type": "outfit",
@@ -74707,6 +75112,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S35/S35_Torso015.png"
     },
+    "S35_Torso017": {
+        "type": "item",
+        "category": "torso",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 34,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S35_outfit_017",
+        "items": null,
+        "image": "UI/Icons/Customization/S35/S35_Torso017.png"
+    },
     "S35_Torso018": {
         "type": "item",
         "category": "torso",
@@ -74993,6 +75411,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S36/S36_Head017.png"
     },
+    "S36_Head018": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 35,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S36_outfit_018",
+        "items": null,
+        "image": "UI/Icons/Customization/S36/S36_Head018.png"
+    },
     "S36_Head01_01": {
         "type": "item",
         "category": "head",
@@ -75174,6 +75605,19 @@
         "outfit": "S36_outfit_014",
         "items": null,
         "image": "UI/Icons/Customization/S36/S36_Legs014.png"
+    },
+    "S36_Legs018": {
+        "type": "item",
+        "category": "legs",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 35,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S36_outfit_018",
+        "items": null,
+        "image": "UI/Icons/Customization/S36/S36_Legs018.png"
     },
     "S36_Legs01_01": {
         "type": "item",
@@ -75452,6 +75896,23 @@
             "S36_Legs014"
         ],
         "image": "UI/Icons/Customization/S36/S36_outfit_014.png"
+    },
+    "S36_outfit_018": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 35,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "S36_Head018",
+            "S36_Torso018",
+            "S36_Legs018"
+        ],
+        "image": "UI/Icons/Customization/S36/S36_outfit_018.png"
     },
     "S36_outfit_01_01": {
         "type": "outfit",
@@ -75801,6 +76262,19 @@
         "outfit": null,
         "items": null,
         "image": "UI/Icons/Customization/S36/S36_Torso016.png"
+    },
+    "S36_Torso018": {
+        "type": "item",
+        "category": "torso",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 35,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S36_outfit_018",
+        "items": null,
+        "image": "UI/Icons/Customization/S36/S36_Torso018.png"
     },
     "S36_Torso019": {
         "type": "item",
@@ -77510,6 +77984,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S39/S39_Head009.png"
     },
+    "S39_Head010": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 38,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S39_outfit_010",
+        "items": null,
+        "image": "UI/Icons/Customization/S39/S39_Head010.png"
+    },
     "S39_Legs006": {
         "type": "item",
         "category": "legs",
@@ -77548,6 +78035,19 @@
         "outfit": "S39_outfit_009",
         "items": null,
         "image": "UI/Icons/Customization/S39/S39_Legs009.png"
+    },
+    "S39_Legs010": {
+        "type": "item",
+        "category": "legs",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 38,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S39_outfit_010",
+        "items": null,
+        "image": "UI/Icons/Customization/S39/S39_Legs010.png"
     },
     "S39_outfit_006": {
         "type": "outfit",
@@ -77599,6 +78099,23 @@
             "S39_Legs009"
         ],
         "image": "UI/Icons/Customization/S39/S39_outfit_009.png"
+    },
+    "S39_outfit_010": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 38,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "S39_Head010",
+            "S39_Torso010",
+            "S39_Legs010"
+        ],
+        "image": "UI/Icons/Customization/S39/S39_outfit_010.png"
     },
     "S39_PCharm001": {
         "type": "charm",
@@ -77690,6 +78207,19 @@
         "outfit": "S39_outfit_009",
         "items": null,
         "image": "UI/Icons/Customization/S39/S39_Torso009.png"
+    },
+    "S39_Torso010": {
+        "type": "item",
+        "category": "torso",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 38,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S39_outfit_010",
+        "items": null,
+        "image": "UI/Icons/Customization/S39/S39_Torso010.png"
     },
     "S40_Head006": {
         "type": "item",
@@ -80057,6 +80587,32 @@
         "items": null,
         "image": "UI/Icons/Customization/S44/S44_Head008.png"
     },
+    "S44_Head009": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 43,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "S44_outfit_009",
+        "items": null,
+        "image": "UI/Icons/Customization/S44/S44_Head009.png"
+    },
+    "S44_Head009_01": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 43,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "S44_outfit_009_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S44/S44_Head009_01.png"
+    },
     "S44_Legs006": {
         "type": "item",
         "category": "legs",
@@ -80095,6 +80651,32 @@
         "outfit": "S44_outfit_008",
         "items": null,
         "image": "UI/Icons/Customization/S44/S44_Legs008.png"
+    },
+    "S44_Legs009": {
+        "type": "item",
+        "category": "legs",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 43,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "S44_outfit_009",
+        "items": null,
+        "image": "UI/Icons/Customization/S44/S44_Legs009.png"
+    },
+    "S44_Legs009_01": {
+        "type": "item",
+        "category": "legs",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 43,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "S44_outfit_009_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S44/S44_Legs009_01.png"
     },
     "S44_outfit_006": {
         "type": "outfit",
@@ -80146,6 +80728,40 @@
             "S44_Legs008"
         ],
         "image": "UI/Icons/Customization/S44/S44_outfit_008.png"
+    },
+    "S44_outfit_009": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 43,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": null,
+        "items": [
+            "S44_Head009",
+            "S44_Torso009",
+            "S44_Legs009"
+        ],
+        "image": "UI/Icons/Customization/S44/S44_outfit_009.png"
+    },
+    "S44_outfit_009_01": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 43,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": null,
+        "items": [
+            "S44_Head009_01",
+            "S44_Torso009_01",
+            "S44_Legs009_01"
+        ],
+        "image": "UI/Icons/Customization/S44/S44_outfit_009_01.png"
     },
     "S44_PCharm001": {
         "type": "charm",
@@ -80224,6 +80840,32 @@
         "outfit": "S44_outfit_008",
         "items": null,
         "image": "UI/Icons/Customization/S44/S44_Torso008.png"
+    },
+    "S44_Torso009": {
+        "type": "item",
+        "category": "torso",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 43,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "S44_outfit_009",
+        "items": null,
+        "image": "UI/Icons/Customization/S44/S44_Torso009.png"
+    },
+    "S44_Torso009_01": {
+        "type": "item",
+        "category": "torso",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 43,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "S44_outfit_009_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S44/S44_Torso009_01.png"
     },
     "SA_001": {
         "type": "charm",
@@ -88778,6 +89420,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Trapper/TR_Body024.png"
     },
+    "TR_Body026": {
+        "type": "item",
+        "category": "body",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435456,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "TR_outfit_026",
+        "items": null,
+        "image": "UI/Icons/Customization/Trapper/TR_Body026.png"
+    },
     "TR_Body02_01": {
         "type": "item",
         "category": "body",
@@ -89285,6 +89940,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Trapper/TR_Mask025.png"
     },
+    "TR_Mask026": {
+        "type": "item",
+        "category": "head",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435456,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "TR_outfit_026",
+        "items": null,
+        "image": "UI/Icons/Customization/Trapper/TR_Mask026.png"
+    },
     "TR_Mask06": {
         "type": "item",
         "category": "head",
@@ -89653,6 +90321,23 @@
         ],
         "image": "UI/Icons/Customization/Trapper/TR_outfit_024.png"
     },
+    "TR_outfit_026": {
+        "type": "outfit",
+        "category": null,
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435456,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "TR_Mask026",
+            "TR_Body026",
+            "TR_W026"
+        ],
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_026.png"
+    },
     "TR_outfit_09_02": {
         "type": "outfit",
         "category": null,
@@ -89985,6 +90670,19 @@
         "outfit": "TR_outfit_024",
         "items": null,
         "image": "UI/Icons/Customization/Trapper/TR_W024.png"
+    },
+    "TR_W026": {
+        "type": "item",
+        "category": "weapon",
+        "name": null,
+        "description": null,
+        "collection": null,
+        "character": 268435456,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "TR_outfit_026",
+        "items": null,
+        "image": "UI/Icons/Customization/Trapper/TR_W026.png"
     },
     "TR_W02_01": {
         "type": "item",

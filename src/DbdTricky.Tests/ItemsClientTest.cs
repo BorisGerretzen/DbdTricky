@@ -65,7 +65,6 @@ public class ItemsClientTest
     }
 
     [Test]
-    [Ignore("Might have found bug in dbdtricky where modifiers is string encoded json")]
     public async Task GetItem_ShouldReturnItem()
     {
         var client = TestHttpClientFactory.CreateClient("/iteminfo?item=Item_Slasher_TormentMode&includeaddons", ResourceReader.Read("iteminfo.json"));
@@ -84,7 +83,7 @@ public class ItemsClientTest
             Assert.That(item.Bloodweb, Is.EqualTo(0));
             Assert.That(item.Event, Is.Null);
             Assert.That(item.Rarity, Is.EqualTo("common"));
-            Assert.That(item.Image, Is.EqualTo("UI/Icons/Powers/Wales/iconPowers_Wales_ritesOfJudgement"));
+            Assert.That(item.Image, Is.EqualTo("UI/Icons/Powers/Wales/iconPowers_Wales_ritesOfJudgement.png"));
             Assert.Multiple(() =>
             {
                 var addons = item.Addons;
@@ -94,13 +93,13 @@ public class ItemsClientTest
                 Assert.That(addon, Is.Not.Null);
                 Assert.That(addon.Type, Is.EqualTo("poweraddon"));
                 Assert.That(addon.ItemType, Is.Null);
-                Assert.That(addon.Name, Is.EqualTo("Black Strap"));
+                Assert.That(addon.Name.Trim(), Is.EqualTo("Black Strap"));
                 Assert.That(addon.Description, Is.Not.Empty);
                 Assert.That(addon.Role, Is.EqualTo(DbdTrickyRole.Killer));
                 Assert.That(addon.Modifiers, Is.Not.Null);
                 Assert.That(addon.Bloodweb, Is.EqualTo(1));
                 Assert.That(addon.Rarity, Is.EqualTo("common"));
-                Assert.That(addon.Image, Is.EqualTo("UI/Icons/ItemAddons/Wales/iconAddon_blackStrap"));
+                Assert.That(addon.Image, Is.EqualTo("UI/Icons/ItemAddons/Wales/iconAddon_blackStrap.png"));
             });
         });
     }

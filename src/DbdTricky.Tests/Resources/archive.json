@@ -1,715 +1,715 @@
-﻿{
-  "name": "TWISTED MASQUERADE",
-  "levels": {
-    "1": {
-      "nodes": [
-        {
-          "name": "Community: Salvation or Sacrifice",
-          "role": "shared",
-          "objective": "Complete a total of <b>10</b> of the following as Survivor or Killer:<ul><li><b>Safely unhook Survivor(s).</b></li><li><b>Hook Survivor(s).</b></li></ul>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
+{
+    "name": "TWISTED MASQUERADE",
+    "levels": {
+        "1": {
+            "nodes": [
+                {
+                    "name": "Community: Salvation or Sacrifice",
+                    "role": "shared",
+                    "objective": "Complete a total of <b>10</b> of the following as Survivor or Killer:<ul><li><b>Safely unhook Survivor(s).</b></li><li><b>Hook Survivor(s).</b></li></ul>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Community: Cat or Mouse",
+                    "role": "shared",
+                    "objective": "Complete a total of <b>180 seconds</b> of the following as Survivor or Killer:<ul><li><b>Be chased by the Killer.</b></li><li><b>Chase Survivor(s).</b></li></ul>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Community: Destroy or Rebuild",
+                    "role": "shared",
+                    "objective": "Complete a total of <b>40</b> of the following as Survivor or Killer:<ul><li><b>Succeed at generator skill check(s).</b></li><li><b>Break generator(s).</b></li></ul>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Community: Drop or Chop",
+                    "role": "shared",
+                    "objective": "Complete a total of <b>8</b> of the following as Survivor or Killer:<ul><li><b>Drop pallet(s) while being chased by the Killer.</b></li><li><b>Break pallet(s).</b></li></ul>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Life Giver",
+                    "role": "survivor",
+                    "objective": "Heal a total of <b>3 health state(s)</b> of any Survivor.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Nerves of Bloody Steel",
+                    "role": "survivor",
+                    "objective": "Hide within 10 meters of the Killer while injured for <b>20 seconds</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 5
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Skilled Operator",
+                    "role": "survivor",
+                    "objective": "Succeed at <b>15 Skill Check(s)</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Eluding the Overlap",
+                    "role": "survivor",
+                    "objective": "Escape <b>1 trial(s)</b> as <b>Haddie Kaur</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 5
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Almost Made It",
+                    "role": "survivor",
+                    "objective": "Go from healthy to injured when vaulting a window or a pallet while in a chase <b>4 time(s)</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Light Of The Party",
+                    "role": "survivor",
+                    "objective": "Finish repairing <b>3 Anniversary generator(s)</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Bloody Good",
+                    "role": "killer",
+                    "objective": "Hit a Survivor with your weapon <b>10 time(s)</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Unobstructed",
+                    "role": "killer",
+                    "objective": "Break <b>5 pallet(s) or breakable wall(s)</b> while in chase.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 5
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Where You Least Expect",
+                    "role": "killer",
+                    "objective": "Hit a Survivor within <b>15 seconds</b> of exiting a locker <b>5 time(s)</b> as <b>The Dredge</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 5
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "A Minor Inconvenience",
+                    "role": "killer",
+                    "objective": "Hit a Survivor <b>3 time(s)</b> within <b>30 seconds</b> of being stunned by any means.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Putting Up The Decorations",
+                    "role": "killer",
+                    "objective": "Hook <b>4 Survivor(s)</b> on <b>Anniversary hooks</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Be There Or Be Square",
+                    "role": "shared",
+                    "objective": "Collect <b>1 Invitation(s)</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 15000
+                        }
+                    ]
+                },
+                {
+                    "name": "Epilogue",
+                    "role": "shared",
+                    "objective": "<i>Complete the level and collect your rewards.</i>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 10
+                        },
+                        {
+                            "type": "inventory",
+                            "id": "ME_011",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Epilogue",
+                    "role": "shared",
+                    "objective": "<i>Complete the level and collect your rewards.</i>",
+                    "rewards": []
+                },
+                {
+                    "name": "reward",
+                    "role": "shared",
+                    "objective": null,
+                    "rewards": [
+                        {
+                            "type": "inventory",
+                            "id": "K28_Body007",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "reward",
+                    "role": "shared",
+                    "objective": null,
+                    "rewards": [
+                        {
+                            "type": "inventory",
+                            "id": "S31_Torso007",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "reward",
+                    "role": "shared",
+                    "objective": null,
+                    "rewards": [
+                        {
+                            "type": "inventory",
+                            "id": "K28_W007",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "reward",
+                    "role": "shared",
+                    "objective": null,
+                    "rewards": [
+                        {
+                            "type": "inventory",
+                            "id": "S31_Legs007",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Prologue",
+                    "role": "shared",
+                    "objective": "<i>Select challenges to progress through the Auris Web.</i>",
+                    "rewards": []
+                },
+                {
+                    "name": "Prologue",
+                    "role": "shared",
+                    "objective": "<i>Select challenges to progress through the Auris Web.</i>",
+                    "rewards": []
+                }
+            ],
+            "start": 1655393400
         },
-        {
-          "name": "Community: Cat or Mouse",
-          "role": "shared",
-          "objective": "Complete a total of <b>180 seconds</b> of the following as Survivor or Killer:<ul><li><b>Be chased by the Killer.</b></li><li><b>Chase Survivor(s).</b></li></ul>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Community: Destroy or Rebuild",
-          "role": "shared",
-          "objective": "Complete a total of <b>40</b> of the following as Survivor or Killer:<ul><li><b>Succeed at generator skill check(s).</b></li><li><b>Break generator(s).</b></li></ul>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Community: Drop or Chop",
-          "role": "shared",
-          "objective": "Complete a total of <b>8</b> of the following as Survivor or Killer:<ul><li><b>Drop pallet(s) while being chased by the Killer.</b></li><li><b>Break pallet(s).</b></li></ul>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Life Giver",
-          "role": "survivor",
-          "objective": "Heal a total of <b>3 health state(s)</b> of any Survivor.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Nerves of Bloody Steel",
-          "role": "survivor",
-          "objective": "Hide within 10 meters of the Killer while injured for <b>20 seconds</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 5
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Skilled Operator",
-          "role": "survivor",
-          "objective": "Succeed at <b>15 Skill Check(s)</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Eluding the Overlap",
-          "role": "survivor",
-          "objective": "Escape <b>1 trial(s)</b> as <b>Haddie Kaur</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 5
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Almost Made It",
-          "role": "survivor",
-          "objective": "Go from healthy to injured when vaulting a window or a pallet while in a chase <b>4 time(s)</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Light Of The Party",
-          "role": "survivor",
-          "objective": "Finish repairing <b>3 Anniversary generator(s)</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Bloody Good",
-          "role": "killer",
-          "objective": "Hit a Survivor with your weapon <b>10 time(s)</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Unobstructed",
-          "role": "killer",
-          "objective": "Break <b>5 pallet(s) or breakable wall(s)</b> while in chase.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 5
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Where You Least Expect",
-          "role": "killer",
-          "objective": "Hit a Survivor within <b>15 seconds</b> of exiting a locker <b>5 time(s)</b> as <b>The Dredge</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 5
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "A Minor Inconvenience",
-          "role": "killer",
-          "objective": "Hit a Survivor <b>3 time(s)</b> within <b>30 seconds</b> of being stunned by any means.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Putting Up The Decorations",
-          "role": "killer",
-          "objective": "Hook <b>4 Survivor(s)</b> on <b>Anniversary hooks</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Be There Or Be Square",
-          "role": "shared",
-          "objective": "Collect <b>1 Invitation(s)</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 15000
-            }
-          ]
-        },
-        {
-          "name": "Epilogue",
-          "role": "shared",
-          "objective": "<i>Complete the level and collect your rewards.</i>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 10
-            },
-            {
-              "type": "inventory",
-              "id": "ME_011",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "Epilogue",
-          "role": "shared",
-          "objective": "<i>Complete the level and collect your rewards.</i>",
-          "rewards": []
-        },
-        {
-          "name": "reward",
-          "role": "shared",
-          "objective": null,
-          "rewards": [
-            {
-              "type": "inventory",
-              "id": "K28_Body007",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "reward",
-          "role": "shared",
-          "objective": null,
-          "rewards": [
-            {
-              "type": "inventory",
-              "id": "S31_Torso007",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "reward",
-          "role": "shared",
-          "objective": null,
-          "rewards": [
-            {
-              "type": "inventory",
-              "id": "K28_W007",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "reward",
-          "role": "shared",
-          "objective": null,
-          "rewards": [
-            {
-              "type": "inventory",
-              "id": "S31_Legs007",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "Prologue",
-          "role": "shared",
-          "objective": "<i>Select challenges to progress through the Auris Web.</i>",
-          "rewards": []
-        },
-        {
-          "name": "Prologue",
-          "role": "shared",
-          "objective": "<i>Select challenges to progress through the Auris Web.</i>",
-          "rewards": []
+        "2": {
+            "nodes": [
+                {
+                    "name": "Community: Repair or Raze",
+                    "role": "shared",
+                    "objective": "Earn a total of <b>5</b> of the following of <b>Gold Quality</b> or better as Survivor or Killer:<ul><li><b>Lightbringer emblem(s).</b></li><li><b>Gatekeeper emblem(s).</b></li></ul>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Community: Predator or Prey",
+                    "role": "shared",
+                    "objective": "Earn a total of <b>4</b> of the following of <b>Gold Quality</b> or better as Survivor or Killer:<ul><li><b>Evader emblem(s).</b></li><li><b>Chaser emblem(s).</b></li></ul>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Community: Callousness or Compassion",
+                    "role": "shared",
+                    "objective": "Earn a total of <b>3</b> of the following of <b>Gold Quality</b> or better as Survivor or Killer:<ul><li><b>Benevolent emblem(s).</b></li><li><b>Malicious emblem(s).</b></li></ul>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Community: Suffer or Slaughter",
+                    "role": "shared",
+                    "objective": "Earn a total of <b>2</b> of the following of <b>Gold Quality</b> or better as Survivor or Killer:<ul><li><b>Unbroken emblem(s).</b></li><li><b>Devout emblem(s).</b></li></ul>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Light Of The Party",
+                    "role": "survivor",
+                    "objective": "Finish repairing <b>5 Anniversary generator(s)</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Risky Robbery",
+                    "role": "survivor",
+                    "objective": "Escape <b>1 trial(s)</b> with an item that was pulled out of the chest in the basement.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Fighting Back",
+                    "role": "survivor",
+                    "objective": "Sabotage <b>3 hook(s)</b> while in the Killer's Terror Radius.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Exposed Target",
+                    "role": "killer",
+                    "objective": "Hit <b>4 Survivor(s)</b> with your weapon while that Survivor is Exposed.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Wait Right Here",
+                    "role": "killer",
+                    "objective": "Down <b>2 Survivors</b> within 60 seconds of each other, then hook a Survivor within 30 seconds. Do this <b>2 time(s)</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Putting Up The Decorations",
+                    "role": "killer",
+                    "objective": "Hook <b>6 Survivor(s)</b> on <b>Anniversary hooks</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Be There Or Be Square",
+                    "role": "shared",
+                    "objective": "Collect <b>3 Invitation(s)</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Earn Your Spot",
+                    "role": "shared",
+                    "objective": "Collect <b>1 Invitation(s)</b> within 60 seconds of finishing a generator repair OR hooking a Survivor.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 5
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 35000
+                        }
+                    ]
+                },
+                {
+                    "name": "Glyph Pursuer",
+                    "role": "shared",
+                    "objective": "Commune with <b>6 Green Glyph(s).</b>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 5
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 35000
+                        }
+                    ]
+                },
+                {
+                    "name": "Bloody Rewards",
+                    "role": "shared",
+                    "objective": "Earn <b>66666 Bloodpoints</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 3
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 25000
+                        }
+                    ]
+                },
+                {
+                    "name": "Roll Tape and Roll Out",
+                    "role": "survivor",
+                    "objective": "Escape <b>1 trial(s)</b> while using the perks <b>Inner Focus</b>, <b>Residual Manifest</b>, and <b>Overzealous</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 5
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 35000
+                        }
+                    ]
+                },
+                {
+                    "name": "All Turns to Dust",
+                    "role": "killer",
+                    "objective": "Finish a trial with no more than <b>1 living Survivor(s)</b> while using the perks <b>Dissolution</b>, <b>Darkness Revealed</b>, and <b>Septic Touch</b>.",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 5
+                        },
+                        {
+                            "type": "currency",
+                            "id": "bloodpoints",
+                            "amount": 35000
+                        }
+                    ]
+                },
+                {
+                    "name": "Epilogue",
+                    "role": "shared",
+                    "objective": "<i>Complete the level and collect your rewards.</i>",
+                    "rewards": [
+                        {
+                            "type": "currency",
+                            "id": "riftfragments",
+                            "amount": 10
+                        },
+                        {
+                            "type": "inventory",
+                            "id": "ME_010",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Epilogue",
+                    "role": "shared",
+                    "objective": "<i>Complete the level and collect your rewards.</i>",
+                    "rewards": []
+                },
+                {
+                    "name": "reward",
+                    "role": "shared",
+                    "objective": null,
+                    "rewards": [
+                        {
+                            "type": "inventory",
+                            "id": "K28_Head007",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "reward",
+                    "role": "shared",
+                    "objective": null,
+                    "rewards": [
+                        {
+                            "type": "inventory",
+                            "id": "ME_012",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "reward",
+                    "role": "shared",
+                    "objective": null,
+                    "rewards": [
+                        {
+                            "type": "inventory",
+                            "id": "S31_Head007",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Prologue",
+                    "role": "shared",
+                    "objective": "<i>Select challenges to progress through the Auris Web.</i>",
+                    "rewards": []
+                },
+                {
+                    "name": "Prologue",
+                    "role": "shared",
+                    "objective": "<i>Select challenges to progress through the Auris Web.</i>",
+                    "rewards": []
+                }
+            ],
+            "start": 1655998200
         }
-      ],
-      "start": 1655393400
     },
-    "2": {
-      "nodes": [
-        {
-          "name": "Community: Repair or Raze",
-          "role": "shared",
-          "objective": "Earn a total of <b>5</b> of the following of <b>Gold Quality</b> or better as Survivor or Killer:<ul><li><b>Lightbringer emblem(s).</b></li><li><b>Gatekeeper emblem(s).</b></li></ul>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Community: Predator or Prey",
-          "role": "shared",
-          "objective": "Earn a total of <b>4</b> of the following of <b>Gold Quality</b> or better as Survivor or Killer:<ul><li><b>Evader emblem(s).</b></li><li><b>Chaser emblem(s).</b></li></ul>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Community: Callousness or Compassion",
-          "role": "shared",
-          "objective": "Earn a total of <b>3</b> of the following of <b>Gold Quality</b> or better as Survivor or Killer:<ul><li><b>Benevolent emblem(s).</b></li><li><b>Malicious emblem(s).</b></li></ul>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Community: Suffer or Slaughter",
-          "role": "shared",
-          "objective": "Earn a total of <b>2</b> of the following of <b>Gold Quality</b> or better as Survivor or Killer:<ul><li><b>Unbroken emblem(s).</b></li><li><b>Devout emblem(s).</b></li></ul>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Light Of The Party",
-          "role": "survivor",
-          "objective": "Finish repairing <b>5 Anniversary generator(s)</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Risky Robbery",
-          "role": "survivor",
-          "objective": "Escape <b>1 trial(s)</b> with an item that was pulled out of the chest in the basement.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Fighting Back",
-          "role": "survivor",
-          "objective": "Sabotage <b>3 hook(s)</b> while in the Killer's Terror Radius.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Exposed Target",
-          "role": "killer",
-          "objective": "Hit <b>4 Survivor(s)</b> with your weapon while that Survivor is Exposed.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Wait Right Here",
-          "role": "killer",
-          "objective": "Down <b>2 Survivors</b> within 60 seconds of each other, then hook a Survivor within 30 seconds. Do this <b>2 time(s)</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Putting Up The Decorations",
-          "role": "killer",
-          "objective": "Hook <b>6 Survivor(s)</b> on <b>Anniversary hooks</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Be There Or Be Square",
-          "role": "shared",
-          "objective": "Collect <b>3 Invitation(s)</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Earn Your Spot",
-          "role": "shared",
-          "objective": "Collect <b>1 Invitation(s)</b> within 60 seconds of finishing a generator repair OR hooking a Survivor.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 5
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 35000
-            }
-          ]
-        },
-        {
-          "name": "Glyph Pursuer",
-          "role": "shared",
-          "objective": "Commune with <b>6 Green Glyph(s).</b>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 5
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 35000
-            }
-          ]
-        },
-        {
-          "name": "Bloody Rewards",
-          "role": "shared",
-          "objective": "Earn <b>66666 Bloodpoints</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 3
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 25000
-            }
-          ]
-        },
-        {
-          "name": "Roll Tape and Roll Out",
-          "role": "survivor",
-          "objective": "Escape <b>1 trial(s)</b> while using the perks <b>Inner Focus</b>, <b>Residual Manifest</b>, and <b>Overzealous</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 5
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 35000
-            }
-          ]
-        },
-        {
-          "name": "All Turns to Dust",
-          "role": "killer",
-          "objective": "Finish a trial with no more than <b>1 living Survivor(s)</b> while using the perks <b>Dissolution</b>, <b>Darkness Revealed</b>, and <b>Septic Touch</b>.",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 5
-            },
-            {
-              "type": "currency",
-              "id": "bloodpoints",
-              "amount": 35000
-            }
-          ]
-        },
-        {
-          "name": "Epilogue",
-          "role": "shared",
-          "objective": "<i>Complete the level and collect your rewards.</i>",
-          "rewards": [
-            {
-              "type": "currency",
-              "id": "riftfragments",
-              "amount": 10
-            },
-            {
-              "type": "inventory",
-              "id": "ME_010",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "Epilogue",
-          "role": "shared",
-          "objective": "<i>Complete the level and collect your rewards.</i>",
-          "rewards": []
-        },
-        {
-          "name": "reward",
-          "role": "shared",
-          "objective": null,
-          "rewards": [
-            {
-              "type": "inventory",
-              "id": "K28_Head007",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "reward",
-          "role": "shared",
-          "objective": null,
-          "rewards": [
-            {
-              "type": "inventory",
-              "id": "ME_012",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "reward",
-          "role": "shared",
-          "objective": null,
-          "rewards": [
-            {
-              "type": "inventory",
-              "id": "S31_Head007",
-              "amount": 1
-            }
-          ]
-        },
-        {
-          "name": "Prologue",
-          "role": "shared",
-          "objective": "<i>Select challenges to progress through the Auris Web.</i>",
-          "rewards": []
-        },
-        {
-          "name": "Prologue",
-          "role": "shared",
-          "objective": "<i>Select challenges to progress through the Auris Web.</i>",
-          "rewards": []
-        }
-      ],
-      "start": 1655998200
-    }
-  },
-  "start": 1655393400,
-  "end": 1656603000
+    "start": 1655393400,
+    "end": 1656603000
 }

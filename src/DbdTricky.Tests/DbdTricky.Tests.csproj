@@ -28,72 +28,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <None Remove="Resources\addoninfo.json" />
-      <EmbeddedResource Include="Resources\addoninfo.json" />
-      <None Remove="Resources\addons.json" />
-      <EmbeddedResource Include="Resources\addons.json" />
-      <None Remove="Resources\archives.json" />
-      <EmbeddedResource Include="Resources\archives.json" />
-      <None Remove="Resources\characterinfo.json" />
-      <EmbeddedResource Include="Resources\characterinfo.json" />
-      <None Remove="Resources\characters.json" />
-      <EmbeddedResource Include="Resources\characters.json" />
-      <None Remove="Resources\customizationinfo.json" />
-      <EmbeddedResource Include="Resources\customizationinfo.json" />
-      <None Remove="Resources\customizations.json" />
-      <EmbeddedResource Include="Resources\customizations.json" />
-      <None Remove="Resources\dlc.json" />
-      <EmbeddedResource Include="Resources\dlc.json" />
-      <None Remove="Resources\events.json" />
-      <EmbeddedResource Include="Resources\events.json" />
-      <None Remove="Resources\gamemodes - NOT YET IMPLEMENTED.json" />
-      <EmbeddedResource Include="Resources\gamemodes - NOT YET IMPLEMENTED.json" />
-      <None Remove="Resources\iteminfo.json" />
-      <EmbeddedResource Include="Resources\iteminfo.json" />
-      <None Remove="Resources\items.json" />
-      <EmbeddedResource Include="Resources\items.json" />
-      <None Remove="Resources\journals.json" />
-      <EmbeddedResource Include="Resources\journals.json" />
-      <None Remove="Resources\mapinfo.json" />
-      <EmbeddedResource Include="Resources\mapinfo.json" />
-      <None Remove="Resources\maps.json" />
-      <EmbeddedResource Include="Resources\maps.json" />
-      <None Remove="Resources\offeringinfo.json" />
-      <EmbeddedResource Include="Resources\offeringinfo.json" />
-      <None Remove="Resources\offerings.json" />
-      <EmbeddedResource Include="Resources\offerings.json" />
-      <None Remove="Resources\patchnotes.json" />
-      <EmbeddedResource Include="Resources\patchnotes.json" />
-      <None Remove="Resources\perkinfo.json" />
-      <EmbeddedResource Include="Resources\perkinfo.json" />
-      <None Remove="Resources\perks.json" />
-      <EmbeddedResource Include="Resources\perks.json" />
-      <None Remove="Resources\playercount.json" />
-      <EmbeddedResource Include="Resources\playercount.json" />
-      <None Remove="Resources\randomcharacter.json" />
-      <EmbeddedResource Include="Resources\randomcharacter.json" />
-      <None Remove="Resources\randomperks.json" />
-      <EmbeddedResource Include="Resources\randomperks.json" />
-      <None Remove="Resources\rankreset.json" />
-      <EmbeddedResource Include="Resources\rankreset.json" />
-      <None Remove="Resources\rift.json" />
-      <EmbeddedResource Include="Resources\rift.json" />
-      <None Remove="Resources\shrine.json" />
-      <EmbeddedResource Include="Resources\shrine.json" />
-      <None Remove="Resources\topstats.json" />
-      <EmbeddedResource Include="Resources\topstats.json" />
-      <None Remove="Resources\versions.json" />
-      <EmbeddedResource Include="Resources\versions.json" />
-      <None Remove="Resources\archiveinfo.json" />
-      <EmbeddedResource Include="Resources\archive.json" />
-      <None Remove="Resources\journal.json" />
-      <EmbeddedResource Include="Resources\journal.json" />
-      <None Remove="Resources\patchnote.json" />
-      <EmbeddedResource Include="Resources\patchnote.json" />
-      <None Remove="Resources\rift_single.json" />
-      <EmbeddedResource Include="Resources\rift_single.json" />
-      <None Remove="Resources\shrine_with_perks.json" />
-      <EmbeddedResource Include="Resources\shrine_with_perks.json" />
+        <EmbeddedResource Include="Resources\**\*" />
     </ItemGroup>
 
 </Project>

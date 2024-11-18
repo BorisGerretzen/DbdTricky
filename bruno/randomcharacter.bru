@@ -1,16 +1,16 @@
 meta {
   name: randomcharacter
   type: http
-  seq: 22
+  seq: 25
 }
 
 get {
-  url: {{url}}/randomcharacter
+  url: {{url}}/randomcharacter?includeperks
   body: none
   auth: none
 }
 
 params:query {
-  ~role: survivor
-  ~includeperks: 
+  includeperks: 
+  ~role: killer
 }

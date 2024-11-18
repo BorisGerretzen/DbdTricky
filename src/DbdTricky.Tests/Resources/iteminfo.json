@@ -14,10 +14,15 @@
         "ADDON_TormentMode_BlackStrap": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Black Strap ",
+            "name": "Black Strap\u00a0",
             "description": "A nylon strap that was used to restrain a victim to a metal frame. The color makes it difficult to see the blood soaked into it.<b>Increases</b> the range of <b>Punishment of the Damned</b> by <b>0.5 meters</b>.",
             "role": "killer",
-            "modifiers": "[{\"key\":\"ModifyTormentAttackTrailLength\",\"value\":50}]",
+            "modifiers": [
+                {
+                    "key": "ModifyTormentAttackTrailLength",
+                    "value": 50
+                }
+            ],
             "bloodweb": 1,
             "rarity": "common",
             "image": "UI/Icons/ItemAddons/Wales/iconAddon_blackStrap.png"
@@ -25,10 +30,15 @@
         "ADDON_TormentMode_BurningManPainting": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Burning Man Painting ",
+            "name": "Burning Man Painting\u00a0",
             "description": "A diagram of the Lakeview Hotel. Red flames are painted over this place of guilt.<b>Increases</b> the range of <b>Punishment of the Damned</b> by <b>1.5 meters</b>.",
             "role": "killer",
-            "modifiers": "[{\"key\":\"ModifyTormentAttackTrailLength\",\"value\":125}]",
+            "modifiers": [
+                {
+                    "key": "ModifyTormentAttackTrailLength",
+                    "value": 125
+                }
+            ],
             "bloodweb": 1,
             "rarity": "rare",
             "image": "UI/Icons/ItemAddons/Wales/iconAddon_burningManPainting.png"
@@ -36,10 +46,15 @@
         "ADDON_TormentMode_CinderellaMusicBox": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Cinderella Music Box ",
+            "name": "Cinderella Music Box\u00a0",
             "description": "A music box with a figure from the fairy tale Cinderella. Found inside a suitcase adorned with stickers from multiple destinations.<b>Increases</b> the duration of trails left by <b>Rites of Judgment</b> by <b>15 seconds</b>.",
             "role": "killer",
-            "modifiers": "[{\"key\":\"ModifyTormentTrailLifetime\",\"value\":15}]",
+            "modifiers": [
+                {
+                    "key": "ModifyTormentTrailLifetime",
+                    "value": 15
+                }
+            ],
             "bloodweb": 1,
             "rarity": "uncommon",
             "image": "UI/Icons/ItemAddons/Wales/iconAddon_cinderellaMusicBox.png"
@@ -47,8 +62,8 @@
         "ADDON_TormentMode_CopperRing": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Copper Ring ",
-            "description": "Found in the basement of Brookhaven Hospital. It’s engraved with a picture of a spider.<b>Increases</b> maximum duration of <b>Rites of Judgment</b> by <b>1 second</b>.",
+            "name": "Copper Ring\u00a0",
+            "description": "Found in the basement of Brookhaven Hospital. It\u2019s engraved with a picture of a spider.<b>Increases</b> maximum duration of <b>Rites of Judgment</b> by <b>1 second</b>.",
             "role": "killer",
             "modifiers": null,
             "bloodweb": 1,
@@ -59,7 +74,7 @@
             "type": "poweraddon",
             "item_type": null,
             "name": "Crimson Ceremony Book",
-            "description": "A book about an ancient god. Author unknown.Survivors damaged by <b>Punishment of the Damned</b> suffer from the <b>Hemorrhage</b> and <b>Mangled</b> status effects for <b>80 seconds</b>.<br><br>Hemorrhage regresses healing progress when not healing, and increases blood trails left by injured survivors. This lasts for a set duration or until healed.<br><br>Mangled increases time required to heal by 25% and lasts for a set duration or until fully healed.",
+            "description": "A book about an ancient god. Author unknown.Survivors damaged by <b>Punishment of the Damned</b> suffer from the <b>Hemorrhage</b> and <b>Mangled</b> status effects for <b>80 seconds</b>.<br><br>Hemorrhage\u00a0regresses healing progress when not healing, and increases blood trails left by injured survivors. This lasts for a set duration or until healed.<br><br>Mangled increases time required to heal by 25% and lasts for a set duration or until fully healed.",
             "role": "killer",
             "modifiers": null,
             "bloodweb": 1,
@@ -69,8 +84,8 @@
         "ADDON_TormentMode_DeadButterfly": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Dead Butterfly ",
-            "description": "A butterfly found on a bed at Wood Side Apartments. It’s frail and nearly falls apart when touched.<b>Decreases</b> time required to recharge <b>Rites of Judgment</b> by <b>2 seconds</b>.",
+            "name": "Dead Butterfly\u00a0",
+            "description": "A butterfly found on a bed at Wood Side Apartments. It\u2019s frail and nearly falls apart when touched.<b>Decreases</b> time required to recharge <b>Rites of Judgment</b> by <b>2 seconds</b>.",
             "role": "killer",
             "modifiers": null,
             "bloodweb": 1,
@@ -80,7 +95,7 @@
         "ADDON_TormentMode_ForgottenVideotape": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Forgotten Videotape ",
+            "name": "Forgotten Videotape\u00a0",
             "description": "A videotape of two lovers vacationing in Silent Hill. Despite its sentimental value, it was left behind in the Lakeview Hotel.<b>Decreases</b> time required to recharge <b>Rites of Judgment</b> by <b>3 seconds</b>.",
             "role": "killer",
             "modifiers": null,
@@ -91,10 +106,15 @@
         "ADDON_TormentMode_IridescentSealofMetatron": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Iridescent Seal of Metatron ",
-            "description": "A talisman with an odd design inscribed on it. The Entity’s influence seems to have altered it.When sending a Survivor to a <b>Cage of Atonement</b>, the auras of all Survivors suffering from <i>Torment</i> are revealed for <b>6 seconds.</b>",
+            "name": "Iridescent Seal of Metatron\u00a0",
+            "description": "A talisman with an odd design inscribed on it. The Entity\u2019s influence seems to have altered it.When sending a Survivor to a <b>Cage of Atonement</b>, the auras of all Survivors suffering from <i>Torment</i> are revealed for <b>6 seconds.</b>",
             "role": "killer",
-            "modifiers": "[{\"key\":\"CustomPerkEffectValue1\",\"value\":0}]",
+            "modifiers": [
+                {
+                    "key": "CustomPerkEffectValue1",
+                    "value": 0
+                }
+            ],
             "bloodweb": 1,
             "rarity": "ultrarare",
             "image": "UI/Icons/ItemAddons/Wales/iconAddon_iridescentSeal.png"
@@ -102,10 +122,15 @@
         "ADDON_TormentMode_LeadRing": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Lead Ring ",
-            "description": "Found in a refrigerator. It’s engraved with a disgusting, bloated face.<b>Increases</b> the duration of trails left by <b>Rites of Judgment</b> by 10 seconds.",
+            "name": "Lead\u00a0Ring\u00a0",
+            "description": "Found in a refrigerator. It\u2019s engraved with a disgusting, bloated face.<b>Increases</b> the duration of trails left by <b>Rites of Judgment</b> by 10 seconds.",
             "role": "killer",
-            "modifiers": "[{\"key\":\"ModifyTormentTrailLifetime\",\"value\":10}]",
+            "modifiers": [
+                {
+                    "key": "ModifyTormentTrailLifetime",
+                    "value": 10
+                }
+            ],
             "bloodweb": 1,
             "rarity": "common",
             "image": "UI/Icons/ItemAddons/Wales/iconAddon_leadRing.png"
@@ -113,8 +138,8 @@
         "ADDON_TormentMode_LeopardPrintFabric": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Leopard-Print Fabric  ",
-            "description": "A shred of pink, leopard print fabric. It’s difficult to tell what it was used for.<b>Increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b> by <b>0.5 seconds</b>.",
+            "name": "Leopard-Print\u00a0Fabric\u00a0\u00a0",
+            "description": "A shred of pink, leopard print fabric. It\u2019s difficult to tell what it was used for.<b>Increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b> by <b>0.5 seconds</b>.",
             "role": "killer",
             "modifiers": null,
             "bloodweb": 1,
@@ -124,7 +149,7 @@
         "ADDON_TormentMode_LostMemoriesBook": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Lost Memories Book ",
+            "name": "Lost Memories Book\u00a0",
             "description": "A book about the history and legends of Silent Hill and the surrounding area.<b>Rites of Judgment</b> trails inflict <b>Oblivious</b> for <b>15 seconds</b>.<br><br>Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.",
             "role": "killer",
             "modifiers": null,
@@ -135,10 +160,15 @@
         "ADDON_TormentMode_MannequinFoot": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Mannequin Foot ",
+            "name": "Mannequin Foot\u00a0",
             "description": "The smooth grey foot of a mannequin, brutally torn from its leg.<b>Increases</b> the duration of trails left by <b>Rites of Judgment</b> by <b>20 seconds</b>.",
             "role": "killer",
-            "modifiers": "[{\"key\":\"ModifyTormentTrailLifetime\",\"value\":20}]",
+            "modifiers": [
+                {
+                    "key": "ModifyTormentTrailLifetime",
+                    "value": 20
+                }
+            ],
             "bloodweb": 1,
             "rarity": "rare",
             "image": "UI/Icons/ItemAddons/Wales/iconAddon_mannequinFoot.png"
@@ -146,7 +176,7 @@
         "ADDON_TormentMode_MistyDayRemainsofJudgment": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Misty Day, Remains of Judgment ",
+            "name": "Misty Day, Remains of Judgment\u00a0",
             "description": "A painting of an imposing figure wearing a steel pyramid atop his head. Victims are caged in the background.<b>Increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b> by <b>1 second</b>.",
             "role": "killer",
             "modifiers": null,
@@ -157,7 +187,7 @@
         "ADDON_TormentMode_ObsidianGoblet": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Obsidian Goblet ",
+            "name": "Obsidian Goblet\u00a0",
             "description": "An ancient looking goblet carved from pure obsidian.Grants <b>Undetectable</b> while standing on a <b>Rites of Judgment</b> trail.<br><br>Undetectable hides the Killer's aura, Terror Radius, and Red Stain.",
             "role": "killer",
             "modifiers": null,
@@ -168,8 +198,8 @@
         "ADDON_TormentMode_RustcoloredEgg": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Rust-colored Egg ",
-            "description": "An old-looking egg, colored reddish orange. About the size of a quail’s egg.<b>Rites of Judgment</b> trails inflict <b>Blindness</b> for <b>60 seconds</b>.<br><br>Blindness prevents Survivors from seeing auras.",
+            "name": "Rust-colored Egg\u00a0",
+            "description": "An old-looking egg, colored reddish orange. About the size of a quail\u2019s egg.<b>Rites of Judgment</b> trails inflict <b>Blindness</b> for <b>60 seconds</b>.<br><br>Blindness prevents Survivors from seeing auras.",
             "role": "killer",
             "modifiers": null,
             "bloodweb": 1,
@@ -179,8 +209,8 @@
         "ADDON_TormentMode_ScarletEgg": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Scarlet Egg ",
-            "description": "A fresh egg, strikingly red in color. About the size of a quail’s egg.<b>Increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b> by <b>3 seconds</b>.",
+            "name": "Scarlet Egg\u00a0",
+            "description": "A fresh egg, strikingly red in color. About the size of a quail\u2019s egg.<b>Increases</b> the duration of <i>Killer Instinct</i> when triggered by <b>Rites of Judgment</b> by <b>3 seconds</b>.",
             "role": "killer",
             "modifiers": null,
             "bloodweb": 1,
@@ -190,8 +220,8 @@
         "ADDON_TormentMode_Spearhead": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Spearhead ",
-            "description": "The sharp, rusted tip of a spear. It’s flaked with blood from its last victim.<b>Increases</b> maximum duration of <b>Rites of Judgment</b> by <b>1.5 seconds</b>.",
+            "name": "Spearhead\u00a0",
+            "description": "The sharp, rusted tip of a spear. It\u2019s flaked with blood from its last victim.<b>Increases</b> maximum duration of <b>Rites of Judgment</b> by <b>1.5 seconds</b>.",
             "role": "killer",
             "modifiers": null,
             "bloodweb": 1,
@@ -201,7 +231,7 @@
         "ADDON_TormentMode_TabletoftheOppressor": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Tablet of the Oppressor ",
+            "name": "Tablet of the Oppressor\u00a0",
             "description": "A metal tablet engraved with Aztec figures.<b>Increases</b> maximum duration of <b>Rites of Judgment</b> by <b>2 seconds</b>.",
             "role": "killer",
             "modifiers": null,
@@ -212,7 +242,7 @@
         "ADDON_TormentMode_ValtielSectPhotograph": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Valtiel Sect Photograph ",
+            "name": "Valtiel\u00a0Sect Photograph\u00a0",
             "description": "A photograph of two figures in red hoods. Entitled Crimson and White Banquet for the Gods.<b>Decreases</b> time required to recharge <b>Rites of Judgment</b> by <b>4 seconds</b>.",
             "role": "killer",
             "modifiers": null,
@@ -223,10 +253,15 @@
         "ADDON_TormentMode_WaxDoll": {
             "type": "poweraddon",
             "item_type": null,
-            "name": "Wax Doll ",
+            "name": "Wax Doll\u00a0",
             "description": "A doll carved from wax, handcrafted by a prisoner who would soon face their judgment.<b>Increases</b> the range of <b>Punishment of the Damned</b> by <b>1 meter</b>.",
             "role": "killer",
-            "modifiers": "[{\"key\":\"ModifyTormentAttackTrailLength\",\"value\":100}]",
+            "modifiers": [
+                {
+                    "key": "ModifyTormentAttackTrailLength",
+                    "value": 100
+                }
+            ],
             "bloodweb": 1,
             "rarity": "uncommon",
             "image": "UI/Icons/ItemAddons/Wales/iconAddon_waxDoll.png"

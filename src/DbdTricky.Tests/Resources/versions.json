@@ -1,19 +1,19 @@
 {
     "addons": {
-        "version": "8.3.0",
-        "lastupdate": 1728557468
+        "version": "8.3.2",
+        "lastupdate": 1731917505
     },
     "archives": {
         "version": "8.3.2",
-        "lastupdate": 1731837099
+        "lastupdate": 1731917159
     },
     "characters": {
-        "version": "8.3.0",
-        "lastupdate": 1728555771
+        "version": "8.3.2",
+        "lastupdate": 1731917510
     },
     "customizations": {
-        "version": "8.3.0",
-        "lastupdate": 1728555967
+        "version": "8.3.2",
+        "lastupdate": 1731917534
     },
     "dlc": {
         "version": "8.3.0",
@@ -24,8 +24,8 @@
         "lastupdate": 1728555849
     },
     "items": {
-        "version": "8.3.0",
-        "lastupdate": 1728557461
+        "version": "8.3.2",
+        "lastupdate": 1731917505
     },
     "journals": {
         "version": "8.3.0",
@@ -40,8 +40,8 @@
         "lastupdate": 1728557321
     },
     "perks": {
-        "version": "8.3.0",
-        "lastupdate": 1728557476
+        "version": "8.3.2",
+        "lastupdate": 1731917506
     },
     "rift": {
         "version": "8.3.0",

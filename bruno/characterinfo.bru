@@ -1,17 +1,17 @@
 meta {
   name: characterinfo
   type: http
-  seq: 4
+  seq: 5
 }
 
 get {
-  url: {{url}}/characterinfo?character=dwight
+  url: {{url}}/characterinfo?character=K36&includeperks&includeitem
   body: none
   auth: none
 }
 
 params:query {
-  character: dwight
-  ~includeperks: 
-  ~includeitem: 
+  character: K36
+  includeperks: 
+  includeitem: 
 }
