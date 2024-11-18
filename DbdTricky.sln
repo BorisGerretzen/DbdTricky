@@ -4,12 +4,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbdTricky.Lib", "src\DbdTri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbdTricky.Tests", "src\DbdTricky.Tests\DbdTricky.Tests.csproj", "{A4BF0FE9-DC79-4949-897E-00F75D18F3F7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{35947BBC-DA96-4CC1-A937-F7FEED75CB9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35947BBC-DA96-4CC1-A937-F7FEED75CB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35947BBC-DA96-4CC1-A937-F7FEED75CB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4044432B-332A-46AE-A3E9-FB65C38979F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4044432B-332A-46AE-A3E9-FB65C38979F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4044432B-332A-46AE-A3E9-FB65C38979F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
