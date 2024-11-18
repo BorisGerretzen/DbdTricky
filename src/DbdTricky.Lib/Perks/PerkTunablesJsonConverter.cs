@@ -12,7 +12,8 @@ public class PerkTunablesJsonConverter : JsonConverter<DbdTrickyPerkTunables>
             JsonTokenType.StartObject => new DbdTrickyPerkTunables(JsonSerializer.Deserialize<Dictionary<int, List<string>>>(ref reader, options)),
             JsonTokenType.StartArray => new DbdTrickyPerkTunables(JsonSerializer.Deserialize<List<List<string>>>(ref reader, options)),
             JsonTokenType.Null when Nullable.GetUnderlyingType(typeToConvert) is not null => null,
-            _ => throw new JsonException()
+            JsonTokenType.Null => throw new JsonException("Cannot convert null to non-nullable type"),
+            _ => throw new JsonException("Expected object or array")
         };
     }
 
@@ -23,6 +24,6 @@ public class PerkTunablesJsonConverter : JsonConverter<DbdTrickyPerkTunables>
         else if (value.TunablesList is not null)
             JsonSerializer.Serialize(writer, value.TunablesList, options);
         else
-            throw new JsonException();
+            throw new JsonException("Either TunablesDictionary or TunablesList must be set");
     }
 }

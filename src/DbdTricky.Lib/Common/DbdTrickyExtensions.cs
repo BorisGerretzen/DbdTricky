@@ -38,15 +38,25 @@ public static class DbdTrickyExtensions
     /// </summary>
     /// <param name="services">Service collection.</param>
     /// <param name="configuration">Override default configuration.</param>
-    /// <param name="configureClient">HttpClient configurator. Note that using this will override configuration applied using <see cref="configuration"/>.</param>
-    public static IServiceCollection AddDbdTricky(this IServiceCollection services, DbdTrickyConfiguration? configuration = null, Action<HttpClient>? configureClient = null)
+    public static IServiceCollection AddDbdTricky(this IServiceCollection services, DbdTrickyConfiguration? configuration = null)
     {
-        configureClient ??= client =>
+        var configureClient = (HttpClient client) =>
         {
             client.BaseAddress = new Uri(configuration?.BaseUrl ?? "https://dbd.tricky.lol/api/");
             client.DefaultRequestHeaders.Add("User-Agent", configuration?.UserAgent ?? "DbdTricky.Lib");
         };
 
+        return services.AddDbdTricky(configureClient);
+    }
+
+    /// <summary>
+    /// Adds the DbdTricky services to the service collection.
+    /// </summary>
+    /// <param name="services">Service collection.</param>
+    /// <param name="configureClient">Configurator for the HttpClient.</param>
+    /// <returns></returns>
+    public static IServiceCollection AddDbdTricky(this IServiceCollection services, Action<HttpClient> configureClient)
+    {
         services.AddHttpClient<IDbdTrickyAddonsClient, DbdTrickyAddonsClient>(configureClient);
         services.AddHttpClient<IDbdTrickyArchivesClient, DbdTrickyArchivesClient>(configureClient);
         services.AddHttpClient<IDbdTrickyCharactersClient, DbdTrickyCharactersClient>(configureClient);

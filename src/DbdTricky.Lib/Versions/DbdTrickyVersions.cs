@@ -18,7 +18,7 @@ public class DbdTrickyVersions
     /// <summary>
     /// The versions of the API when this library was last updated.
     /// </summary>
-    public static readonly DbdTrickyVersions LibraryLastUpdated = new()
+    public static readonly DbdTrickyVersions LastKnown = new()
     {
         Addons = new DbdTrickyVersion { Version = "8.3.0", LastUpdate = 1728557468 },
         Archives = new DbdTrickyVersion { Version = "8.3.0", LastUpdate = 1729246248 },

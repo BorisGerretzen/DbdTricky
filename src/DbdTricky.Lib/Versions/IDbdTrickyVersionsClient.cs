@@ -4,7 +4,7 @@ public interface IDbdTrickyVersionsClient
 {
     /// <summary>
     /// Gets the versions of the different APIs.
-    /// Compare with <see cref="DbdTrickyVersions.LibraryLastUpdated"/> to see if the library is outdated.
+    /// Compare with <see cref="DbdTrickyVersions.LastKnown"/> to see if the library is outdated.
     /// </summary>
     /// <param name="cancellationToken"></param>
     /// <returns>Version for each API.</returns>

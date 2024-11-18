@@ -18,7 +18,7 @@ public class IntOrStringJsonConverter : JsonConverter<int>
                 throw new JsonException($"Cannot convert {str} to int");
             }
             default:
-                throw new JsonException();
+                throw new JsonException("Expected number or string");
         }
     }
 
