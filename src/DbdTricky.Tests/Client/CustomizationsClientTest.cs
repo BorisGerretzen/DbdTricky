@@ -9,25 +9,6 @@ namespace DbdTricky.Tests;
 
 public class CustomizationsClientTest
 {
-    /**
-     * "S30_outfit_009": {
-        "type": "outfit",
-        "category": null,
-        "name": "Supernatural Investigator",
-        "description": "He happened upon a journal from the 1950s, written by a navigator whose crew went missing.",
-        "collection": "Days Gone By Collection",
-        "character": 29,
-        "role": null,
-        "rarity": "veryrare",
-        "outfit": null,
-        "items": [
-            "S30_Head009",
-            "S30_Torso009",
-            "S30_Legs009"
-        ],
-        "image": "UI/Icons/Customization/S30/S30_outfit_009.png"
-    },
-     */
     [Test]
     public async Task GetCustomizations_ShouldReturnCustomizations()
     {

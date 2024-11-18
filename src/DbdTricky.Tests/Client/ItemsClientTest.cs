@@ -2,6 +2,7 @@
 using DbdTricky.Lib.Common;
 using DbdTricky.Lib.Items;
 using DbdTricky.Tests.Infrastructure;
+
 #pragma warning disable CS8602 // Dereference of a possibly null reference.
 
 namespace DbdTricky.Tests;

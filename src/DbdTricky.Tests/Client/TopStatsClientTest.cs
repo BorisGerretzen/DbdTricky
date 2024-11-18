@@ -1,4 +1,5 @@
-﻿using DbdTricky.Lib.TopStats;
+﻿using DbdTricky.Lib.Common;
+using DbdTricky.Lib.TopStats;
 using DbdTricky.Tests.Infrastructure;
 
 namespace DbdTricky.Tests;
@@ -36,7 +37,7 @@ public class TopStatsClientTest
         var client = TestHttpClientFactory.CreateClient("/topstats?stat=escaped", ResourceReader.Read("topstats.json"));
         var topStatsClient = new DbdTrickyTopStatsClient(client);
 
-        var topStats = await topStatsClient.GetTopStats(DbdTrickyTopStats.Escaped);
+        var topStats = await topStatsClient.GetTopStats(DbdTrickyStat.Escaped);
         Assert.That(topStats, Is.Not.Null);
     }
 }

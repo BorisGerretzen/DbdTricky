@@ -4,12 +4,15 @@ using DbdTricky.Lib.Characters;
 using DbdTricky.Lib.Customizations;
 using DbdTricky.Lib.Dlc;
 using DbdTricky.Lib.Events;
+using DbdTricky.Lib.GameModes;
 using DbdTricky.Lib.Items;
 using DbdTricky.Lib.Journals;
+using DbdTricky.Lib.KillSwitch;
 using DbdTricky.Lib.Maps;
 using DbdTricky.Lib.Offerings;
 using DbdTricky.Lib.PatchNotes;
 using DbdTricky.Lib.Perks;
+using DbdTricky.Lib.Player;
 using DbdTricky.Lib.PlayerCount;
 using DbdTricky.Lib.RankReset;
 using DbdTricky.Lib.Rift;
@@ -27,12 +30,15 @@ public interface IDbdTrickyClient
     IDbdTrickyCustomizationsClient Customizations { get; }
     IDbdTrickyDlcClient Dlc { get; }
     IDbdTrickyEventsClient Events { get; }
+    IDbdTrickyGameModesClient GameModes { get; }
     IDbdTrickyItemsClient Items { get; }
     IDbdTrickyJournalsClient Journals { get; }
+    IDbdTrickyKillSwitchClient KillSwitch { get; }
     IDbdTrickyMapsClient Maps { get; }
     IDbdTrickyOfferingsClient Offerings { get; }
     IDbdTrickyPatchNotesClient PatchNotes { get; }
     IDbdTrickyPerksClient Perks { get; }
+    IDbdTrickyPlayerClient Player { get; }
     IDbdTrickyPlayerCountClient PlayerCount { get; }
     IDbdTrickyRankResetClient RankReset { get; }
     IDbdTrickyRiftClient Rift { get; }
