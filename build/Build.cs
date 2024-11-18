@@ -18,7 +18,7 @@ using static Nuke.Common.Tools.Git.GitTasks;
     "Test",
     GitHubActionsImage.UbuntuLatest,
     InvokedTargets = [nameof(Test)],
-    On = [GitHubActionsTrigger.Push])]
+    On = [GitHubActionsTrigger.Push, GitHubActionsTrigger.PullRequest])]
 class Build : NukeBuild
 {
     [Parameter("Configuration to build - Default is 'Debug' (local) or 'Release' (server)")] readonly Configuration Configuration = IsLocalBuild ? Configuration.Debug : Configuration.Release;
