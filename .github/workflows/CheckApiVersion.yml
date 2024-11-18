@@ -20,8 +20,10 @@ jobs:
         run: |
           OUTPUT=$(dotnet run -c Release --project ./src/DbdTrickyVersionChecker/DbdTrickyVersionChecker.csproj)
           echo "$OUTPUT"
-          # Save the output to the GITHUB_OUTPUT file
-          echo "version-output=$OUTPUT" >> $GITHUB_OUTPUT
+          # Write sanitized output to GITHUB_OUTPUT
+          echo "version-output<<EOF" >> $GITHUB_OUTPUT
+          echo "$OUTPUT" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: 'Find Existing Issue'
         id: find-issue
