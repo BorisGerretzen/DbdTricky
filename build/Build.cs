@@ -110,7 +110,7 @@ class Build : NukeBuild
 
             Git("config --global user.email 'gh@gerretzen.eu'");
             Git("config --global user.name 'GitHub Actions'");
-            Git($"tag -a {PackageVersion} -m 'Created release {PackageVersion}'");
+            Git($"tag -a {PackageVersion} -m \"Created release {PackageVersion}\"");
             Git($"push --tags");
         });
 
