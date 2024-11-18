@@ -1,0 +1,15 @@
+meta {
+  name: patchnote
+  type: http
+  seq: 22
+}
+
+get {
+  url: {{url}}/patchnotes?version=8.0.0
+  body: none
+  auth: none
+}
+
+params:query {
+  version: 8.0.0
+}

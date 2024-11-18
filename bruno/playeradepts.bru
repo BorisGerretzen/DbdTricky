@@ -1,0 +1,15 @@
+meta {
+  name: playeradepts
+  type: http
+  seq: 26
+}
+
+get {
+  url: {{url}}/playeradepts?steamid={{steamid}}
+  body: none
+  auth: none
+}
+
+params:query {
+  steamid: {{steamid}}
+}

@@ -4,3 +4,7 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .nuke/temp
+bruno/**/*
+!bruno/*.bru
+!bruno/process.py
+!bruno/bruno.json

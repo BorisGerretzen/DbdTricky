@@ -1,0 +1,15 @@
+meta {
+  name: playerstats
+  type: http
+  seq: 28
+}
+
+get {
+  url: {{url}}/playerstats?steamid={{steamid}}
+  body: none
+  auth: none
+}
+
+params:query {
+  steamid: {{steamid}}
+}

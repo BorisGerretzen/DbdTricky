@@ -1,0 +1,16 @@
+meta {
+  name: leaderboardposition
+  type: http
+  seq: 17
+}
+
+get {
+  url: {{url}}/leaderboardposition?steamid={{steamid}}&stat=bloodpoints
+  body: none
+  auth: none
+}
+
+params:query {
+  steamid: {{steamid}}
+  stat: bloodpoints
+}
