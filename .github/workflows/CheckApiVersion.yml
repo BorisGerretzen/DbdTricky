@@ -21,13 +21,13 @@ jobs:
       - name: 'Run Version Checker'
         id: version-check
         run: |
-          OUTPUT=$(dotnet run -c Release --project ./src/DbdTrickyVersionChecker/DbdTrickyVersionChecker.csproj)
-          echo "$OUTPUT"
-          # Write sanitized output to GITHUB_OUTPUT
+          RAW_OUTPUT=$(dotnet run -c Release --project ./src/DbdTrickyVersionChecker/DbdTrickyVersionChecker.csproj)
+          CLEAN_OUTPUT=$(echo "$RAW_OUTPUT" | sed -r 's/[[:cntrl:]]\[[0-9;]*[mGK]//g')
+          echo "$CLEAN_OUTPUT"
           echo "version-output<<EOF" >> $GITHUB_OUTPUT
-          echo "$OUTPUT" >> $GITHUB_OUTPUT
+          echo "$CLEAN_OUTPUT" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-
+          
       - name: 'Find Existing Issue'
         id: find-issue
         env:
