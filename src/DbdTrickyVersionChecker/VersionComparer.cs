@@ -17,7 +17,7 @@ public class VersionComparer : IComparer<DbdTrickyVersion>
             var comparison = left.CompareTo(right);
             if (comparison != 0) return comparison;
         }
-        
-        return x.LastUpdate.CompareTo(y.LastUpdate);
+
+        return 0;
     }
 }

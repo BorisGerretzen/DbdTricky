@@ -108,16 +108,13 @@
                 "Killer07",
                 "Nightmare",
                 "Pig",
-                "Spirit",
                 "Clown",
                 "Legion",
                 "Plague",
                 "Ghostface",
                 "Demogorgon",
                 "Oni",
-                "Gunslinger",
                 "K20",
-                "K21",
                 "K22",
                 "K23",
                 "K24",
@@ -133,13 +130,16 @@
                 "K34",
                 "K35",
                 "K36",
+                "K37",
                 "Item_Camper_BeigeMap",
                 "Item_Camper_RainbowMap",
-                "Item_Camper_BrokenKey"
+                "Item_Camper_BrokenKey",
+                "HK_outfit_016",
+                "K21_outfit_012"
             ],
             "UsesCharacterClass": true,
             "InGameChestCountModifier": 18,
-            "GeneratorCount": 15,
+            "GeneratorCount": 13,
             "EscapeHatchCount": 3,
             "EscapeDoorCount": 3,
             "AudioGroupState": "Calamari",
@@ -152,7 +152,7 @@
             "MaxBotReplacementSurvivorsDuringMapLoading": 2
         },
         "mutators": null,
-        "limitedtime": 1
+        "limitedtime": 0
     },
     "ChocolateBox": {
         "name": "CHAOS SHUFFLE",
@@ -262,7 +262,7 @@
         "limitedtime": 1
     },
     "Firefly": {
-        "name": null,
+        "name": "LIGHTS OUT - CASTLEVANIA",
         "modifiers": {
             "InGameChestCountModifier": 8,
             "LevelLightingOverride": "DreadMode",
