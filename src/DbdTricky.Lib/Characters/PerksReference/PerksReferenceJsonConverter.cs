@@ -1,5 +1,4 @@
 ﻿using System.Text.Json;
-using System.Text.Json.Serialization;
 using DbdTricky.Lib.Perks;
 
 namespace DbdTricky.Lib.Characters;

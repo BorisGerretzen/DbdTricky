@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Events;
+﻿namespace DbdTricky.Lib.Events;
 
 public class DbdTrickyEventsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyEventsClient
 {

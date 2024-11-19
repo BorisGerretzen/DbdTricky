@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.TopStats;
+﻿namespace DbdTricky.Lib.TopStats;
 
 public class DbdTrickyTopStatsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyTopStatsClient
 {

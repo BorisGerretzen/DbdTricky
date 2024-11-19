@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Rift;
+﻿namespace DbdTricky.Lib.Rift;
 
 public class DbdTrickyRiftsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyRiftClient
 {

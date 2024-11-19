@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Perks;
+﻿namespace DbdTricky.Lib.Perks;
 
 public class DbdTrickyPerksClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyPerksClient
 {

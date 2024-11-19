@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.GameModes;
+﻿namespace DbdTricky.Lib.GameModes;
 
 public class DbdTrickyGameModesClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyGameModesClient
 {

@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Characters;
+﻿namespace DbdTricky.Lib.Characters;
 
 public interface IDbdTrickyCharactersClient
 {
@@ -10,7 +8,7 @@ public interface IDbdTrickyCharactersClient
     /// <param name="role">Filter by role.</param>
     /// <param name="cancellationToken"></param>
     /// <returns>Characters indexed by id.</returns>
-    Task<Dictionary<long, DbdTrickyCharacter>> GetCharacters(DbdTrickyRole? role, CancellationToken cancellationToken = default);
+    Task<Dictionary<long, DbdTrickyCharacter>> GetCharacters(DbdTrickyRole? role = null, CancellationToken cancellationToken = default);
     
     /// <summary>
     /// Gets a character by id.
@@ -28,5 +26,5 @@ public interface IDbdTrickyCharactersClient
     /// <param name="role">Filter by role.</param>
     /// <param name="includePerks">Whether to include perks.</param>
     /// <param name="cancellationToken"></param>
-    Task<DbdTrickyCharacter> GetRandom(DbdTrickyRole? role, bool includePerks = false, CancellationToken cancellationToken = default);
+    Task<DbdTrickyCharacter> GetRandom(DbdTrickyRole? role = null, bool includePerks = false, CancellationToken cancellationToken = default);
 }

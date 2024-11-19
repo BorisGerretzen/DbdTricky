@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Addons;
+﻿namespace DbdTricky.Lib.Addons;
 
 public class DbdTrickyAddonsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyAddonsClient
 {

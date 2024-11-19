@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Customizations;
+﻿namespace DbdTricky.Lib.Customizations;
 
 public class DbdTrickyCustomizationsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyCustomizationsClient
 {

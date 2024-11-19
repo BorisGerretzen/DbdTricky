@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace DbdTricky.Lib.Archives;
+﻿namespace DbdTricky.Lib.Archives;
 
 public class DbdTrickyArchive
 {

@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-using DbdTricky.Lib.Addons;
-using DbdTricky.Lib.Common;
+﻿using DbdTricky.Lib.Addons;
 
 namespace DbdTricky.Lib.Items;
 

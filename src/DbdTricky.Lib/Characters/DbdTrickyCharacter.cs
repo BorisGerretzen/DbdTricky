@@ -1,7 +1,4 @@
-﻿using System.Text.Json.Serialization;
-using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Characters;
+﻿namespace DbdTricky.Lib.Characters;
 
 public class DbdTrickyCharacter
 {

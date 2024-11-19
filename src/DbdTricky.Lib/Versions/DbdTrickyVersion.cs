@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace DbdTricky.Lib.Versions;
+﻿namespace DbdTricky.Lib.Versions;
 
 public class DbdTrickyVersion
 {

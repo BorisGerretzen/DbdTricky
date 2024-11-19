@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Perks;
+﻿namespace DbdTricky.Lib.Perks;
 
 public interface IDbdTrickyPerksClient
 {
@@ -26,5 +24,5 @@ public interface IDbdTrickyPerksClient
     /// <param name="role">Filter by role.</param>
     /// <param name="cancellationToken"></param>
     /// <returns>4 random perks indexed by id.</returns>
-    Task<Dictionary<string, DbdTrickyPerk>> GetRandom(DbdTrickyRole? role, CancellationToken cancellationToken = default);
+    Task<Dictionary<string, DbdTrickyPerk>> GetRandom(DbdTrickyRole? role = null, CancellationToken cancellationToken = default);
 }

@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Journals;
+﻿namespace DbdTricky.Lib.Journals;
 
 public class DbdTrickyJournalsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyJournalsClient
 {

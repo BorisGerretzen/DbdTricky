@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace DbdTricky.Lib.RankReset;
+﻿namespace DbdTricky.Lib.RankReset;
 
 public class DbdTrickyRankReset
 {

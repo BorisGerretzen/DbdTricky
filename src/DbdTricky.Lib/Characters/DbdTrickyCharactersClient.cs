@@ -1,11 +1,9 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Characters;
+﻿namespace DbdTricky.Lib.Characters;
 
 public class DbdTrickyCharactersClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyCharactersClient
 {
     /// <inheritdoc />
-    public Task<Dictionary<long, DbdTrickyCharacter>> GetCharacters(DbdTrickyRole? role, CancellationToken cancellationToken = default)
+    public Task<Dictionary<long, DbdTrickyCharacter>> GetCharacters(DbdTrickyRole? role = null, CancellationToken cancellationToken = default)
     {
         var parameters = new Dictionary<string, string?>();
         if (role.HasValue) parameters.Add("role", role.Value.AsString());

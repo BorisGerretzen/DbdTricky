@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace DbdTricky.Lib.Player;
+﻿namespace DbdTricky.Lib.Player;
 
 public class DbdTrickyPlayerAdepts
 {

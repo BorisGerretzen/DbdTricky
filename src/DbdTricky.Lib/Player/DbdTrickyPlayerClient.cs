@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Player;
+﻿namespace DbdTricky.Lib.Player;
 
 public class DbdTrickyPlayerClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyPlayerClient
 {

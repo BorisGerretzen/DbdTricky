@@ -1,7 +1,4 @@
-﻿using System.Text.Json.Serialization;
-using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Rift;
+﻿namespace DbdTricky.Lib.Rift;
 
 public class DbdTrickyRiftReward
 {

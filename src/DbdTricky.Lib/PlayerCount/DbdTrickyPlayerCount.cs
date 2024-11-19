@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace DbdTricky.Lib.PlayerCount;
+﻿namespace DbdTricky.Lib.PlayerCount;
 
 public class DbdTrickyPlayerCount
 {

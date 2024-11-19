@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Shrine;
+﻿namespace DbdTricky.Lib.Shrine;
 
 public class DbdTrickyShrineClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyShrineClient
 {

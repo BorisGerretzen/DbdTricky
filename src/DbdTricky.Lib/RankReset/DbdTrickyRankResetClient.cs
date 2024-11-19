@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.RankReset;
+﻿namespace DbdTricky.Lib.RankReset;
 
 public class DbdTrickyRankResetClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyRankResetClient
 {

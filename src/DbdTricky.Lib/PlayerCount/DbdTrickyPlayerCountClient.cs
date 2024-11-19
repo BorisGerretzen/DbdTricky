@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.PlayerCount;
+﻿namespace DbdTricky.Lib.PlayerCount;
 
 public class DbdTrickyPlayerCountClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyPlayerCountClient
 {

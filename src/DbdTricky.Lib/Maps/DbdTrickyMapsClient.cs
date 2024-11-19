@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Maps;
+﻿namespace DbdTricky.Lib.Maps;
 
 public class DbdTrickyMapsClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyMapsClient
 {

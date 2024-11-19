@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.PatchNotes;
+﻿namespace DbdTricky.Lib.PatchNotes;
 
 public class DbdTrickyPatchNotesClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyPatchNotesClient
 {

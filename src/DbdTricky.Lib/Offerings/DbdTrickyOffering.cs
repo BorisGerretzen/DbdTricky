@@ -1,7 +1,4 @@
-﻿using System.Text.Json.Serialization;
-using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Offerings;
+﻿namespace DbdTricky.Lib.Offerings;
 
 public class DbdTrickyOffering
 {

@@ -9,7 +9,7 @@ public interface IDbdTrickyCustomizationsClient
     /// <param name="type">Filter by type.</param>
     /// <param name="cancellationToken"></param>
     /// <returns>Customizations indexed by id.</returns>
-    Task<Dictionary<string, DbdTrickyCustomization>> GetCustomizations(string? character, string? type, CancellationToken cancellationToken = default);
+    Task<Dictionary<string, DbdTrickyCustomization>> GetCustomizations(string? character = null, string? type = null, CancellationToken cancellationToken = default);
     
     /// <summary>
     /// Get a customization by item id.

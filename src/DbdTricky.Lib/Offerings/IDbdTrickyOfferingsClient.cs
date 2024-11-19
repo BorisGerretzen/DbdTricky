@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Offerings;
+﻿namespace DbdTricky.Lib.Offerings;
 
 public interface IDbdTrickyOfferingsClient
 {

@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.TopStats;
+﻿namespace DbdTricky.Lib.TopStats;
 
 public interface IDbdTrickyTopStatsClient
 {

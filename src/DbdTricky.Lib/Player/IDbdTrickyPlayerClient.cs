@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.Player;
+﻿namespace DbdTricky.Lib.Player;
 
 public interface IDbdTrickyPlayerClient
 {

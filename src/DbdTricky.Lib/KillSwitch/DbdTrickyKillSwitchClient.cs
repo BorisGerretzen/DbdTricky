@@ -1,6 +1,4 @@
-﻿using DbdTricky.Lib.Common;
-
-namespace DbdTricky.Lib.KillSwitch;
+﻿namespace DbdTricky.Lib.KillSwitch;
 
 public class DbdTrickyKillSwitchClient(HttpClient http) : DbdTrickyBaseClient(http), IDbdTrickyKillSwitchClient
 {

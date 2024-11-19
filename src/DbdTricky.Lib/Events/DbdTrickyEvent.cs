@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace DbdTricky.Lib.Events;
+﻿namespace DbdTricky.Lib.Events;
 
 public class DbdTrickyEvent
 {

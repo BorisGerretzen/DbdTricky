@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace DbdTricky.Lib.GameModes;
+﻿namespace DbdTricky.Lib.GameModes;
 
 public class DbdTrickyGameMode
 {
