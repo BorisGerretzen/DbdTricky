@@ -1,4 +1,4 @@
-﻿{
+{
   "steamid": 99999999999999999,
   "bloodpoints": 4569287268,
   "survivor_rank": 10,
@@ -25,6 +25,7 @@
   "escaped_lastgenlastsurvivor": 56,
   "escaped_newitem": 4685,
   "escaped_withitemfrom": 801,
+  "escaped_broken": 5,
   "protectionhits_unhooked": 12271,
   "protectionhits_whilecarried": 2713,
   "healeddyingtoinjured": 7778,
@@ -55,6 +56,7 @@
   "chestssearched_basement": 1642,
   "mysteryboxesopened": 39116,
   "screams": 5680,
+  "unhookedsafely_whilebroken": 13,
   "secondfloorgen_disturbedward": 184,
   "secondfloorgen_fathercampbellschapel": 122,
   "secondfloorgen_mothersdwelling": 212,
@@ -117,6 +119,7 @@
   "survivorshit_whilecarrying": 7791,
   "survivorshit_basicattackundetectable": 694,
   "survivorshit_scamper": 11,
+  "survivorshit_detainedbydog": 74,
   "survivorsthreehookedbasementsametime": 1514,
   "hatchesclosed": 4917,
   "hookedwhilethreeinjured": 4903,

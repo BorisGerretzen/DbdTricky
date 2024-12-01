@@ -138,6 +138,9 @@ public class DbdTrickyPlayerAdepts
     [JsonPropertyName("trevor_count")] public int TrevorCount { get; init; }
     [JsonPropertyName("trevor_time")] public long TrevorTime { get; init; }
     
+    [JsonPropertyName("taurie_count")] public int TaurieCount { get; init; }
+    [JsonPropertyName("taurie_time")] public long TaurieTime { get; init; }
+    
     [JsonPropertyName("trapper_count")] public int TrapperCount { get; init; }
     [JsonPropertyName("trapper_time")] public long TrapperTime { get; init; }
     
@@ -248,4 +251,7 @@ public class DbdTrickyPlayerAdepts
     
     [JsonPropertyName("darklord_count")] public int DarklordCount { get; init; }
     [JsonPropertyName("darklord_time")] public long DarklordTime { get; init; }
+    
+    [JsonPropertyName("houndmaster_count")] public int HoundmasterCount { get; init; }
+    [JsonPropertyName("houndmaster_time")] public long HoundmasterTime { get; init; }
 }

@@ -3681,6 +3681,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Huntress/BE_Body025.png"
     },
+    "BE_Body026": {
+        "type": "item",
+        "category": "body",
+        "name": "Wild Pounce",
+        "description": "In an instant, an entire pack was upon her, snapping at her heels, wrists, and throat as she fought them off one by one.",
+        "collection": "Bone Chill 2024",
+        "character": 268435463,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": "BE_outfit_026",
+        "items": null,
+        "image": "UI/Icons/Customization/Huntress/BE_Body026.png"
+    },
     "BE_Body03": {
         "type": "item",
         "category": "body",
@@ -4045,6 +4058,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Huntress/BE_Mask025.png"
     },
+    "BE_Mask026": {
+        "type": "item",
+        "category": "head",
+        "name": "Bit Back",
+        "description": "She followed the trail of blood to the horse's dead owner. This was the work of wolves, and she quickly realized she was not alone.",
+        "collection": "Bone Chill 2024",
+        "character": 268435463,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": "BE_outfit_026",
+        "items": null,
+        "image": "UI/Icons/Customization/Huntress/BE_Mask026.png"
+    },
     "BE_Mask03": {
         "type": "item",
         "category": "head",
@@ -4334,6 +4360,23 @@
             "BE_W025"
         ],
         "image": "UI/Icons/Customization/Huntress/BE_outfit_025.png"
+    },
+    "BE_outfit_026": {
+        "type": "outfit",
+        "category": null,
+        "name": "Curious Kill",
+        "description": "Anna studied at the lifeless warhorse in the clearing. Its body was eviscerated, flesh stripped from its face.",
+        "collection": "Bone Chill 2024",
+        "character": 268435463,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": [
+            "BE_Mask026",
+            "BE_Body026",
+            "BE_W026"
+        ],
+        "image": "UI/Icons/Customization/Huntress/BE_outfit_026.png"
     },
     "BE_outfit_04_01": {
         "type": "outfit",
@@ -4663,6 +4706,19 @@
         "outfit": "BE_outfit_025",
         "items": null,
         "image": "UI/Icons/Customization/Huntress/BE_W025.png"
+    },
+    "BE_W026": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Last Howl",
+        "description": "She cut them down until only one was left. It ran for the trees, but fell in a heap when she threw her axe into its back.",
+        "collection": "Bone Chill 2024",
+        "character": 268435463,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": "BE_outfit_026",
+        "items": null,
+        "image": "UI/Icons/Customization/Huntress/BE_W026.png"
     },
     "BE_W02_01": {
         "type": "item",
@@ -5199,7 +5255,7 @@
             "TW_Body02",
             "TW_W03"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_001.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_001.png"
     },
     "Bob_outfit_002": {
         "type": "outfit",
@@ -5232,7 +5288,7 @@
             "TW_Head01_CV01",
             "TW_Body01_CV01"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_003.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_003.png"
     },
     "Bob_outfit_004": {
         "type": "outfit",
@@ -5248,7 +5304,7 @@
             "TW_Head01_CV02",
             "TW_Body01_CV02"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_004.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_004.png"
     },
     "Bob_outfit_005": {
         "type": "outfit",
@@ -5264,7 +5320,7 @@
             "TW_Head01_CV03",
             "TW_Body01_CV03"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_005.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_005.png"
     },
     "Bob_outfit_006": {
         "type": "outfit",
@@ -5280,7 +5336,7 @@
             "TW_Head01_CV04",
             "TW_Body01_CV04"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_006.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_006.png"
     },
     "Bob_outfit_007": {
         "type": "outfit",
@@ -5296,7 +5352,7 @@
             "TW_Head01_CV05",
             "TW_Body01_CV05"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_007.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_007.png"
     },
     "Bob_outfit_007_01": {
         "type": "outfit",
@@ -5313,7 +5369,7 @@
             "TW_Body007",
             "TW_W007"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_007_01.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_007_01.png"
     },
     "Bob_outfit_008": {
         "type": "outfit",
@@ -5329,7 +5385,7 @@
             "TW_Head01_01",
             "TW_Body01_01"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_008.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_008.png"
     },
     "Bob_outfit_009": {
         "type": "outfit",
@@ -5345,7 +5401,7 @@
             "TW_Head01_02",
             "TW_Body01_02"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_009.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_009.png"
     },
     "Bob_outfit_010": {
         "type": "outfit",
@@ -5362,7 +5418,7 @@
             "TW_Body006",
             "TW_W006"
         ],
-        "image": "UI/Icons/Customization/Bob_outfit_010.png"
+        "image": "UI/Icons/Customization/Wraith/Bob_outfit_010.png"
     },
     "BO_Head007": {
         "type": "item",
@@ -5431,7 +5487,7 @@
             "BO_Torso007",
             "BO_Legs007"
         ],
-        "image": "UI/Icons/Customization/BO_outfit007.png"
+        "image": "UI/Icons/Customization/Bill/BO_outfit007.png"
     },
     "BO_outfit_008": {
         "type": "outfit",
@@ -5556,7 +5612,7 @@
             "CA_Body006",
             "CA_W006"
         ],
-        "image": "UI/Icons/Customization/CA_outfit_006.png"
+        "image": "UI/Icons/Customization/Cannibal/CA_outfit_006.png"
     },
     "CA_outfit_007": {
         "type": "outfit",
@@ -5573,7 +5629,7 @@
             "CA_Body007",
             "CA_W007"
         ],
-        "image": "UI/Icons/Customization/CA_outfit_007.png"
+        "image": "UI/Icons/Customization/Cannibal/CA_outfit_007.png"
     },
     "CA_W006": {
         "type": "item",
@@ -5616,7 +5672,7 @@
             "TR_Body02",
             "TRW03"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_001.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_001.png"
     },
     "Chuckles_outfit_002": {
         "type": "outfit",
@@ -5633,7 +5689,7 @@
             "TR_Body09",
             "TRW05"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_002.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_002.png"
     },
     "Chuckles_outfit_003": {
         "type": "outfit",
@@ -5650,7 +5706,7 @@
             "TR_Body02_01",
             "TRW03_02"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_003.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_003.png"
     },
     "Chuckles_outfit_004": {
         "type": "outfit",
@@ -5667,7 +5723,7 @@
             "TR_Body02_02",
             "TRW03_01"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_004.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_004.png"
     },
     "Chuckles_outfit_005": {
         "type": "outfit",
@@ -5683,7 +5739,7 @@
             "TR_Mask01_01",
             "TR_Body01_01"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_005.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_005.png"
     },
     "Chuckles_outfit_006": {
         "type": "outfit",
@@ -5699,7 +5755,7 @@
             "TR_Mask01_02",
             "TR_Body01_02"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_006.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_006.png"
     },
     "Chuckles_outfit_007": {
         "type": "outfit",
@@ -5716,7 +5772,7 @@
             "TR_Body007",
             "TRW04"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_007.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_007.png"
     },
     "Chuckles_outfit_008": {
         "type": "outfit",
@@ -5733,7 +5789,7 @@
             "TR_Body007_01",
             "TRW04_02"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_008.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_008.png"
     },
     "Chuckles_outfit_008_01": {
         "type": "outfit",
@@ -5750,7 +5806,7 @@
             "TR_Body008",
             "TR_W008"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_008_01.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_008_01.png"
     },
     "Chuckles_outfit_009": {
         "type": "outfit",
@@ -5767,7 +5823,7 @@
             "TR_Body007_02",
             "TRW04_01"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_009.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_009.png"
     },
     "Chuckles_outfit_010": {
         "type": "outfit",
@@ -5784,7 +5840,7 @@
             "TR_Body006",
             "TR_W006"
         ],
-        "image": "UI/Icons/Customization/Chuckles_outfit_010.png"
+        "image": "UI/Icons/Customization/Trapper/Chuckles_outfit_010.png"
     },
     "CH_001": {
         "type": "charm",
@@ -6393,7 +6449,7 @@
             "GK_Body02",
             "GK_W02"
         ],
-        "image": "UI/Icons/Customization/Clown_outfit_001.png"
+        "image": "UI/Icons/Customization/Clown/Clown_outfit_001.png"
     },
     "Clown_outfit_002": {
         "type": "outfit",
@@ -6410,7 +6466,7 @@
             "GK_Body01_01",
             "GK_W01_01"
         ],
-        "image": "UI/Icons/Customization/Clown_outfit_002.png"
+        "image": "UI/Icons/Customization/Clown/Clown_outfit_002.png"
     },
     "Clown_outfit_003": {
         "type": "outfit",
@@ -6427,7 +6483,7 @@
             "GK_Body01_02",
             "GK_W01_02"
         ],
-        "image": "UI/Icons/Customization/Clown_outfit_003.png"
+        "image": "UI/Icons/Customization/Clown/Clown_outfit_003.png"
     },
     "Clown_outfit_004": {
         "type": "outfit",
@@ -6444,7 +6500,7 @@
             "GK_Body006",
             "GK_W006"
         ],
-        "image": "UI/Icons/Customization/Clown_outfit_004.png"
+        "image": "UI/Icons/Customization/Clown/Clown_outfit_004.png"
     },
     "Clown_outfit_007": {
         "type": "outfit",
@@ -6461,7 +6517,7 @@
             "GK_Body007",
             "GK_W007"
         ],
-        "image": "UI/Icons/Customization/Clown_outfit_007.png"
+        "image": "UI/Icons/Customization/Clown/Clown_outfit_007.png"
     },
     "Clown_outfit_008": {
         "type": "outfit",
@@ -6478,7 +6534,7 @@
             "GK_Body008",
             "GK_W008"
         ],
-        "image": "UI/Icons/Customization/Clown_outfit_008.png"
+        "image": "UI/Icons/Customization/Clown/Clown_outfit_008.png"
     },
     "CM_Head001": {
         "type": "item",
@@ -9643,9 +9699,9 @@
     "DF_Head035": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Guileful Bycoket",
+        "description": "As expected, Jimmy showed up. He smirked and snatched his gingerbread box, then walked away with his crew. Dwight stared, hoping his plan would work.",
+        "collection": "Modern Tales",
         "character": 0,
         "role": null,
         "rarity": "veryrare",
@@ -10371,9 +10427,9 @@
     "DF_Legs035": {
         "type": "item",
         "category": "legs",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Show's Star",
+        "description": "Dwight cracked up in his tree costume until the professor called him. Panic set in when he realized he had to stand in for Jimmy as Hansel on stage.",
+        "collection": "Modern Tales",
         "character": 0,
         "role": null,
         "rarity": "veryrare",
@@ -10890,9 +10946,9 @@
     "DF_outfit_035": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Dare Hansel",
+        "description": "Dwight sat by himself at lunch, nervous about the school play he had a role in that night. Jimmy, the school bully, tormented him at every rehearsal.",
+        "collection": "Modern Tales",
         "character": 0,
         "role": null,
         "rarity": "veryrare",
@@ -11583,9 +11639,9 @@
     "DF_Torso035": {
         "type": "item",
         "category": "torso",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Gingerbread Ambush",
+        "description": "At the last rehearsal, Jimmy was sweating on stage. Worried, people asked if he was okay as he hurried to the restroom.",
+        "collection": "Modern Tales",
         "character": 0,
         "role": null,
         "rarity": "veryrare",
@@ -13566,6 +13622,19 @@
         "outfit": "DK_outfit_025",
         "items": null,
         "image": "UI/Icons/Customization/David/DK_Torso025.png"
+    },
+    "DK_Torso026": {
+        "type": "item",
+        "category": "torso",
+        "name": "Celestial Lion",
+        "description": "A mighty lion made of stars.",
+        "collection": "Bone Chill 2024",
+        "character": 9,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/David/DK_Torso026.png"
     },
     "DK_Torso02_01": {
         "type": "item",
@@ -15633,6 +15702,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Doctor/DO_W021_01.png"
     },
+    "DO_W025": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Subzero Stick",
+        "description": "He poured liquid nitrogen into a tub, curious to modify his device.",
+        "collection": "Bone Chill 2024",
+        "character": 268435462,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/Doctor/DO_W025.png"
+    },
     "DO_Weapon01_01": {
         "type": "item",
         "category": "weapon",
@@ -17175,7 +17257,7 @@
             "FK_Body006",
             "FK_W006"
         ],
-        "image": "UI/Icons/Customization/FK_outfit_006.png"
+        "image": "UI/Icons/Customization/Pig/FK_outfit_006.png"
     },
     "FK_outfit_007": {
         "type": "outfit",
@@ -17192,7 +17274,7 @@
             "FK_Body007",
             "FK_W007"
         ],
-        "image": "UI/Icons/Customization/FK_outfit_007.png"
+        "image": "UI/Icons/Customization/Pig/FK_outfit_007.png"
     },
     "FK_outfit_008": {
         "type": "outfit",
@@ -17209,7 +17291,7 @@
             "FK_Body008",
             "FK_W008"
         ],
-        "image": "UI/Icons/Customization/FK_outfit_008.png"
+        "image": "UI/Icons/Customization/Pig/FK_outfit_008.png"
     },
     "FK_outfit_009": {
         "type": "outfit",
@@ -17226,7 +17308,7 @@
             "FK_Body009",
             "FK_W009"
         ],
-        "image": "UI/Icons/Customization/FK_outfit_009.png"
+        "image": "UI/Icons/Customization/Pig/FK_outfit_009.png"
     },
     "FK_outfit_010": {
         "type": "outfit",
@@ -20923,8 +21005,8 @@
     "FU_BDG_15": {
         "type": "playercard",
         "category": "badge",
-        "name": null,
-        "description": null,
+        "name": "Cuddly Crow",
+        "description": "Everyone needs some rest and relaxation.",
         "collection": null,
         "character": null,
         "role": null,
@@ -21053,8 +21135,8 @@
     "FU_BNR_09": {
         "type": "playercard",
         "category": "banner",
-        "name": null,
-        "description": null,
+        "name": "Lovely Lounge",
+        "description": "Forget your troubles, if you can.",
         "collection": null,
         "character": null,
         "role": null,
@@ -21075,6 +21157,45 @@
         "outfit": null,
         "items": null,
         "image": "UI/Icons/PlayerCards/Banners/Fudge/Release/Icons/FU_BNR_12_icon.png"
+    },
+    "GEL_001": {
+        "type": "charm",
+        "category": null,
+        "name": "Snow Crow",
+        "description": "Bundle up, before you catch your death of cold.",
+        "collection": "Bone Chill 2024",
+        "character": null,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/Charms/GEL_001.png"
+    },
+    "GEL_002": {
+        "type": "charm",
+        "category": null,
+        "name": "Frozen Generator",
+        "description": "It'll take a little longer to repair this one...",
+        "collection": "Bone Chill 2024",
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/Charms/GEL_002.png"
+    },
+    "GEL_004": {
+        "type": "charm",
+        "category": null,
+        "name": "Boulet Brothers Surprise",
+        "description": "Hello, uglies!",
+        "collection": "Boulet Brothers Dragula",
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/Charms/GEL_004.png"
     },
     "GE_001": {
         "type": "charm",
@@ -21101,6 +21222,175 @@
         "outfit": null,
         "items": null,
         "image": "UI/Icons/Customization/GE_002.png"
+    },
+    "GE_BDG_03": {
+        "type": "playercard",
+        "category": "badge",
+        "name": "Boulet Brothers Portrait",
+        "description": "The reigning queens of horror.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Gelato/Release/Icons/T_UI_GE_BDG_03.png"
+    },
+    "GE_BDG_04": {
+        "type": "playercard",
+        "category": "badge",
+        "name": "Gingerbread Victim",
+        "description": "Eat or be eaten.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Gelato/Release/Icons/T_UI_GE_BDG_04.png"
+    },
+    "GE_BDG_05": {
+        "type": "playercard",
+        "category": "badge",
+        "name": "Crosscanes",
+        "description": "Take one, if you dare.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Gelato/Release/Icons/T_UI_GE_BDG_05.png"
+    },
+    "GE_BDG_06": {
+        "type": "playercard",
+        "category": "badge",
+        "name": "Evil Snowcone",
+        "description": "This snowcone bites back.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Gelato/Release/Icons/T_UI_GE_BDG_06.png"
+    },
+    "GE_BDG_07": {
+        "type": "playercard",
+        "category": "badge",
+        "name": "Ormond Snowglobe",
+        "description": "Go on, give it a shake.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Gelato/Release/Icons/T_UI_GE_BDG_07.png"
+    },
+    "GE_BDG_08": {
+        "type": "playercard",
+        "category": "badge",
+        "name": "Frosty Hook",
+        "description": "There's room for one more decoration.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "ultrarare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Gelato/Release/Icons/T_UI_GE_BDG_08.png"
+    },
+    "GE_BDG_09": {
+        "type": "playercard",
+        "category": "badge",
+        "name": "Naughty Stocking",
+        "description": "Try to be nicer next year.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Gelato/Release/Icons/T_UI_GE_BDG_09.png"
+    },
+    "GE_BDG_10": {
+        "type": "playercard",
+        "category": "badge",
+        "name": "Snow Pile",
+        "description": "See any Snowskulls in there",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Badges/Gelato/Release/Icons/T_UI_GE_BDG_10.png"
+    },
+    "GE_BNR_03": {
+        "type": "playercard",
+        "category": "banner",
+        "name": "Boulet Touch",
+        "description": "Take their hands, won't you",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Banners/Gelato/Release/Icons/T_UI_GE_BNR_03_icon.png"
+    },
+    "GE_BNR_04": {
+        "type": "playercard",
+        "category": "banner",
+        "name": "Holiday Pattern",
+        "description": "Doesn't it look so comfy",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Banners/Gelato/Release/Icons/T_UI_GE_BNR_04_icon.png"
+    },
+    "GE_BNR_05": {
+        "type": "playercard",
+        "category": "banner",
+        "name": "Huntress Holiday",
+        "description": "She's ready to celebrate.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Banners/Gelato/Release/Icons/T_UI_GE_BNR_05_icon.png"
+    },
+    "GE_BNR_06": {
+        "type": "playercard",
+        "category": "banner",
+        "name": "Dwelf on a Shelf",
+        "description": "Who knows where you'll find him tomorrow",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Banners/Gelato/Release/Icons/T_UI_GE_BNR_06_icon.png"
+    },
+    "GE_BNR_07": {
+        "type": "playercard",
+        "category": "banner",
+        "name": "Crackling Fire",
+        "description": "Get close and warm your bones.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "ultrarare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/PlayerCards/Banners/Gelato/Release/Icons/T_UI_GE_BNR_07_icon.png"
     },
     "GK_Body006": {
         "type": "item",
@@ -21404,9 +21694,9 @@
     "GK_Body023": {
         "type": "item",
         "category": "body",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Shattering Heart",
+        "description": "Kenneth clawed back his tears. He wandered past a colorful coffin, and screamed at the maniac that erupted from inside.",
+        "collection": "Laugh N' Slash",
         "character": 268435467,
         "role": null,
         "rarity": "veryrare",
@@ -21755,9 +22045,9 @@
     "GK_Head023": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Lost Twinkle",
+        "description": "Deep in the maze, a clown lay in a rainbow coffin, waiting to scare unsuspecting carnival-goers.",
+        "collection": "Laugh N' Slash",
         "character": 268435467,
         "role": null,
         "rarity": "veryrare",
@@ -21806,7 +22096,7 @@
             "GK_Body009",
             "GK_W009"
         ],
-        "image": "UI/Icons/Customization/GK_outfit_009.png"
+        "image": "UI/Icons/Customization/Clown/GK_outfit_009.png"
     },
     "GK_outfit_010": {
         "type": "outfit",
@@ -21823,7 +22113,7 @@
             "GK_Body010",
             "GK_W010"
         ],
-        "image": "UI/Icons/Customization/GK_outfit_010.png"
+        "image": "UI/Icons/Customization/Clown/GK_outfit_010.png"
     },
     "GK_outfit_011": {
         "type": "outfit",
@@ -21840,7 +22130,7 @@
             "GK_Body011",
             "GK_W011"
         ],
-        "image": "UI/Icons/Customization/GK_outfit_011.png"
+        "image": "UI/Icons/Customization/Clown/GK_outfit_011.png"
     },
     "GK_outfit_012": {
         "type": "outfit",
@@ -21857,7 +22147,7 @@
             "GK_Body012",
             "GK_W012"
         ],
-        "image": "UI/Icons/Customization/GK_outfit_012.png"
+        "image": "UI/Icons/Customization/Clown/GK_outfit_012.png"
     },
     "GK_outfit_012_01": {
         "type": "outfit",
@@ -21891,7 +22181,7 @@
             "GK_Body013",
             "GK_W013"
         ],
-        "image": "UI/Icons/Customization/GK_outfit_013.png"
+        "image": "UI/Icons/Customization/Clown/GK_outfit_013.png"
     },
     "GK_outfit_014": {
         "type": "outfit",
@@ -21908,7 +22198,7 @@
             "GK_Body014",
             "GK_W014"
         ],
-        "image": "UI/Icons/Customization/GK_outfit_014.png"
+        "image": "UI/Icons/Customization/Clown/GK_outfit_014.png"
     },
     "GK_outfit_014_01": {
         "type": "outfit",
@@ -21998,9 +22288,9 @@
     "GK_outfit_023": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Lethal Trick",
+        "description": "He searched for his friends in the haunted maze, searching frantically as he lost his way.",
+        "collection": "Laugh N' Slash",
         "character": 268435467,
         "role": null,
         "rarity": "veryrare",
@@ -22027,7 +22317,7 @@
             "GK_Body02_03",
             "GK_W02_03"
         ],
-        "image": "UI/Icons/Customization/GK_outfit_02_03.png"
+        "image": "UI/Icons/Customization/Clown/GK_outfit_02_03.png"
     },
     "GK_outfit_02_04": {
         "type": "outfit",
@@ -22044,7 +22334,7 @@
             "GK_Body02_04",
             "GK_W013_01"
         ],
-        "image": "UI/Icons/Customization/GK_outfit_02_04.png"
+        "image": "UI/Icons/Customization/Clown/GK_outfit_02_04.png"
     },
     "GK_W006": {
         "type": "item",
@@ -22322,9 +22612,9 @@
     "GK_W023": {
         "type": "item",
         "category": "weapon",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Childish Knife",
+        "description": "When he came to, he was outside the maze, surrounded by concerned adults. In his hand was a knife he did not recognize.",
+        "collection": "Laugh N' Slash",
         "character": 268435467,
         "role": null,
         "rarity": "veryrare",
@@ -24479,7 +24769,7 @@
             "TC_Legs04",
             "TC_W04"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_001.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_001.png"
     },
     "HillBilly_outfit_002": {
         "type": "outfit",
@@ -24496,7 +24786,7 @@
             "TC_Legs05",
             "TC_W05"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_002.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_002.png"
     },
     "HillBilly_outfit_003": {
         "type": "outfit",
@@ -24512,7 +24802,7 @@
             "TC_Torso01_CV01",
             "TC_Legs01_CV01"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_003.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_003.png"
     },
     "HillBilly_outfit_004": {
         "type": "outfit",
@@ -24528,7 +24818,7 @@
             "TC_Torso01_CV02",
             "TC_Legs01_CV02"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_004.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_004.png"
     },
     "HillBilly_outfit_005": {
         "type": "outfit",
@@ -24544,7 +24834,7 @@
             "TC_Torso01_CV03",
             "TC_Legs01_CV03"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_005.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_005.png"
     },
     "HillBilly_outfit_006": {
         "type": "outfit",
@@ -24560,7 +24850,7 @@
             "TC_Torso01_CV04",
             "TC_Legs01_CV04"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_006.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_006.png"
     },
     "HillBilly_outfit_007": {
         "type": "outfit",
@@ -24576,7 +24866,7 @@
             "TC_Torso01_CV05",
             "TC_Legs01_CV05"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_007.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_007.png"
     },
     "Hillbilly_Outfit_007_01": {
         "type": "outfit",
@@ -24593,7 +24883,7 @@
             "TC_Legs007",
             "TC_W007"
         ],
-        "image": "UI/Icons/Customization/Hillbilly_Outfit_007_01.png"
+        "image": "UI/Icons/Customization/Hillbilly/Hillbilly_Outfit_007_01.png"
     },
     "HillBilly_outfit_008": {
         "type": "outfit",
@@ -24609,7 +24899,7 @@
             "TC_Torso01_01",
             "TC_Legs01_01"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_008.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_008.png"
     },
     "HillBilly_outfit_008_01": {
         "type": "outfit",
@@ -24626,7 +24916,7 @@
             "TC_Legs008",
             "TC_W008"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_008_01.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_008_01.png"
     },
     "HillBilly_outfit_009": {
         "type": "outfit",
@@ -24642,7 +24932,7 @@
             "TC_Torso01_02",
             "TC_Legs01_02"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_009.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_009.png"
     },
     "HillBilly_outfit_010": {
         "type": "outfit",
@@ -24659,7 +24949,7 @@
             "TC_Legs006",
             "TC_W006"
         ],
-        "image": "UI/Icons/Customization/HillBilly_outfit_010.png"
+        "image": "UI/Icons/Customization/Hillbilly/HillBilly_outfit_010.png"
     },
     "HK_Body006_01": {
         "type": "item",
@@ -25067,9 +25357,9 @@
     "HK_Body022": {
         "type": "item",
         "category": "body",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Fractured Kimono",
+        "description": "She scurried over with a dustpan to gather the shards. He didn't take his eyes off her until she had collected every single piece.",
+        "collection": "Cozy Break",
         "character": 268435468,
         "role": null,
         "rarity": "veryrare",
@@ -25522,9 +25812,9 @@
     "HK_Head022": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Unsteady Dream",
+        "description": "She drifted off to sleep, only to be startled awake by a vase breaking in the corridor. There she found her father standing over the shattered pieces.",
+        "collection": "Cozy Break",
         "character": 268435468,
         "role": null,
         "rarity": "veryrare",
@@ -25581,7 +25871,7 @@
             "HK_Body010",
             "HK_W010"
         ],
-        "image": "UI/Icons/Customization/HK_outfit_010.png"
+        "image": "UI/Icons/Customization/Spirit/HK_outfit_010.png"
     },
     "HK_outfit_010_01": {
         "type": "outfit",
@@ -25615,7 +25905,7 @@
             "HK_Body011",
             "HK_W011"
         ],
-        "image": "UI/Icons/Customization/HK_outfit_011.png"
+        "image": "UI/Icons/Customization/Spirit/HK_outfit_011.png"
     },
     "HK_outfit_012": {
         "type": "outfit",
@@ -25632,7 +25922,7 @@
             "HK_Body012",
             "HK_W012"
         ],
-        "image": "UI/Icons/Customization/HK_outfit_012.png"
+        "image": "UI/Icons/Customization/Spirit/HK_outfit_012.png"
     },
     "HK_outfit_013": {
         "type": "outfit",
@@ -25649,7 +25939,7 @@
             "HK_Body013",
             "HK_W013"
         ],
-        "image": "UI/Icons/Customization/HK_outfit_013.png"
+        "image": "UI/Icons/Customization/Spirit/HK_outfit_013.png"
     },
     "HK_outfit_014": {
         "type": "outfit",
@@ -25751,7 +26041,7 @@
             "HK_Body01_05",
             "HK_W01_05"
         ],
-        "image": "UI/Icons/Customization/HK_outfit_01_05.png"
+        "image": "UI/Icons/Customization/Spirit/HK_outfit_01_05.png"
     },
     "HK_outfit_020": {
         "type": "outfit",
@@ -25807,9 +26097,9 @@
     "HK_outfit_022": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Broken Peace",
+        "description": "She arranged her pillows and settled in to read her book. The summer sun beamed through the window, and she tried to ignore the sweat on her brow.",
+        "collection": "Cozy Break",
         "character": 268435468,
         "role": null,
         "rarity": "veryrare",
@@ -26214,9 +26504,9 @@
     "HK_W022": {
         "type": "item",
         "category": "weapon",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Kintsugi Katana",
+        "description": "The moon hung high in the sky as she finished reassembling the vase. At last, she returned to her book, leaving bloody fingerprints on the pages.",
+        "collection": "Cozy Break",
         "character": 268435468,
         "role": null,
         "rarity": "veryrare",
@@ -27699,6 +27989,19 @@
         "outfit": "HS_outfit_025",
         "items": null,
         "image": "UI/Icons/Customization/Adam/HS_Torso025.png"
+    },
+    "HS_Torso027": {
+        "type": "item",
+        "category": "torso",
+        "name": "Celestial Bear",
+        "description": "A righteous bear made of stars.",
+        "collection": "Bone Chill 2024",
+        "character": 13,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/Adam/HS_Torso027.png"
     },
     "HS_Torso02_01": {
         "type": "item",
@@ -32438,7 +32741,7 @@
             "K20_Body006",
             "K20_W006"
         ],
-        "image": "UI/Icons/Customization/K20_outfit_006.png"
+        "image": "UI/Icons/Customization/K20/K20_outfit_006.png"
     },
     "K20_outfit_007": {
         "type": "outfit",
@@ -32455,7 +32758,7 @@
             "K20_Body007",
             "K20_W007"
         ],
-        "image": "UI/Icons/Customization/K20_outfit_007.png"
+        "image": "UI/Icons/Customization/K20/K20_outfit_007.png"
     },
     "K20_outfit_008": {
         "type": "outfit",
@@ -32472,7 +32775,7 @@
             "K20_Body008",
             "K20_W008"
         ],
-        "image": "UI/Icons/Customization/K20_outfit_008.png"
+        "image": "UI/Icons/Customization/K20/K20_outfit_008.png"
     },
     "K20_PCharm001": {
         "type": "charm",
@@ -33378,7 +33681,7 @@
             "K21_Body01_01",
             "K21_W01_01"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_01_01.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_01_01.png"
     },
     "K21_outfit_01_02": {
         "type": "outfit",
@@ -33395,7 +33698,7 @@
             "K21_Body01_02",
             "K21_W01_02"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_01_02.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_01_02.png"
     },
     "K21_outfit_01_03": {
         "type": "outfit",
@@ -33412,7 +33715,7 @@
             "K21_Body01_03",
             "K21_W01_03"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_01_03.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_01_03.png"
     },
     "K21_outfit_01_04": {
         "type": "outfit",
@@ -33429,7 +33732,7 @@
             "K21_Body01_04",
             "K21_W01_04"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_01_04.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_01_04.png"
     },
     "K21_outfit_01_CV01": {
         "type": "outfit",
@@ -33446,7 +33749,7 @@
             "K21_Body01_CV01",
             "K21_W01_CV01"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_01_CV01.png"
     },
     "K21_outfit_01_CV02": {
         "type": "outfit",
@@ -33463,7 +33766,7 @@
             "K21_Body01_CV02",
             "K21_W01_CV02"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_01_CV02.png"
     },
     "K21_outfit_01_CV03": {
         "type": "outfit",
@@ -33480,7 +33783,7 @@
             "K21_Body01_CV03",
             "K21_W01_CV03"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_01_CV03.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_01_CV03.png"
     },
     "K21_outfit_01_CV04": {
         "type": "outfit",
@@ -33497,7 +33800,7 @@
             "K21_Body01_CV04",
             "K21_W01_CV04"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_01_CV04.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_01_CV04.png"
     },
     "K21_outfit_02": {
         "type": "outfit",
@@ -33514,7 +33817,7 @@
             "K21_Body02",
             "K21_W02"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_02.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_02.png"
     },
     "K21_outfit_02_01": {
         "type": "outfit",
@@ -33531,7 +33834,7 @@
             "K21_Body02_01",
             "K21_W02_01"
         ],
-        "image": "UI/Icons/Customization/K21_outfit_02_01.png"
+        "image": "UI/Icons/Customization/K21/K21_outfit_02_01.png"
     },
     "K21_PCharm001": {
         "type": "charm",
@@ -34384,7 +34687,7 @@
             "K22_Body007",
             "K22_W007"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_007.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_007.png"
     },
     "K22_outfit_007_01": {
         "type": "outfit",
@@ -34486,7 +34789,7 @@
             "K22_Body01_01",
             "K22_W01_01"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_01_01.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_01_01.png"
     },
     "K22_outfit_01_02": {
         "type": "outfit",
@@ -34503,7 +34806,7 @@
             "K22_Body01_02",
             "K22_W01_02"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_01_02.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_01_02.png"
     },
     "K22_outfit_01_03": {
         "type": "outfit",
@@ -34520,7 +34823,7 @@
             "K22_Body01_03",
             "K22_W01_03"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_01_03.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_01_03.png"
     },
     "K22_outfit_01_CV01": {
         "type": "outfit",
@@ -34537,7 +34840,7 @@
             "K22_Body01_CV01",
             "K22_W01_CV01"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_01_CV01.png"
     },
     "K22_outfit_01_CV02": {
         "type": "outfit",
@@ -34554,7 +34857,7 @@
             "K22_Body01_CV02",
             "K22_W01_CV02"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_01_CV02.png"
     },
     "K22_outfit_01_CV03": {
         "type": "outfit",
@@ -34571,7 +34874,7 @@
             "K22_Body01_CV03",
             "K22_W01_CV03"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_01_CV03.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_01_CV03.png"
     },
     "K22_outfit_01_CV04": {
         "type": "outfit",
@@ -34588,7 +34891,7 @@
             "K22_Body01_CV04",
             "K22_W01_CV04"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_01_CV04.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_01_CV04.png"
     },
     "K22_outfit_02": {
         "type": "outfit",
@@ -34605,7 +34908,7 @@
             "K22_Body02",
             "K22_W02"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_02.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_02.png"
     },
     "K22_outfit_02_01": {
         "type": "outfit",
@@ -34622,7 +34925,7 @@
             "K22_Body02_01",
             "K22_W02_01"
         ],
-        "image": "UI/Icons/Customization/K22_outfit_02_01.png"
+        "image": "UI/Icons/Customization/K22/K22_outfit_02_01.png"
     },
     "K22_PCharm001": {
         "type": "charm",
@@ -34766,6 +35069,19 @@
         "outfit": "K22_outfit_011",
         "items": null,
         "image": "UI/Icons/Customization/K22/K22_W011.png"
+    },
+    "K22_W014": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Hoarfrost Blade",
+        "description": "She let the snow and ice overwhelm her sickle.",
+        "collection": "Bone Chill 2024",
+        "character": 268435477,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/K22/K22_W014.png"
     },
     "K22_W01_01": {
         "type": "item",
@@ -35640,7 +35956,7 @@
             "K23_Body006",
             "K23_Weapon006"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_006.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_006.png"
     },
     "K23_outfit_006_01": {
         "type": "outfit",
@@ -35674,7 +35990,7 @@
             "K23_Body007",
             "K23_Weapon007"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_007.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_007.png"
     },
     "K23_outfit_007_02": {
         "type": "outfit",
@@ -35708,7 +36024,7 @@
             "K23_Body008",
             "K23_Weapon008"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_008.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_008.png"
     },
     "K23_outfit_009": {
         "type": "outfit",
@@ -35725,7 +36041,7 @@
             "K23_Body009",
             "K23_Weapon009"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_009.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_009.png"
     },
     "K23_outfit_010": {
         "type": "outfit",
@@ -35742,7 +36058,7 @@
             "K23_Body010",
             "K23_Weapon010"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_010.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_010.png"
     },
     "K23_outfit_012": {
         "type": "outfit",
@@ -35861,7 +36177,7 @@
             "K23_Body01_01",
             "K23_Weapon01_01"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_01_01.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_01_01.png"
     },
     "K23_outfit_01_02": {
         "type": "outfit",
@@ -35878,7 +36194,7 @@
             "K23_Body01_02",
             "K23_Weapon01_02"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_01_02.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_01_02.png"
     },
     "K23_outfit_01_03": {
         "type": "outfit",
@@ -35895,7 +36211,7 @@
             "K23_Body01_03",
             "K23_Weapon01_03"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_01_03.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_01_03.png"
     },
     "K23_outfit_01_CV01": {
         "type": "outfit",
@@ -35911,7 +36227,7 @@
             "K23_Body01_CV01",
             "K23_Weapon01_CV01"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_01_CV01.png"
     },
     "K23_outfit_01_CV02": {
         "type": "outfit",
@@ -35927,7 +36243,7 @@
             "K23_Body01_CV02",
             "K23_Weapon01_CV02"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_01_CV02.png"
     },
     "K23_outfit_01_CV03": {
         "type": "outfit",
@@ -35943,7 +36259,7 @@
             "K23_Body01_CV03",
             "K23_Weapon01_CV03"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_01_CV03.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_01_CV03.png"
     },
     "K23_outfit_01_CV04": {
         "type": "outfit",
@@ -35959,7 +36275,7 @@
             "K23_Body01_CV04",
             "K23_Weapon01_CV04"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_01_CV04.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_01_CV04.png"
     },
     "K23_outfit_02": {
         "type": "outfit",
@@ -35976,7 +36292,7 @@
             "K23_Body02",
             "K23_Weapon02"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_02.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_02.png"
     },
     "K23_outfit_021": {
         "type": "outfit",
@@ -36095,7 +36411,7 @@
             "K23_Body02_01",
             "K23_Weapon02_01"
         ],
-        "image": "UI/Icons/Customization/K23_outfit_02_01.png"
+        "image": "UI/Icons/Customization/K23/K23_outfit_02_01.png"
     },
     "K23_PCharm001": {
         "type": "charm",
@@ -36541,7 +36857,7 @@
             "K24_Body007",
             "K24_Weapon007"
         ],
-        "image": "UI/Icons/Customization/K24_outfit_007.png"
+        "image": "UI/Icons/Customization/K24/K24_outfit_007.png"
     },
     "K24_PCharm001": {
         "type": "charm",
@@ -37293,7 +37609,7 @@
             "K26_Body006",
             "K26_W006"
         ],
-        "image": "UI/Icons/Customization/K26_outfit_006.png"
+        "image": "UI/Icons/Customization/K26/K26_outfit_006.png"
     },
     "K26_outfit_007": {
         "type": "outfit",
@@ -37496,7 +37812,7 @@
             "K26_Head01_01",
             "K26_Body01_01"
         ],
-        "image": "UI/Icons/Customization/K26_outfit_01_01.png"
+        "image": "UI/Icons/Customization/K26/K26_outfit_01_01.png"
     },
     "K26_outfit_01_02": {
         "type": "outfit",
@@ -37512,7 +37828,7 @@
             "K26_Head01_02",
             "K26_Body01_02"
         ],
-        "image": "UI/Icons/Customization/K26_outfit_01_02.png"
+        "image": "UI/Icons/Customization/K26/K26_outfit_01_02.png"
     },
     "K26_outfit_01_03": {
         "type": "outfit",
@@ -37528,7 +37844,7 @@
             "K26_Head01_03",
             "K26_Body01_03"
         ],
-        "image": "UI/Icons/Customization/K26_outfit_01_03.png"
+        "image": "UI/Icons/Customization/K26/K26_outfit_01_03.png"
     },
     "K26_outfit_01_04": {
         "type": "outfit",
@@ -37561,7 +37877,7 @@
             "K26_Body02",
             "K26_W02"
         ],
-        "image": "UI/Icons/Customization/K26_outfit_02.png"
+        "image": "UI/Icons/Customization/K26/K26_outfit_02.png"
     },
     "K26_outfit_02_01": {
         "type": "outfit",
@@ -37577,7 +37893,7 @@
             "K26_Head02_01",
             "K26_Body02_01"
         ],
-        "image": "UI/Icons/Customization/K26_outfit_02_01.png"
+        "image": "UI/Icons/Customization/K26/K26_outfit_02_01.png"
     },
     "K26_PCharm001": {
         "type": "charm",
@@ -38804,6 +39120,19 @@
         "items": null,
         "image": "UI/Icons/Customization/K28/K28_W015.png"
     },
+    "K28_W017": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Gelid Appendage",
+        "description": "It reached out from a realm of eternal ice.",
+        "collection": "Bone Chill 2024",
+        "character": 268435483,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/K28/K28_W017.png"
+    },
     "K28_W01_01": {
         "type": "item",
         "category": "weapon",
@@ -39804,6 +40133,19 @@
         "items": null,
         "image": "UI/Icons/Customization/K30/K30_W015.png"
     },
+    "K30_W016": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Icestorm Claymore",
+        "description": "The shards of ice bit into his enemy's shoulder, spraying blood.",
+        "collection": "Bone Chill 2024",
+        "character": 268435485,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/K30/K30_W016.png"
+    },
     "K30_W01_01": {
         "type": "item",
         "category": "weapon",
@@ -40718,6 +41060,19 @@
         "items": null,
         "image": "UI/Icons/Customization/K31/K31_W013.png"
     },
+    "K31_W015": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Frozen Dual Blades",
+        "description": "The mountain hunt caused her blades to frost up.",
+        "collection": "Bone Chill 2024",
+        "character": 268435486,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/K31/K31_W015.png"
+    },
     "K31_W01_01": {
         "type": "item",
         "category": "weapon",
@@ -41575,9 +41930,9 @@
     "K33_Body010": {
         "type": "item",
         "category": "body",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Jockey Mesoskeleton",
+        "description": "It crawled along the massive cargo bay, weaving between the dormant eggs.",
+        "collection": "Alien Reimagined Collection",
         "character": 268435488,
         "role": null,
         "rarity": "veryrare",
@@ -41640,9 +41995,9 @@
     "K33_Head010": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Cabled Skull",
+        "description": "Primal instincts raced through its body, colored by a touch of unnerving intelligence.",
+        "collection": "Alien Reimagined Collection",
         "character": 268435488,
         "role": null,
         "rarity": "veryrare",
@@ -41717,9 +42072,9 @@
     "K33_outfit_010": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Juggernaut Xenomorph",
+        "description": "A deadly creature fused with parts of an ancient ship.",
+        "collection": "Alien Reimagined Collection",
         "character": 268435488,
         "role": null,
         "rarity": "veryrare",
@@ -41829,9 +42184,9 @@
     "K33_W010": {
         "type": "item",
         "category": "weapon",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Biomechanical Claw",
+        "description": "It sought to kill, attacking those who came near the crashed ship.",
+        "collection": "Alien Reimagined Collection",
         "character": 268435488,
         "role": null,
         "rarity": "veryrare",
@@ -42375,6 +42730,19 @@
         "items": null,
         "image": "UI/Icons/Customization/K35/K35_Head01_03.png"
     },
+    "K35_Head01_WinterEvent2024": {
+        "type": "item",
+        "category": "head",
+        "name": "Frosty Eyes",
+        "description": "A cold glare that sent shivers down the spine.",
+        "collection": "Bone Chill 2024",
+        "character": 268435490,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/K35/K35_Head01_WinterEvent2024.png"
+    },
     "K35_Head02": {
         "type": "item",
         "category": "head",
@@ -42439,7 +42807,7 @@
         "type": "outfit",
         "category": null,
         "name": "Bonfire Faire",
-        "description": "The people of celebrated a fateful anniversary with music, dancing, and a great pyre in the town square.",
+        "description": "The people celebrated a fateful anniversary with music, dancing, and a great pyre in the town square.",
         "collection": "Gothic Tales",
         "character": 268435490,
         "role": null,
@@ -42943,6 +43311,32 @@
         "items": null,
         "image": "UI/Icons/Customization/K37/K37_Body007.png"
     },
+    "K37_Body008": {
+        "type": "item",
+        "category": "body",
+        "name": "Menacing Eye",
+        "description": "It stared at its victim, unmoved, unerring, a symbol of its master's absolute authority.",
+        "collection": "Castlevania",
+        "character": 268435492,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K37_outfit_008",
+        "items": null,
+        "image": "UI/Icons/Customization/K37/K37_Body008.png"
+    },
+    "K37_Body008_01": {
+        "type": "item",
+        "category": "body",
+        "name": "Menacing Eye (Deep Rift)",
+        "description": "It never wavered, its unflinching gaze a symbol of its master's unyielding rule over all that he saw.",
+        "collection": "Deep Rift",
+        "character": 268435492,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K37_outfit_008_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K37/K37_Body008_01.png"
+    },
     "K37_Head006": {
         "type": "item",
         "category": "head",
@@ -42968,6 +43362,32 @@
         "outfit": "K37_outfit_007",
         "items": null,
         "image": "UI/Icons/Customization/K37/K37_Head007.png"
+    },
+    "K37_Head008": {
+        "type": "item",
+        "category": "head",
+        "name": "Demonic Might",
+        "description": "He only assumed this form as a last resort, when there was no longer a reason to restrain his dominance.",
+        "collection": "Castlevania",
+        "character": 268435492,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K37_outfit_008",
+        "items": null,
+        "image": "UI/Icons/Customization/K37/K37_Head008.png"
+    },
+    "K37_Head008_01": {
+        "type": "item",
+        "category": "head",
+        "name": "Demonic Might (Deep Rift)",
+        "description": "He assumed this form as a testament to his might, his centuries-old oath of absolute evil.",
+        "collection": "Deep Rift",
+        "character": 268435492,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K37_outfit_008_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K37/K37_Head008_01.png"
     },
     "K37_outfit_006": {
         "type": "outfit",
@@ -43002,6 +43422,40 @@
             "K37_W007"
         ],
         "image": "UI/Icons/Customization/K37/K37_outfit_007.png"
+    },
+    "K37_outfit_008": {
+        "type": "outfit",
+        "category": null,
+        "name": "True Form",
+        "description": "The fight was in his favor. He summoned lightning overhead to deliver the fatal blow as black fog surrounded him.",
+        "collection": "Castlevania",
+        "character": 268435492,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": null,
+        "items": [
+            "K37_Head008",
+            "K37_Body008",
+            "K37_W008"
+        ],
+        "image": "UI/Icons/Customization/K37/K37_outfit_008.png"
+    },
+    "K37_outfit_008_01": {
+        "type": "outfit",
+        "category": null,
+        "name": "True Form (Deep Rift)",
+        "description": "The fight was all but over. He sought to prolong his victim's suffering when the black fog swarmed around him.",
+        "collection": "Deep Rift",
+        "character": 268435492,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": null,
+        "items": [
+            "K37_Head008_01",
+            "K37_Body008_01",
+            "K37_W008_01"
+        ],
+        "image": "UI/Icons/Customization/K37/K37_outfit_008_01.png"
     },
     "K37_PCharm001": {
         "type": "charm",
@@ -43067,6 +43521,601 @@
         "outfit": "K37_outfit_007",
         "items": null,
         "image": "UI/Icons/Customization/K37/K37_W007.png"
+    },
+    "K37_W008": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Full Circle",
+        "description": "His victory had been cruelly interrupted. He stormed through this new realm, hungry for another fight.",
+        "collection": "Castlevania",
+        "character": 268435492,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K37_outfit_008",
+        "items": null,
+        "image": "UI/Icons/Customization/K37/K37_W008.png"
+    },
+    "K37_W008_01": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Full Circle (Deep Rift)",
+        "description": "His fury drove him to victory, and he stormed through the realm to satiate his craving.",
+        "collection": "Deep Rift",
+        "character": 268435492,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K37_outfit_008_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K37/K37_W008_01.png"
+    },
+    "K38_Body006": {
+        "type": "item",
+        "category": "body",
+        "name": "Ruby and Gold",
+        "description": "As she entered the fog, she caught glimpses of her most favorite dogs, past and present, running free in the darkness.",
+        "collection": "Houndmaster Legendary Collection",
+        "character": 268435493,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K38_outfit_006",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body006.png"
+    },
+    "K38_Body01_01": {
+        "type": "item",
+        "category": "body",
+        "name": "Monster's Hide",
+        "description": "The creatures were unlike anything she'd ever seen, and every day was a fight for survival.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body01_01.png"
+    },
+    "K38_Body01_02": {
+        "type": "item",
+        "category": "body",
+        "name": "Royal Purple",
+        "description": "The creatures were unlike anything she'd ever seen, and every day was a fight for survival.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_02",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body01_02.png"
+    },
+    "K38_Body01_03": {
+        "type": "item",
+        "category": "body",
+        "name": "Leopard Finery",
+        "description": "The creatures were unlike anything she'd ever seen, and every day was a fight for survival.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_03",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body01_03.png"
+    },
+    "K38_Body01_CV01": {
+        "type": "item",
+        "category": "body",
+        "name": "Golden Hour",
+        "description": "The crew dreaded the day that they would be casualties of her fits of madness.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": "K38_outfit_01_CV01",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body01_CV01.png"
+    },
+    "K38_Body01_CV02": {
+        "type": "item",
+        "category": "body",
+        "name": "Below Water",
+        "description": "The crew dreaded the day that they would be casualties of her fits of madness.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": "K38_outfit_01_CV02",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body01_CV02.png"
+    },
+    "K38_Body01_CV03": {
+        "type": "item",
+        "category": "body",
+        "name": "Redfire",
+        "description": "The crew dreaded the day that they would be casualties of her fits of madness.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": "K38_outfit_01_CV03",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body01_CV03.png"
+    },
+    "K38_Body01_CV04": {
+        "type": "item",
+        "category": "body",
+        "name": "Surging Storm",
+        "description": "The crew dreaded the day that they would be casualties of her fits of madness.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": "K38_outfit_01_CV04",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body01_CV04.png"
+    },
+    "K38_Body02": {
+        "type": "item",
+        "category": "body",
+        "name": "Fur-Lined Shore",
+        "description": "Many spoke of the quality of her finery, though few witnesses lived to verify such claims.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "K38_outfit_02",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body02.png"
+    },
+    "K38_Body02_01": {
+        "type": "item",
+        "category": "body",
+        "name": "Fur-Lined Parlor",
+        "description": "Many spoke of the quality of her finery, though few witnesses lived to verify such claims.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "K38_outfit_02_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Body02_01.png"
+    },
+    "K38_Head006": {
+        "type": "item",
+        "category": "head",
+        "name": "Undercut",
+        "description": "Her dogs were the only ones who didn\u2019t fear her. They were the only ones she trusted.",
+        "collection": "Houndmaster Legendary Collection",
+        "character": 268435493,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K38_outfit_006",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head006.png"
+    },
+    "K38_Head01_01": {
+        "type": "item",
+        "category": "head",
+        "name": "Green Scowl",
+        "description": "She was determined to survive, waiting for the day when she could make her escape.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head01_01.png"
+    },
+    "K38_Head01_02": {
+        "type": "item",
+        "category": "head",
+        "name": "Blue Scowl",
+        "description": "She was determined to survive, waiting for the day when she could make her escape.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_02",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head01_02.png"
+    },
+    "K38_Head01_03": {
+        "type": "item",
+        "category": "head",
+        "name": "Red Scowl",
+        "description": "She was determined to survive, waiting for the day when she could make her escape.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_03",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head01_03.png"
+    },
+    "K38_Head01_CV01": {
+        "type": "item",
+        "category": "head",
+        "name": "Warm-Blooded",
+        "description": "The crew made designs to mutiny, but their plans would soon be cut short.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": "K38_outfit_01_CV01",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head01_CV01.png"
+    },
+    "K38_Head01_CV02": {
+        "type": "item",
+        "category": "head",
+        "name": "Cold-Blooded",
+        "description": "The crew made designs to mutiny, but their plans would soon be cut short.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": "K38_outfit_01_CV02",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head01_CV02.png"
+    },
+    "K38_Head01_CV03": {
+        "type": "item",
+        "category": "head",
+        "name": "Hot-Blooded",
+        "description": "The crew made designs to mutiny, but their plans would soon be cut short.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": "K38_outfit_01_CV03",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head01_CV03.png"
+    },
+    "K38_Head01_CV04": {
+        "type": "item",
+        "category": "head",
+        "name": "Ice-Blooded",
+        "description": "The crew made designs to mutiny, but their plans would soon be cut short.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": "K38_outfit_01_CV04",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head01_CV04.png"
+    },
+    "K38_Head01_WinterEvent2024": {
+        "type": "item",
+        "category": "head",
+        "name": "Frosty Eyes",
+        "description": "A cold glare that sent shivers down the spine.",
+        "collection": "Bone Chill 2024",
+        "character": 268435493,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head01_WinterEvent2024.png"
+    },
+    "K38_Head02": {
+        "type": "item",
+        "category": "head",
+        "name": "Sapphire Crown",
+        "description": "They said she had the bearing of a queen, powerful and terrifying to behold.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "K38_outfit_02",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head02.png"
+    },
+    "K38_Head02_01": {
+        "type": "item",
+        "category": "head",
+        "name": "Amethyst Crown",
+        "description": "They said she had the bearing of a queen, powerful and terrifying to behold.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "K38_outfit_02_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_Head02_01.png"
+    },
+    "K38_outfit_006": {
+        "type": "outfit",
+        "category": null,
+        "name": "Ultimate Houndmaster",
+        "description": "She formed a natural bond with each of her dogs, of which there were many.",
+        "collection": "Houndmaster Legendary Collection",
+        "character": 268435493,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": null,
+        "items": [
+            "K38_Head006",
+            "K38_Body006",
+            "K38_W006"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_006.png"
+    },
+    "K38_outfit_01_01": {
+        "type": "outfit",
+        "category": null,
+        "name": "With a Vengeance",
+        "description": "She sailed into the dark fog and was shipwrecked on an otherworldly island.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": [
+            "K38_Head01_01",
+            "K38_Body01_01",
+            "K38_W01_01"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_01_01.png"
+    },
+    "K38_outfit_01_02": {
+        "type": "outfit",
+        "category": null,
+        "name": "With a Plan",
+        "description": "She sailed into the dark fog and was shipwrecked on an otherworldly island.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": [
+            "K38_Head01_02",
+            "K38_Body01_02",
+            "K38_W01_02"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_01_02.png"
+    },
+    "K38_outfit_01_03": {
+        "type": "outfit",
+        "category": null,
+        "name": "With a Bloodthirst",
+        "description": "She sailed into the dark fog and was shipwrecked on an otherworldly island.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": [
+            "K38_Head01_03",
+            "K38_Body01_03",
+            "K38_W01_03"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_01_03.png"
+    },
+    "K38_outfit_01_CV01": {
+        "type": "outfit",
+        "category": null,
+        "name": "To the Horizon",
+        "description": "She chose only the best and cruelest for her crew. They served her out of deep-seated fear.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": [
+            "K38_Head01_CV01",
+            "K38_Body01_CV01"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_01_CV01.png"
+    },
+    "K38_outfit_01_CV02": {
+        "type": "outfit",
+        "category": null,
+        "name": "To the Deep",
+        "description": "She chose only the best and cruelest for her crew. They served her out of deep-seated fear.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": [
+            "K38_Head01_CV02",
+            "K38_Body01_CV02"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_01_CV02.png"
+    },
+    "K38_outfit_01_CV03": {
+        "type": "outfit",
+        "category": null,
+        "name": "To the Inferno",
+        "description": "She chose only the best and cruelest for her crew. They served her out of deep-seated fear.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": [
+            "K38_Head01_CV03",
+            "K38_Body01_CV03"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_01_CV03.png"
+    },
+    "K38_outfit_01_CV04": {
+        "type": "outfit",
+        "category": null,
+        "name": "To the Hurricane",
+        "description": "She chose only the best and cruelest for her crew. They served her out of deep-seated fear.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": [
+            "K38_Head01_CV04",
+            "K38_Body01_CV04"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_01_CV04.png"
+    },
+    "K38_outfit_02": {
+        "type": "outfit",
+        "category": null,
+        "name": "Mighty Swagger",
+        "description": "Rumors spread in the wake of her high-seas campaigns, desperate warnings of an unstoppable force.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": [
+            "K38_Head02",
+            "K38_Body02",
+            "K38_W02"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_02.png"
+    },
+    "K38_outfit_02_01": {
+        "type": "outfit",
+        "category": null,
+        "name": "Mighty Strut",
+        "description": "Rumors spread in the wake of her high-seas campaigns, desperate warnings of an unstoppable force.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": [
+            "K38_Head02_01",
+            "K38_Body02_01",
+            "K38_W02_01"
+        ],
+        "image": "UI/Icons/Customization/K38/K38_outfit_02_01.png"
+    },
+    "K38_PCharm001": {
+        "type": "charm",
+        "category": null,
+        "name": "Iridescent All-Shaking Thunder",
+        "description": "A keepsake gained upon mastery of a particular skill.",
+        "collection": null,
+        "character": null,
+        "role": "killer",
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/PerkCharms/K38_PCharm001.png"
+    },
+    "K38_PCharm002": {
+        "type": "charm",
+        "category": null,
+        "name": "Iridescent Scourge Hook: Jagged Compass",
+        "description": "A keepsake gained upon mastery of a particular skill.",
+        "collection": null,
+        "character": null,
+        "role": "killer",
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/PerkCharms/K38_PCharm002.png"
+    },
+    "K38_PCharm003": {
+        "type": "charm",
+        "category": null,
+        "name": "Iridescent No Quarter",
+        "description": "A keepsake gained upon mastery of a particular skill.",
+        "collection": null,
+        "character": null,
+        "role": "killer",
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/PerkCharms/K38_PCharm003.png"
+    },
+    "K38_W006": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Snarling Hounds",
+        "description": "At last, she could be one with her dogs, with nothing and no one to stop them.",
+        "collection": "Houndmaster Legendary Collection",
+        "character": 268435493,
+        "role": null,
+        "rarity": "legendary",
+        "outfit": "K38_outfit_006",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_W006.png"
+    },
+    "K38_W01_01": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Marble Skull",
+        "description": "Years later, her ship rose from the churning sea, an opportunity to escape her the Dragon\u2019s Tooth.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_W01_01.png"
+    },
+    "K38_W01_02": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Pewter Skull",
+        "description": "Years later, her ship rose from the churning sea, an opportunity to escape her the Dragon\u2019s Tooth.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_02",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_W01_02.png"
+    },
+    "K38_W01_03": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Bronze Skull",
+        "description": "Years later, her ship rose from the churning sea, an opportunity to escape her the Dragon\u2019s Tooth.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "K38_outfit_01_03",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_W01_03.png"
+    },
+    "K38_W01_04": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Titanium Skull",
+        "description": "It was the finest weapon she had ever laid eyes upon, and paid a hefty price for it.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_W01_04.png"
+    },
+    "K38_W02": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Earthen Cry",
+        "description": "It was said that scavenger birds would follow her ship, knowing meat would be plentiful.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "K38_outfit_02",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_W02.png"
+    },
+    "K38_W02_01": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Ravenous Cry",
+        "description": "It was said that scavenger birds would follow her ship, knowing meat would be plentiful.",
+        "collection": "Houndmaster Abberations",
+        "character": 268435493,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "K38_outfit_02_01",
+        "items": null,
+        "image": "UI/Icons/Customization/K38/K38_W02_01.png"
     },
     "Kate_outfit_001": {
         "type": "outfit",
@@ -44089,9 +45138,9 @@
     "KK_Body035": {
         "type": "item",
         "category": "body",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Mismatched Jammies",
+        "description": "In the dead of the night, she tip-toed across the room, took the mean girl\u2019s favorite guitar, and made her way to the garden.",
+        "collection": "Cozy Break",
         "character": 268435469,
         "role": null,
         "rarity": "veryrare",
@@ -44661,9 +45710,9 @@
     "KK_Mask035": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Smile and Wink",
+        "description": "The room was buzzing with mocking laughter and whispers. She put up with the judgmental stares, waiting for everyone to fall asleep.",
+        "collection": "Cozy Break",
         "character": 268435469,
         "role": null,
         "rarity": "veryrare",
@@ -44703,7 +45752,7 @@
             "KK_Body010",
             "KK_W010"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_010.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_010.png"
     },
     "KK_outfit_011": {
         "type": "outfit",
@@ -44720,7 +45769,7 @@
             "KK_Body011",
             "KK_W011"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_011.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_011.png"
     },
     "KK_outfit_014": {
         "type": "outfit",
@@ -44737,7 +45786,7 @@
             "KK_Body014",
             "KK_W014"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_014.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_014.png"
     },
     "KK_outfit_015": {
         "type": "outfit",
@@ -44754,7 +45803,7 @@
             "KK_Body015",
             "KK_W015"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_015.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_015.png"
     },
     "KK_outfit_016": {
         "type": "outfit",
@@ -44771,7 +45820,7 @@
             "KK_Body016",
             "KK_W016"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_016.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_016.png"
     },
     "KK_outfit_016_01": {
         "type": "outfit",
@@ -44788,7 +45837,7 @@
             "KK_Body016_01",
             "KK_W016_01"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_016_01.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_016_01.png"
     },
     "KK_outfit_016_02": {
         "type": "outfit",
@@ -44805,7 +45854,7 @@
             "KK_Body016_02",
             "KK_W016_02"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_016_02.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_016_02.png"
     },
     "KK_outfit_016_03": {
         "type": "outfit",
@@ -44822,7 +45871,7 @@
             "KK_Body016_03",
             "KK_W016_03"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_016_03.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_016_03.png"
     },
     "KK_outfit_017": {
         "type": "outfit",
@@ -44839,7 +45888,7 @@
             "KK_Body017",
             "KK_W017"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_017.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_017.png"
     },
     "KK_outfit_018": {
         "type": "outfit",
@@ -44856,7 +45905,7 @@
             "KK_Body018",
             "KK_W018"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_018.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_018.png"
     },
     "KK_outfit_019": {
         "type": "outfit",
@@ -44873,7 +45922,7 @@
             "KK_Body019",
             "KK_W019"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_019.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_019.png"
     },
     "KK_outfit_019_01": {
         "type": "outfit",
@@ -44907,7 +45956,7 @@
             "KK_Body01_03",
             "KK_W01_03"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_01_03.png"
     },
     "KK_outfit_01_04": {
         "type": "outfit",
@@ -44924,7 +45973,7 @@
             "KK_Body015_01",
             "KK_W014_01"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_01_04.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_01_04.png"
     },
     "KK_outfit_020": {
         "type": "outfit",
@@ -44941,7 +45990,7 @@
             "KK_Body020",
             "KK_W020"
         ],
-        "image": "UI/Icons/Customization/KK_outfit_020.png"
+        "image": "UI/Icons/Customization/Legion/KK_outfit_020.png"
     },
     "KK_outfit_020_01": {
         "type": "outfit",
@@ -45116,9 +46165,9 @@
     "KK_outfit_035": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Last Sleepover",
+        "description": "Susie knew that her first sleepover would also be her last. The way the other kids treated her made her feel like she didn\u2019t fit in.",
+        "collection": "Cozy Break",
         "character": 268435469,
         "role": null,
         "rarity": "veryrare",
@@ -45640,9 +46689,9 @@
     "KK_W035": {
         "type": "item",
         "category": "weapon",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Splintered Headstock",
+        "description": "She stomped on the guitar until it shattered into a million pieces. She dropped the headstock on the girl\u2019s pillow before dozing off with a grin.",
+        "collection": "Cozy Break",
         "character": 268435469,
         "role": null,
         "rarity": "veryrare",
@@ -45905,7 +46954,7 @@
         "collection": "Bone Chill 2023",
         "character": 14,
         "role": null,
-        "rarity": "veryrare",
+        "rarity": "specialevent",
         "outfit": "KS_outfit_020",
         "items": null,
         "image": "UI/Icons/Customization/Jeff/KS_Head020.png"
@@ -46256,7 +47305,7 @@
         "collection": "Bone Chill 2023",
         "character": 14,
         "role": null,
-        "rarity": "veryrare",
+        "rarity": "specialevent",
         "outfit": "KS_outfit_020",
         "items": null,
         "image": "UI/Icons/Customization/Jeff/KS_Legs020.png"
@@ -46529,7 +47578,7 @@
         "collection": "Bone Chill 2023",
         "character": 14,
         "role": null,
-        "rarity": "veryrare",
+        "rarity": "specialevent",
         "outfit": null,
         "items": [
             "KS_Head020",
@@ -46918,7 +47967,7 @@
         "collection": "Bone Chill 2023",
         "character": 14,
         "role": null,
-        "rarity": "veryrare",
+        "rarity": "specialevent",
         "outfit": "KS_outfit_020",
         "items": null,
         "image": "UI/Icons/Customization/Jeff/KS_Torso020.png"
@@ -47042,7 +48091,7 @@
             "KK_Body006",
             "KK_W006"
         ],
-        "image": "UI/Icons/Customization/Legion_Outfit_006.png"
+        "image": "UI/Icons/Customization/Legion/Legion_Outfit_006.png"
     },
     "Legion_outfit_007": {
         "type": "outfit",
@@ -47059,7 +48108,7 @@
             "KK_Body007",
             "KK_W007"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_007.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_007.png"
     },
     "Legion_outfit_007_01": {
         "type": "outfit",
@@ -47076,7 +48125,7 @@
             "KK_Body007_01",
             "KK_W007_01"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_007_01.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_007_01.png"
     },
     "Legion_outfit_009": {
         "type": "outfit",
@@ -47093,7 +48142,7 @@
             "KK_Body009",
             "KK_W009"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_009.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_009.png"
     },
     "Legion_outfit_01_01": {
         "type": "outfit",
@@ -47110,7 +48159,7 @@
             "KK_Body01_01",
             "KK_W01_01"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_01_01.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_01_01.png"
     },
     "Legion_outfit_01_CV01": {
         "type": "outfit",
@@ -47127,7 +48176,7 @@
             "KK_Body01_CV01",
             "KK_W01_CV01"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_01_CV01.png"
     },
     "Legion_outfit_01_CV02": {
         "type": "outfit",
@@ -47144,7 +48193,7 @@
             "KK_Body01_CV02",
             "KK_W01_CV02"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_01_CV02.png"
     },
     "Legion_outfit_02_01": {
         "type": "outfit",
@@ -47161,7 +48210,7 @@
             "KK_Body02_01",
             "KK_W02_01"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_02_01.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_02_01.png"
     },
     "Legion_outfit_02_CV01": {
         "type": "outfit",
@@ -47178,7 +48227,7 @@
             "KK_Body02_CV01",
             "KK_W02_CV01"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_02_CV01.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_02_CV01.png"
     },
     "Legion_outfit_02_CV02": {
         "type": "outfit",
@@ -47195,7 +48244,7 @@
             "KK_Body02_CV02",
             "KK_W02_CV02"
         ],
-        "image": "UI/Icons/Customization/Legion_outfit_02_CV02.png"
+        "image": "UI/Icons/Customization/Legion/Legion_outfit_02_CV02.png"
     },
     "LI_001": {
         "type": "charm",
@@ -48869,7 +49918,7 @@
             "MK_Body007",
             "MK_W007"
         ],
-        "image": "UI/Icons/Customization/MK_outfit_007.png"
+        "image": "UI/Icons/Customization/Plague/MK_outfit_007.png"
     },
     "MK_outfit_007_01": {
         "type": "outfit",
@@ -48886,7 +49935,7 @@
             "MK_Body007_01",
             "MK_W007_01"
         ],
-        "image": "UI/Icons/Customization/MK_outfit_007_01.png"
+        "image": "UI/Icons/Customization/Plague/MK_outfit_007_01.png"
     },
     "MK_outfit_008": {
         "type": "outfit",
@@ -48903,7 +49952,7 @@
             "MK_Body008",
             "MK_W008"
         ],
-        "image": "UI/Icons/Customization/MK_outfit_008.png"
+        "image": "UI/Icons/Customization/Plague/MK_outfit_008.png"
     },
     "MK_outfit_009": {
         "type": "outfit",
@@ -48954,7 +50003,7 @@
             "MK_Body010",
             "MK_W010"
         ],
-        "image": "UI/Icons/Customization/MK_outfit_010.png"
+        "image": "UI/Icons/Customization/Plague/MK_outfit_010.png"
     },
     "MK_outfit_010_01": {
         "type": "outfit",
@@ -49073,7 +50122,7 @@
             "MK_Body01_04",
             "MK_W01_04"
         ],
-        "image": "UI/Icons/Customization/MK_outfit_01_04.png"
+        "image": "UI/Icons/Customization/Plague/MK_outfit_01_04.png"
     },
     "MK_outfit_01_05": {
         "type": "outfit",
@@ -49626,7 +50675,7 @@
             "ML_Torso008",
             "ML_Legs008"
         ],
-        "image": "UI/Icons/Customization/ML_outfit_008.png"
+        "image": "UI/Icons/Customization/Ash/ML_outfit_008.png"
     },
     "ML_outfit_02": {
         "type": "outfit",
@@ -49643,7 +50692,7 @@
             "ML_Torso02",
             "ML_Legs02"
         ],
-        "image": "UI/Icons/Customization/ML_outfit_02.png"
+        "image": "UI/Icons/Customization/Ash/ML_outfit_02.png"
     },
     "ML_Torso006": {
         "type": "item",
@@ -49750,7 +50799,7 @@
             "MM_Body02",
             "MM_W02_01"
         ],
-        "image": "UI/Icons/Customization/MM_outfit_02.png"
+        "image": "UI/Icons/Customization/Myers/MM_outfit_02.png"
     },
     "MM_W02_01": {
         "type": "item",
@@ -54199,6 +55248,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Meg/MT_Torso032.png"
     },
+    "MT_Torso033": {
+        "type": "item",
+        "category": "torso",
+        "name": "Celestial Eagle",
+        "description": "A fierce eagle made of stars.",
+        "collection": "Bone Chill 2024",
+        "character": 1,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/Meg/MT_Torso033.png"
+    },
     "MT_Torso03_01": {
         "type": "item",
         "category": "torso",
@@ -55250,6 +56312,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Nea/NK_Head032.png"
     },
+    "NK_Head033": {
+        "type": "item",
+        "category": "head",
+        "name": "Beanie Ear",
+        "description": "She stepped onto her snowboard, taking in the wintry vista before closing her eyes.",
+        "collection": "Bone Chill 2024",
+        "character": 4,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": "NK_outfit_033",
+        "items": null,
+        "image": "UI/Icons/Customization/Nea/NK_Head033.png"
+    },
     "NK_Head06": {
         "type": "item",
         "category": "head",
@@ -55887,6 +56962,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Nea/NK_Legs032.png"
     },
+    "NK_Legs033": {
+        "type": "item",
+        "category": "legs",
+        "name": "Plucky Boots",
+        "description": "She landed softly in a massive snow pile, laughing with her friends as her mother came running.",
+        "collection": "Bone Chill 2024",
+        "character": 4,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": "NK_outfit_033",
+        "items": null,
+        "image": "UI/Icons/Customization/Nea/NK_Legs033.png"
+    },
     "NK_outfit_008_01": {
         "type": "outfit",
         "category": null,
@@ -56345,6 +57433,23 @@
             "NK_Legs032"
         ],
         "image": "UI/Icons/Customization/Nea/NK_outfit_032.png"
+    },
+    "NK_outfit_033": {
+        "type": "outfit",
+        "category": null,
+        "name": "Slippery Slope",
+        "description": "Nea climbed the ladder to her snow-covered roof. Her friends watched her, excitement tinged with nerves.",
+        "collection": "Bone Chill 2024",
+        "character": 4,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": [
+            "NK_Head033",
+            "NK_Torso033",
+            "NK_Legs033"
+        ],
+        "image": "UI/Icons/Customization/Nea/NK_outfit_033.png"
     },
     "NK_Torso001": {
         "type": "item",
@@ -57100,6 +58205,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Nea/NK_Torso032.png"
     },
+    "NK_Torso033": {
+        "type": "item",
+        "category": "torso",
+        "name": "Gutsy Jacket",
+        "description": "She ignored her mother's horrified scream as she leaned forward and slid down the roof.",
+        "collection": "Bone Chill 2024",
+        "character": 4,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": "NK_outfit_033",
+        "items": null,
+        "image": "UI/Icons/Customization/Nea/NK_Torso033.png"
+    },
     "NO_001": {
         "type": "charm",
         "category": null,
@@ -57622,7 +58740,7 @@
             "TN_Body05",
             "TN_W04"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_001.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_001.png"
     },
     "Nurse_outfit_002": {
         "type": "outfit",
@@ -57639,7 +58757,7 @@
             "TN_Body05_01",
             "TN_W04_01"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_002.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_002.png"
     },
     "Nurse_outfit_003": {
         "type": "outfit",
@@ -57656,7 +58774,7 @@
             "TN_Body05_02",
             "TN_W04_02"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_003.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_003.png"
     },
     "Nurse_outfit_004": {
         "type": "outfit",
@@ -57673,7 +58791,7 @@
             "TN_Body03",
             "TN_W05"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_004.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_004.png"
     },
     "Nurse_outfit_005": {
         "type": "outfit",
@@ -57690,7 +58808,7 @@
             "TN_Body03_01",
             "TN_W05_01"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_005.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_005.png"
     },
     "Nurse_outfit_006": {
         "type": "outfit",
@@ -57706,7 +58824,7 @@
             "TN_Head01_CV01",
             "TN_Body01_CV01"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_006.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_006.png"
     },
     "Nurse_outfit_007": {
         "type": "outfit",
@@ -57722,7 +58840,7 @@
             "TN_Head01_CV02",
             "TN_Body01_CV02"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_007.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_007.png"
     },
     "Nurse_outfit_007_01": {
         "type": "outfit",
@@ -57739,7 +58857,7 @@
             "TN_Body007",
             "TN_W007"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_007_01.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_007_01.png"
     },
     "Nurse_outfit_008": {
         "type": "outfit",
@@ -57755,7 +58873,7 @@
             "TN_Head01_CV03",
             "TN_Body01_CV03"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_008.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_008.png"
     },
     "Nurse_outfit_009": {
         "type": "outfit",
@@ -57771,7 +58889,7 @@
             "TN_Head01_CV04",
             "TN_Body01_CV04"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_009.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_009.png"
     },
     "Nurse_outfit_010": {
         "type": "outfit",
@@ -57787,7 +58905,7 @@
             "TN_Head01_CV05",
             "TN_Body01_CV05"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_010.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_010.png"
     },
     "Nurse_outfit_011": {
         "type": "outfit",
@@ -57803,7 +58921,7 @@
             "TN_Head01_01",
             "TN_Body01_01"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_011.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_011.png"
     },
     "Nurse_outfit_012": {
         "type": "outfit",
@@ -57819,7 +58937,7 @@
             "TN_Head01_02",
             "TN_Body01_02"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_012.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_012.png"
     },
     "Nurse_outfit_013": {
         "type": "outfit",
@@ -57836,7 +58954,7 @@
             "TN_Body006",
             "TN_W006"
         ],
-        "image": "UI/Icons/Customization/Nurse_outfit_013.png"
+        "image": "UI/Icons/Customization/Nurse/Nurse_outfit_013.png"
     },
     "N_Head02": {
         "type": "item",
@@ -58230,7 +59348,7 @@
             "OK_Body006",
             "OK_W006"
         ],
-        "image": "UI/Icons/Customization/OK_outfit_006.png"
+        "image": "UI/Icons/Customization/Ghostface/OK_outfit_006.png"
     },
     "OK_outfit_007": {
         "type": "outfit",
@@ -58247,7 +59365,7 @@
             "OK_Body007",
             "OK_W007"
         ],
-        "image": "UI/Icons/Customization/OK_outfit_007.png"
+        "image": "UI/Icons/Customization/Ghostface/OK_outfit_007.png"
     },
     "OK_outfit_008": {
         "type": "outfit",
@@ -58264,7 +59382,7 @@
             "OK_Body008",
             "OK_W008"
         ],
-        "image": "UI/Icons/Customization/OK_outfit_008.png"
+        "image": "UI/Icons/Customization/Ghostface/OK_outfit_008.png"
     },
     "OK_outfit_009": {
         "type": "outfit",
@@ -58281,7 +59399,7 @@
             "OK_Body009",
             "OK_W009"
         ],
-        "image": "UI/Icons/Customization/OK_outfit_009.png"
+        "image": "UI/Icons/Customization/Ghostface/OK_outfit_009.png"
     },
     "OK_outfit_010": {
         "type": "outfit",
@@ -58366,7 +59484,7 @@
             "OK_Body02",
             "OK_W02"
         ],
-        "image": "UI/Icons/Customization/OK_outfit_02.png"
+        "image": "UI/Icons/Customization/Ghostface/OK_outfit_02.png"
     },
     "OK_outfit_CV01": {
         "type": "outfit",
@@ -58382,7 +59500,7 @@
             "OK_Body01_CV01",
             "OK_W01_CV01"
         ],
-        "image": "UI/Icons/Customization/OK_outfit_CV01.png"
+        "image": "UI/Icons/Customization/Ghostface/OK_outfit_CV01.png"
     },
     "OK_outfit_CV02": {
         "type": "outfit",
@@ -58398,7 +59516,7 @@
             "OK_Body01_CV02",
             "OK_W01_CV02"
         ],
-        "image": "UI/Icons/Customization/OK_outfit_CV02.png"
+        "image": "UI/Icons/Customization/Ghostface/OK_outfit_CV02.png"
     },
     "OK_W006": {
         "type": "item",
@@ -58623,7 +59741,7 @@
             "MK_Body006",
             "MK_W006"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_006.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_006.png"
     },
     "Plague_outfit_01_01": {
         "type": "outfit",
@@ -58640,7 +59758,7 @@
             "MK_Body01_01",
             "MK_W01_01"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_01_01.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_01_01.png"
     },
     "Plague_outfit_01_02": {
         "type": "outfit",
@@ -58657,7 +59775,7 @@
             "MK_Body01_02",
             "MK_W01_02"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_01_02.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_01_02.png"
     },
     "Plague_outfit_01_03": {
         "type": "outfit",
@@ -58674,7 +59792,7 @@
             "MK_Body01_03",
             "MK_W01_03"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_01_03.png"
     },
     "Plague_outfit_01_CV01": {
         "type": "outfit",
@@ -58691,7 +59809,7 @@
             "MK_Body01_CV01",
             "MK_W01_CV01"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_01_CV01.png"
     },
     "Plague_outfit_01_CV02": {
         "type": "outfit",
@@ -58708,7 +59826,7 @@
             "MK_Body01_CV02",
             "MK_W01_CV02"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_01_CV02.png"
     },
     "Plague_outfit_01_CV03": {
         "type": "outfit",
@@ -58725,7 +59843,7 @@
             "MK_Body01_CV03",
             "MK_W01_CV03"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_01_CV03.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_01_CV03.png"
     },
     "Plague_outfit_01_CV04": {
         "type": "outfit",
@@ -58742,7 +59860,7 @@
             "MK_Body01_CV04",
             "MK_W01_CV04"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_01_CV04.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_01_CV04.png"
     },
     "Plague_outfit_02": {
         "type": "outfit",
@@ -58759,7 +59877,7 @@
             "MK_Body02",
             "MK_W02"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_02.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_02.png"
     },
     "Plague_outfit_02_01": {
         "type": "outfit",
@@ -58776,7 +59894,7 @@
             "MK_Body02_01",
             "MK_W02_01"
         ],
-        "image": "UI/Icons/Customization/Plague_outfit_02_01.png"
+        "image": "UI/Icons/Customization/Plague/Plague_outfit_02_01.png"
     },
     "PL_001": {
         "type": "item",
@@ -59290,7 +60408,7 @@
         "category": "charm",
         "name": "Bloodpoint Gummies",
         "description": "Do they taste like cherry? Or do they just taste like blood? Only one way to find out. Design inspired by <b>Maomi</b>.",
-        "collection": null,
+        "collection": "Community",
         "character": null,
         "role": null,
         "rarity": "veryrare",
@@ -59303,7 +60421,7 @@
         "category": "charm",
         "name": "Have You Seen This Horse",
         "description": "Maurice is missing, but in his place, a milk carton with a picture of Maurice mysteriously appeared. Design inspired by <b>PotatoGun13</b>.",
-        "collection": null,
+        "collection": "Community",
         "character": null,
         "role": null,
         "rarity": "veryrare",
@@ -59736,7 +60854,7 @@
             "QK_Body006",
             "QK_W006"
         ],
-        "image": "UI/Icons/Customization/QK_outfit_006.png"
+        "image": "UI/Icons/Customization/Demogorgon/QK_outfit_006.png"
     },
     "QK_outfit_007": {
         "type": "outfit",
@@ -59753,7 +60871,7 @@
             "QK_Body007",
             "QK_W007"
         ],
-        "image": "UI/Icons/Customization/QK_outfit_007.png"
+        "image": "UI/Icons/Customization/Demogorgon/QK_outfit_007.png"
     },
     "QK_outfit_02": {
         "type": "outfit",
@@ -59770,7 +60888,7 @@
             "QK_Body02",
             "QK_W02"
         ],
-        "image": "UI/Icons/Customization/QK_outfit_02.png"
+        "image": "UI/Icons/Customization/Demogorgon/QK_outfit_02.png"
     },
     "QK_W006": {
         "type": "item",
@@ -62931,6 +64049,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S23/S23_Head02_02.png"
     },
+    "S23_Head030": {
+        "type": "item",
+        "category": "head",
+        "name": "Festive Antlers",
+        "description": "He was especially cheerful that holiday, as his girlfriend told their families that she was pregnant.",
+        "collection": null,
+        "character": 22,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S23/S23_Head030.png"
+    },
     "S23_Legs006": {
         "type": "item",
         "category": "legs",
@@ -63349,7 +64480,7 @@
             "S23_Torso006",
             "S23_Legs006"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_006.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_006.png"
     },
     "S23_outfit_007": {
         "type": "outfit",
@@ -63366,7 +64497,7 @@
             "S23_Torso007",
             "S23_Legs007"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_007.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_007.png"
     },
     "S23_outfit_008": {
         "type": "outfit",
@@ -63383,7 +64514,7 @@
             "S23_Torso008",
             "S23_Legs008"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_008.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_008.png"
     },
     "S23_outfit_010": {
         "type": "outfit",
@@ -63400,7 +64531,7 @@
             "S23_Torso010",
             "S23_Legs010"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_010.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_010.png"
     },
     "S23_outfit_011": {
         "type": "outfit",
@@ -63417,7 +64548,7 @@
             "S23_Torso011",
             "S23_Legs011"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_011.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_011.png"
     },
     "S23_outfit_012": {
         "type": "outfit",
@@ -63451,7 +64582,7 @@
             "S23_Torso014",
             "S23_Legs014"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_014.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_014.png"
     },
     "S23_outfit_015": {
         "type": "outfit",
@@ -63468,7 +64599,7 @@
             "S23_Torso015",
             "S23_Legs015"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_015.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_015.png"
     },
     "S23_outfit_016": {
         "type": "outfit",
@@ -63485,7 +64616,7 @@
             "S23_Torso016",
             "S23_Legs016"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_016.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_016.png"
     },
     "S23_outfit_017": {
         "type": "outfit",
@@ -63552,7 +64683,7 @@
             "S23_Torso01_02",
             "S23_Legs01_02"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_01_02.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_01_02.png"
     },
     "S23_outfit_01_03": {
         "type": "outfit",
@@ -63568,7 +64699,7 @@
             "S23_Torso01_03",
             "S23_Legs01_03"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_01_03.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_01_03.png"
     },
     "S23_outfit_01_04": {
         "type": "outfit",
@@ -63584,7 +64715,7 @@
             "S23_Torso01_04",
             "S23_Legs01_04"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_01_04.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_01_04.png"
     },
     "S23_outfit_01_CV01": {
         "type": "outfit",
@@ -63600,7 +64731,7 @@
             "S23_Torso01_CV01",
             "S23_Legs01_CV01"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_01_CV01.png"
     },
     "S23_outfit_01_CV02": {
         "type": "outfit",
@@ -63616,7 +64747,7 @@
             "S23_Torso01_CV02",
             "S23_Legs01_CV02"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_01_CV02.png"
     },
     "S23_outfit_01_CV03": {
         "type": "outfit",
@@ -63632,7 +64763,7 @@
             "S23_Torso01_CV03",
             "S23_Legs01_CV03"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_01_CV03.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_01_CV03.png"
     },
     "S23_outfit_01_CV04": {
         "type": "outfit",
@@ -63648,7 +64779,7 @@
             "S23_Torso01_CV04",
             "S23_Legs01_CV04"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_01_CV04.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_01_CV04.png"
     },
     "S23_outfit_02": {
         "type": "outfit",
@@ -63665,7 +64796,7 @@
             "S23_Torso02",
             "S23_Legs02"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_02.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_02.png"
     },
     "S23_outfit_021": {
         "type": "outfit",
@@ -63835,7 +64966,7 @@
             "S23_Torso02_01",
             "S23_Legs02_01"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_02_01.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_02_01.png"
     },
     "S23_outfit_02_02": {
         "type": "outfit",
@@ -63852,7 +64983,7 @@
             "S23_Torso02_02",
             "S23_Legs02_02"
         ],
-        "image": "UI/Icons/Customization/S23_outfit_02_02.png"
+        "image": "UI/Icons/Customization/S23/S23_outfit_02_02.png"
     },
     "S23_PCharm001": {
         "type": "charm",
@@ -70849,7 +71980,7 @@
         "rarity": "uncommon",
         "outfit": null,
         "items": null,
-        "image": "UI/Icons/Customization/S29_PCharm002.png"
+        "image": "UI/Icons/Customization/PerkCharms/S29_PCharm002.png"
     },
     "S29_PCharm003": {
         "type": "charm",
@@ -71581,9 +72712,9 @@
     "S31_Head017": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Sharp Wits",
+        "description": "She started nodding off, suddenly whisked away to a land of clouds. She started falling through the sky and shot upright in her bed.",
+        "collection": "Modern Tales",
         "character": 30,
         "role": null,
         "rarity": "veryrare",
@@ -71776,9 +72907,9 @@
     "S31_Legs017": {
         "type": "item",
         "category": "legs",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Creeping Vines",
+        "description": "She watched him walk out the door and leave her alone in the dark. Sometimes the dreams felt more real than real life.",
+        "collection": "Modern Tales",
         "character": 30,
         "role": null,
         "rarity": "veryrare",
@@ -72059,9 +73190,9 @@
     "S31_outfit_017": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Giant Killer",
+        "description": "She curled up under the covers, excited to hear her father read one of her favorite stories.",
+        "collection": "Modern Tales",
         "character": 30,
         "role": null,
         "rarity": "veryrare",
@@ -72446,15 +73577,28 @@
     "S31_Torso017": {
         "type": "item",
         "category": "torso",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Stouthearted",
+        "description": "He laughed softly and calmed her down with a deep hug. It was only a dream, nothing to be afraid of.",
+        "collection": "Modern Tales",
         "character": 30,
         "role": null,
         "rarity": "veryrare",
         "outfit": "S31_outfit_017",
         "items": null,
         "image": "UI/Icons/Customization/S31/S31_Torso017.png"
+    },
+    "S31_Torso018": {
+        "type": "item",
+        "category": "torso",
+        "name": "Celestial Orion",
+        "description": "A gifted hunter made of stars.",
+        "collection": "Bone Chill 2024",
+        "character": 30,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S31/S31_Torso018.png"
     },
     "S31_Torso01_01": {
         "type": "item",
@@ -74147,6 +75291,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S34/S34_Torso02.png"
     },
+    "S34_Torso020": {
+        "type": "item",
+        "category": "torso",
+        "name": "Celestial Wolf",
+        "description": "A faithful wolf made of stars.",
+        "collection": "Bone Chill 2024",
+        "character": 33,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S34/S34_Torso020.png"
+    },
     "S34_Torso02_01": {
         "type": "item",
         "category": "torso",
@@ -74306,9 +75463,9 @@
     "S35_Head017": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Interrupted Vibes",
+        "description": "She closed her eyes, lost in the Brega Funk pulsing from her stereo. The music stopped abruptly, and Thalita realized she wasn't alone.",
+        "collection": "Cozy Break",
         "character": 34,
         "role": null,
         "rarity": "veryrare",
@@ -74488,9 +75645,9 @@
     "S35_Legs017": {
         "type": "item",
         "category": "legs",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Sudden Dive",
+        "description": "Grinning, she flew to the diving board, landing in the pool with a splash big enough to soak Renato and his book.",
+        "collection": "Cozy Break",
         "character": 34,
         "role": null,
         "rarity": "veryrare",
@@ -74762,9 +75919,9 @@
     "S35_outfit_017": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Sibling Victory",
+        "description": "Thalita was in paradise. All she wanted was to spend the next two weeks sunbathing by her uncle\u2019s new swimming pool.",
+        "collection": "Cozy Break",
         "character": 34,
         "role": null,
         "rarity": "veryrare",
@@ -75115,9 +76272,9 @@
     "S35_Torso017": {
         "type": "item",
         "category": "torso",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Kitty Kite",
+        "description": "Renato carried the stereo inside, and returned to the lounger next to her, book in hand.",
+        "collection": "Cozy Break",
         "character": 34,
         "role": null,
         "rarity": "veryrare",
@@ -75414,9 +76571,9 @@
     "S36_Head018": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Plotting mind",
+        "description": "Thalita always played her music too loudly. She looked fast asleep on her lounger, so he turned off the stereo and brought it inside.",
+        "collection": "Cozy Break",
         "character": 35,
         "role": null,
         "rarity": "veryrare",
@@ -75609,9 +76766,9 @@
     "S36_Legs018": {
         "type": "item",
         "category": "legs",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Slated Dive",
+        "description": "He didn't notice Thalita's cannonball off the diving board until he was covered head to toe in pool water. Somehow he would get her back.",
+        "collection": "Cozy Break",
         "character": 35,
         "role": null,
         "rarity": "veryrare",
@@ -75900,9 +77057,9 @@
     "S36_outfit_018": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Sibling Harmony",
+        "description": "He angled the parasol at just the right angle to shield him from the sun. Everything needed to be just right before he could relax by the pool.",
+        "collection": "Cozy Break",
         "character": 35,
         "role": null,
         "rarity": "veryrare",
@@ -76266,9 +77423,9 @@
     "S36_Torso018": {
         "type": "item",
         "category": "torso",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Tenacious Dog",
+        "description": "He had shade, he had his book, and he had total silence. This was the tranquility he was looking for.",
+        "collection": "Cozy Break",
         "character": 35,
         "role": null,
         "rarity": "veryrare",
@@ -77385,6 +78542,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S38/S38_Head009.png"
     },
+    "S38_Head01": {
+        "type": "charm",
+        "category": null,
+        "name": "Nicolas Cage",
+        "description": "The man. The myth. The legend. Always ready for action.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S38/S38_Head01.png"
+    },
     "S38_Head010": {
         "type": "item",
         "category": "head",
@@ -77463,6 +78633,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S38/S38_Head015.png"
     },
+    "S38_Head01_P01": {
+        "type": "charm",
+        "category": null,
+        "name": "Bloody Nicolas",
+        "description": "The man. The myth. The legend. Always ready for vengeance.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S38/S38_Head01_P01.png"
+    },
     "S38_Legs006": {
         "type": "item",
         "category": "legs",
@@ -77514,6 +78697,19 @@
         "outfit": "S38_outfit_009",
         "items": null,
         "image": "UI/Icons/Customization/S38/S38_Legs009.png"
+    },
+    "S38_Legs01": {
+        "type": "charm",
+        "category": null,
+        "name": "Fine Trousers",
+        "description": "Stylish blue trousers with an intricate pattern.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S38/S38_Legs01.png"
     },
     "S38_Legs010": {
         "type": "item",
@@ -77592,6 +78788,19 @@
         "outfit": "S38_outfit_015",
         "items": null,
         "image": "UI/Icons/Customization/S38/S38_Legs015.png"
+    },
+    "S38_Legs01_P01": {
+        "type": "charm",
+        "category": null,
+        "name": "Grungy Trousers",
+        "description": "Stylish blue trousers stained with blood.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S38/S38_Legs01_P01.png"
     },
     "S38_outfit_006": {
         "type": "outfit",
@@ -77854,6 +79063,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S38/S38_Torso009.png"
     },
+    "S38_Torso01": {
+        "type": "charm",
+        "category": null,
+        "name": "Lounge Jacket",
+        "description": "A suave smoking jacket for more intimate engagements.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S38/S38_Torso01.png"
+    },
     "S38_Torso010": {
         "type": "item",
         "category": "torso",
@@ -77945,6 +79167,19 @@
         "items": null,
         "image": "UI/Icons/Customization/S38/S38_Torso01_01.png"
     },
+    "S38_Torso01_P01": {
+        "type": "charm",
+        "category": null,
+        "name": "Grimy Jacket",
+        "description": "A once-suave smoking jacket ravaged by the Entity\u2019s Realm.",
+        "collection": null,
+        "character": null,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S38/S38_Torso01_P01.png"
+    },
     "S39_Head006": {
         "type": "item",
         "category": "head",
@@ -77987,9 +79222,9 @@
     "S39_Head010": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Bright Idea",
+        "description": "She kept her eyes on the creature, singing softly to steady her nerves.",
+        "collection": "Alien Reimagined Collection",
         "character": 38,
         "role": null,
         "rarity": "veryrare",
@@ -78039,9 +79274,9 @@
     "S39_Legs010": {
         "type": "item",
         "category": "legs",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Last Evacuation",
+        "description": "It reached for her, and she let out a scream. She willed herself to turn away and slam her fist on the airlock button.",
+        "collection": "Alien Reimagined Collection",
         "character": 38,
         "role": null,
         "rarity": "veryrare",
@@ -78103,9 +79338,9 @@
     "S39_outfit_010": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Pressure Suit",
+        "description": "She suddenly realized she wasn't alone. Back against the wall, she slowly slipped on her suit.",
+        "collection": "Alien Reimagined Collection",
         "character": 38,
         "role": null,
         "rarity": "veryrare",
@@ -78211,9 +79446,9 @@
     "S39_Torso010": {
         "type": "item",
         "category": "torso",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Looming Threat",
+        "description": "She buckled herself in and watched the creature emerge from its hiding place.",
+        "collection": "Alien Reimagined Collection",
         "character": 38,
         "role": null,
         "rarity": "veryrare",
@@ -80590,9 +81825,9 @@
     "S44_Head009": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Shocking White",
+        "description": "Mina's voice whispered in his mind, beckoning him to find her once again.",
+        "collection": "Castlevania",
         "character": 43,
         "role": null,
         "rarity": "legendary",
@@ -80603,9 +81838,9 @@
     "S44_Head009_01": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Shocking White (Deep Rift)",
+        "description": "The voice of his one true love whispered in his mind, begging him to return to her once again.",
+        "collection": "Deep Rift",
         "character": 43,
         "role": null,
         "rarity": "legendary",
@@ -80655,9 +81890,9 @@
     "S44_Legs009": {
         "type": "item",
         "category": "legs",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Over Chaos",
+        "description": "He had faced unspeakable terrors before, and knew there would be many terrors still to come.",
+        "collection": "Castlevania",
         "character": 43,
         "role": null,
         "rarity": "legendary",
@@ -80668,9 +81903,9 @@
     "S44_Legs009_01": {
         "type": "item",
         "category": "legs",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Over Chaos (Deep Rift)",
+        "description": "He had stared down the forces of evil before. He may have to do so again in this new place.",
+        "collection": "Deep Rift",
         "character": 43,
         "role": null,
         "rarity": "legendary",
@@ -80732,9 +81967,9 @@
     "S44_outfit_009": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Soma Cruz",
+        "description": "He had just rejected the call to Dracula's inheritance when black fog overtook the Chaos Realm.",
+        "collection": "Castlevania",
         "character": 43,
         "role": null,
         "rarity": "legendary",
@@ -80749,9 +81984,9 @@
     "S44_outfit_009_01": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Soma Cruz (Deep Rift)",
+        "description": "He had just defied the forces of evil when the Chaos Realm became overwhelmed with black fog.",
+        "collection": "Deep Rift",
         "character": 43,
         "role": null,
         "rarity": "legendary",
@@ -80844,9 +82079,9 @@
     "S44_Torso009": {
         "type": "item",
         "category": "torso",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Eclipsed",
+        "description": "His stomach turned to ice as he realized returning home was no longer an option.",
+        "collection": "Castlevania",
         "character": 43,
         "role": null,
         "rarity": "legendary",
@@ -80857,15 +82092,640 @@
     "S44_Torso009_01": {
         "type": "item",
         "category": "torso",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Eclipsed (Deep Rift)",
+        "description": "The icy grip of fear was upon him. He was farther from home than ever before.",
+        "collection": "Deep Rift",
         "character": 43,
         "role": null,
         "rarity": "legendary",
         "outfit": "S44_outfit_009_01",
         "items": null,
         "image": "UI/Icons/Customization/S44/S44_Torso009_01.png"
+    },
+    "S45_Head006": {
+        "type": "item",
+        "category": "head",
+        "name": "Ritual Mask",
+        "description": "She subdued the young man and tied him to a chair before preparing her knife.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S45_outfit_006",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Head006.png"
+    },
+    "S45_Head006_01": {
+        "type": "item",
+        "category": "head",
+        "name": "Sacrifice Mask",
+        "description": "She subdued the young man and tied him to a chair before preparing her knife.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S45_outfit_006_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Head006_01.png"
+    },
+    "S45_Head01_01": {
+        "type": "item",
+        "category": "head",
+        "name": "Touch of Blessing",
+        "description": "They sent her on specialized missions all around the world, for they knew she was special from a young age.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Head01_01.png"
+    },
+    "S45_Head01_02": {
+        "type": "item",
+        "category": "head",
+        "name": "Touch of Ceremony",
+        "description": "They sent her on specialized missions all around the world, for they knew she was special from a young age.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_02",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Head01_02.png"
+    },
+    "S45_Head01_03": {
+        "type": "item",
+        "category": "head",
+        "name": "Touch of Ordainment",
+        "description": "They sent her on specialized missions all around the world, for they knew she was special from a young age.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_03",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Head01_03.png"
+    },
+    "S45_Head02": {
+        "type": "item",
+        "category": "head",
+        "name": "Dark Side",
+        "description": "She seemed so unlike the rest of her family, and she wondered just how different she really was.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "S45_outfit_02",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Head02.png"
+    },
+    "S45_Head02_01": {
+        "type": "item",
+        "category": "head",
+        "name": "Lowlight",
+        "description": "She seemed so unlike the rest of her family, and she wondered just how different she really was.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "S45_outfit_02_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Head02_01.png"
+    },
+    "S45_Legs006": {
+        "type": "item",
+        "category": "legs",
+        "name": "Text of Knowledge",
+        "description": "She forced herself to follow through, but by then they were both taken by the fog.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S45_outfit_006",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs006.png"
+    },
+    "S45_Legs006_01": {
+        "type": "item",
+        "category": "legs",
+        "name": "Text of Wrath",
+        "description": "She forced herself to follow through, but by then they were both taken by the fog.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S45_outfit_006_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs006_01.png"
+    },
+    "S45_Legs01_01": {
+        "type": "item",
+        "category": "legs",
+        "name": "Feet of Sand",
+        "description": "She proved her worth by surviving the dangers that lurked in The Bleed.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs01_01.png"
+    },
+    "S45_Legs01_02": {
+        "type": "item",
+        "category": "legs",
+        "name": "Feet of Steel",
+        "description": "She proved her worth by surviving the dangers that lurked in The Bleed.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_02",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs01_02.png"
+    },
+    "S45_Legs01_03": {
+        "type": "item",
+        "category": "legs",
+        "name": "Feet of Stone",
+        "description": "She proved her worth by surviving the dangers that lurked in The Bleed.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_03",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs01_03.png"
+    },
+    "S45_Legs01_CV01": {
+        "type": "item",
+        "category": "legs",
+        "name": "Scratched Mud",
+        "description": "Her mission was to help humanity transcend to another plane of existence.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": "S45_outfit_01_CV01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs01_CV01.png"
+    },
+    "S45_Legs01_CV02": {
+        "type": "item",
+        "category": "legs",
+        "name": "Scratched Burgundy",
+        "description": "Her mission was to help humanity transcend to another plane of existence.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": "S45_outfit_01_CV02",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs01_CV02.png"
+    },
+    "S45_Legs01_CV03": {
+        "type": "item",
+        "category": "legs",
+        "name": "Scratched Smoke",
+        "description": "Her mission was to help humanity transcend to another plane of existence.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": "S45_outfit_01_CV03",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs01_CV03.png"
+    },
+    "S45_Legs01_CV04": {
+        "type": "item",
+        "category": "legs",
+        "name": "Scratched Sky",
+        "description": "Her mission was to help humanity transcend to another plane of existence.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": "S45_outfit_01_CV04",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs01_CV04.png"
+    },
+    "S45_Legs02": {
+        "type": "item",
+        "category": "legs",
+        "name": "Combat Boots",
+        "description": "She didn't know it, but one day the thing she was looking for would find her instead.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "S45_outfit_02",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs02.png"
+    },
+    "S45_Legs02_01": {
+        "type": "item",
+        "category": "legs",
+        "name": "Cultist Boots",
+        "description": "She didn't know it, but one day the thing she was looking for would find her instead.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "S45_outfit_02_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Legs02_01.png"
+    },
+    "S45_outfit_006": {
+        "type": "outfit",
+        "category": null,
+        "name": "Traditional Robes",
+        "description": "She was dispatched to kill the interloper before he could reveal their secrets.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "S45_Head006",
+            "S45_Torso006",
+            "S45_Legs006"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_006.png"
+    },
+    "S45_outfit_006_01": {
+        "type": "outfit",
+        "category": null,
+        "name": "Ceremonial Robes",
+        "description": "She was dispatched to kill the interloper before he could reveal their secrets.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": null,
+        "items": [
+            "S45_Head006_01",
+            "S45_Torso006_01",
+            "S45_Legs006_01"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_006_01.png"
+    },
+    "S45_outfit_01_01": {
+        "type": "outfit",
+        "category": null,
+        "name": "Chosen One",
+        "description": "When she was called before the elders, she knew there was no going back.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": [
+            "S45_Head01_01",
+            "S45_Torso01_01",
+            "S45_Legs01_01"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_01_01.png"
+    },
+    "S45_outfit_01_02": {
+        "type": "outfit",
+        "category": null,
+        "name": "High Ranking",
+        "description": "When she was called before the elders, she knew there was no going back.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": [
+            "S45_Head01_02",
+            "S45_Torso01_02",
+            "S45_Legs01_02"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_01_02.png"
+    },
+    "S45_outfit_01_03": {
+        "type": "outfit",
+        "category": null,
+        "name": "Inner Circle",
+        "description": "When she was called before the elders, she knew there was no going back.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": [
+            "S45_Head01_03",
+            "S45_Torso01_03",
+            "S45_Legs01_03"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_01_03.png"
+    },
+    "S45_outfit_01_CV01": {
+        "type": "outfit",
+        "category": null,
+        "name": "Cultist Thug",
+        "description": "Others in the organization looked down on her, jealous of her heightened abilities.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": [
+            "S45_Torso01_CV01",
+            "S45_Legs01_CV01"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_01_CV01.png"
+    },
+    "S45_outfit_01_CV02": {
+        "type": "outfit",
+        "category": null,
+        "name": "Cultist Punk",
+        "description": "Others in the organization looked down on her, jealous of her heightened abilities.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": [
+            "S45_Torso01_CV02",
+            "S45_Legs01_CV02"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_01_CV02.png"
+    },
+    "S45_outfit_01_CV03": {
+        "type": "outfit",
+        "category": null,
+        "name": "Cultist Rage",
+        "description": "Others in the organization looked down on her, jealous of her heightened abilities.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": [
+            "S45_Torso01_CV03",
+            "S45_Legs01_CV03"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_01_CV03.png"
+    },
+    "S45_outfit_01_CV04": {
+        "type": "outfit",
+        "category": null,
+        "name": "Cultist Rebel",
+        "description": "Others in the organization looked down on her, jealous of her heightened abilities.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": [
+            "S45_Torso01_CV04",
+            "S45_Legs01_CV04"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_01_CV04.png"
+    },
+    "S45_outfit_02": {
+        "type": "outfit",
+        "category": null,
+        "name": "Early Life",
+        "description": "Her parents were members of the Disciples of the Black Talon, and they taught her everything she knew.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": [
+            "S45_Head02",
+            "S45_Torso02",
+            "S45_Legs02"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_02.png"
+    },
+    "S45_outfit_02_01": {
+        "type": "outfit",
+        "category": null,
+        "name": "Initiation",
+        "description": "Her parents were members of the Disciples of the Black Talon, and they taught her everything she knew.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": [
+            "S45_Head02_01",
+            "S45_Torso02_01",
+            "S45_Legs02_01"
+        ],
+        "image": "UI/Icons/Customization/S45/S45_outfit_02_01.png"
+    },
+    "S45_PCharm001": {
+        "type": "charm",
+        "category": null,
+        "name": "Iridescent Invocation: Treacherous Crows",
+        "description": "A keepsake gained upon mastery of a particular skill.",
+        "collection": null,
+        "character": null,
+        "role": "survivor",
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/PerkCharms/S45_PCharm001.png"
+    },
+    "S45_PCharm002": {
+        "type": "charm",
+        "category": null,
+        "name": "Iridescent Clean Break",
+        "description": "A keepsake gained upon mastery of a particular skill.",
+        "collection": null,
+        "character": null,
+        "role": "survivor",
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/PerkCharms/S45_PCharm002.png"
+    },
+    "S45_PCharm003": {
+        "type": "charm",
+        "category": null,
+        "name": "Iridescent Shoulder the Burden",
+        "description": "A keepsake gained upon mastery of a particular skill.",
+        "collection": null,
+        "character": null,
+        "role": "survivor",
+        "rarity": "uncommon",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/PerkCharms/S45_PCharm003.png"
+    },
+    "S45_Torso006": {
+        "type": "item",
+        "category": "torso",
+        "name": "Wielder of Fate",
+        "description": "She\u2019d never killed anyone before, and when the moment came, she couldn\u2019t bring herself to do it.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S45_outfit_006",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso006.png"
+    },
+    "S45_Torso006_01": {
+        "type": "item",
+        "category": "torso",
+        "name": "Wielder of Doom",
+        "description": "She\u2019d never killed anyone before, and when the moment came, she couldn\u2019t bring herself to do it.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "veryrare",
+        "outfit": "S45_outfit_006_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso006_01.png"
+    },
+    "S45_Torso007": {
+        "type": "item",
+        "category": "torso",
+        "name": "Twitchy Taurie",
+        "description": "Twitchy Taurie is twitching.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso007.png"
+    },
+    "S45_Torso01_01": {
+        "type": "item",
+        "category": "torso",
+        "name": "Rite of Passage",
+        "description": "She defied all expectations when she returned completely unharmed.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso01_01.png"
+    },
+    "S45_Torso01_02": {
+        "type": "item",
+        "category": "torso",
+        "name": "Rite of Ascension",
+        "description": "She defied all expectations when she returned completely unharmed.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_02",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso01_02.png"
+    },
+    "S45_Torso01_03": {
+        "type": "item",
+        "category": "torso",
+        "name": "Rite of Vision",
+        "description": "She defied all expectations when she returned completely unharmed.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "uncommon",
+        "outfit": "S45_outfit_01_03",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso01_03.png"
+    },
+    "S45_Torso01_04": {
+        "type": "item",
+        "category": "torso",
+        "name": "Gold Tier",
+        "description": "Only the most revered elders wore gold, but she hoped to join their ranks one day.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso01_04.png"
+    },
+    "S45_Torso01_CV01": {
+        "type": "item",
+        "category": "torso",
+        "name": "Hooded Red",
+        "description": "She ignored the haters, because she knew she served a greater purpose.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": "S45_outfit_01_CV01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso01_CV01.png"
+    },
+    "S45_Torso01_CV02": {
+        "type": "item",
+        "category": "torso",
+        "name": "Hooded Grey",
+        "description": "She ignored the haters, because she knew she served a greater purpose.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": "S45_outfit_01_CV02",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso01_CV02.png"
+    },
+    "S45_Torso01_CV03": {
+        "type": "item",
+        "category": "torso",
+        "name": "Hooded Brown",
+        "description": "Others in the organization looked down on her, jealous of her heightened abilities.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": "S45_outfit_01_CV03",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso01_CV03.png"
+    },
+    "S45_Torso01_CV04": {
+        "type": "item",
+        "category": "torso",
+        "name": "Hooded Black",
+        "description": "She ignored the haters, because she knew she served a greater purpose.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "common",
+        "outfit": "S45_outfit_01_CV04",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso01_CV04.png"
+    },
+    "S45_Torso02": {
+        "type": "item",
+        "category": "torso",
+        "name": "Leather Night",
+        "description": "She would stay out well into the night, wondering where her life with the DBT would take her.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "S45_outfit_02",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso02.png"
+    },
+    "S45_Torso02_01": {
+        "type": "item",
+        "category": "torso",
+        "name": "Leather Dusk",
+        "description": "She would stay out well into the night, wondering where her life with the DBT would take her.",
+        "collection": "Taurie Essentials",
+        "character": 44,
+        "role": null,
+        "rarity": "rare",
+        "outfit": "S45_outfit_02_01",
+        "items": null,
+        "image": "UI/Icons/Customization/S45/S45_Torso02_01.png"
     },
     "SA_001": {
         "type": "charm",
@@ -81188,7 +83048,7 @@
             "HK_Body02",
             "HK_W02"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_001.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_001.png"
     },
     "Spirit_outfit_002": {
         "type": "outfit",
@@ -81205,7 +83065,7 @@
             "HK_Body01_01",
             "HK_W01_01"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_002.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_002.png"
     },
     "Spirit_outfit_003": {
         "type": "outfit",
@@ -81222,7 +83082,7 @@
             "HK_Body01_02",
             "HK_W01_02"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_003.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_003.png"
     },
     "Spirit_outfit_004": {
         "type": "outfit",
@@ -81239,7 +83099,7 @@
             "HK_Body01_03",
             "HK_W01_03"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_004.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_004.png"
     },
     "Spirit_outfit_005": {
         "type": "outfit",
@@ -81256,7 +83116,7 @@
             "HK_Body01_CV01",
             "HK_W01_CV01"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_005.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_005.png"
     },
     "Spirit_outfit_006": {
         "type": "outfit",
@@ -81273,7 +83133,7 @@
             "HK_Body01_CV02",
             "HK_W01_CV02"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_006.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_006.png"
     },
     "Spirit_outfit_006_01": {
         "type": "outfit",
@@ -81290,7 +83150,7 @@
             "HK_Body006_01",
             "HK_W006_01"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_006_01.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_006_01.png"
     },
     "Spirit_outfit_006_02": {
         "type": "outfit",
@@ -81307,7 +83167,7 @@
             "HK_Body006_02",
             "HK_W006_02"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_006_02.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_006_02.png"
     },
     "Spirit_outfit_006_03": {
         "type": "outfit",
@@ -81324,7 +83184,7 @@
             "HK_Body006_03",
             "HK_W006_03"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_006_03.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_006_03.png"
     },
     "Spirit_outfit_007": {
         "type": "outfit",
@@ -81341,7 +83201,7 @@
             "HK_Body01_CV03",
             "HK_W01_CV03"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_007.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_007.png"
     },
     "Spirit_outfit_007_01": {
         "type": "outfit",
@@ -81375,7 +83235,7 @@
             "HK_Body01_CV04",
             "HK_W01_CV04"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_008.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_008.png"
     },
     "Spirit_outfit_009": {
         "type": "outfit",
@@ -81392,7 +83252,7 @@
             "HK_Body01_CV05",
             "HK_W01_CV05"
         ],
-        "image": "UI/Icons/Customization/Spirit_outfit_009.png"
+        "image": "UI/Icons/Customization/Spirit/Spirit_outfit_009.png"
     },
     "SwedenKiller_Body006": {
         "type": "item",
@@ -82219,7 +84079,7 @@
             "SwedenKiller_Body007",
             "SwedenKiller_W007"
         ],
-        "image": "UI/Icons/Customization/SwedenKiller_outfit_007.png"
+        "image": "UI/Icons/Customization/Oni/SwedenKiller_outfit_007.png"
     },
     "SwedenKiller_outfit_008": {
         "type": "outfit",
@@ -82236,7 +84096,7 @@
             "SwedenKiller_Body008",
             "SwedenKiller_W008"
         ],
-        "image": "UI/Icons/Customization/SwedenKiller_outfit_008.png"
+        "image": "UI/Icons/Customization/Oni/SwedenKiller_outfit_008.png"
     },
     "SwedenKiller_outfit_009": {
         "type": "outfit",
@@ -82253,7 +84113,7 @@
             "SwedenKiller_Body009",
             "SwedenKiller_W009"
         ],
-        "image": "UI/Icons/Customization/SwedenKiller_outfit_009.png"
+        "image": "UI/Icons/Customization/Oni/SwedenKiller_outfit_009.png"
     },
     "SwedenKiller_outfit_010": {
         "type": "outfit",
@@ -82576,7 +84436,7 @@
             "SwedenKiller_Body02",
             "SwedenKiller_W02"
         ],
-        "image": "UI/Icons/Customization/SwedenKiller_outfit_02.png"
+        "image": "UI/Icons/Customization/Oni/SwedenKiller_outfit_02.png"
     },
     "SwedenKiller_outfit_020": {
         "type": "outfit",
@@ -82644,7 +84504,7 @@
             "SwedenKiller_Body02_01",
             "SwedenKiller_W02_01"
         ],
-        "image": "UI/Icons/Customization/SwedenKiller_outfit_02_01.png"
+        "image": "UI/Icons/Customization/Oni/SwedenKiller_outfit_02_01.png"
     },
     "SwedenKiller_outfit_02_02": {
         "type": "outfit",
@@ -82661,7 +84521,7 @@
             "SwedenKiller_Body02_02",
             "SwedenKiller_W02_02"
         ],
-        "image": "UI/Icons/Customization/SwedenKiller_outfit_02_02.png"
+        "image": "UI/Icons/Customization/Oni/SwedenKiller_outfit_02_02.png"
     },
     "SwedenKiller_W006": {
         "type": "item",
@@ -83913,7 +85773,7 @@
             "SwedenSurvivor_Torso006",
             "SwedenSurvivor_Legs006"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_006.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_006.png"
     },
     "SwedenSurvivor_outfit_007": {
         "type": "outfit",
@@ -83930,7 +85790,7 @@
             "SwedenSurvivor_Torso007",
             "SwedenSurvivor_Legs007"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_007.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_007.png"
     },
     "SwedenSurvivor_outfit_009": {
         "type": "outfit",
@@ -83947,7 +85807,7 @@
             "SwedenSurvivor_Torso009",
             "SwedenSurvivor_Legs009"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_009.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_009.png"
     },
     "SwedenSurvivor_outfit_010": {
         "type": "outfit",
@@ -83964,7 +85824,7 @@
             "SwedenSurvivor_Torso010",
             "SwedenSurvivor_Legs010"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_010.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_010.png"
     },
     "SwedenSurvivor_outfit_011": {
         "type": "outfit",
@@ -83981,7 +85841,7 @@
             "SwedenSurvivor_Torso011",
             "SwedenSurvivor_Legs011"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_011.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_011.png"
     },
     "SwedenSurvivor_outfit_012": {
         "type": "outfit",
@@ -83998,7 +85858,7 @@
             "SwedenSurvivor_Torso012",
             "SwedenSurvivor_Legs012"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_012.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_012.png"
     },
     "SwedenSurvivor_outfit_013": {
         "type": "outfit",
@@ -84015,7 +85875,7 @@
             "SwedenSurvivor_Torso013",
             "SwedenSurvivor_Legs013"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_013.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_013.png"
     },
     "SwedenSurvivor_outfit_015": {
         "type": "outfit",
@@ -84032,7 +85892,7 @@
             "SwedenSurvivor_Torso015",
             "SwedenSurvivor_Legs015"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_015.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_015.png"
     },
     "SwedenSurvivor_outfit_015_01": {
         "type": "outfit",
@@ -84117,7 +85977,7 @@
             "SwedenSurvivor_Torso01_02",
             "SwedenSurvivor_Legs01_02"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_01_02.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_01_02.png"
     },
     "SwedenSurvivor_outfit_01_03": {
         "type": "outfit",
@@ -84134,7 +85994,7 @@
             "SwedenSurvivor_Torso01_03",
             "SwedenSurvivor_Legs01_03"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_01_03.png"
     },
     "SwedenSurvivor_outfit_01_04": {
         "type": "outfit",
@@ -84151,7 +86011,7 @@
             "SwedenSurvivor_Torso01_04",
             "SwedenSurvivor_Legs01_04"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_01_04.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_01_04.png"
     },
     "SwedenSurvivor_outfit_01_CV01": {
         "type": "outfit",
@@ -84168,7 +86028,7 @@
             "SwedenSurvivor_Torso01_CV01",
             "SwedenSurvivor_Legs01_CV01"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_01_CV01.png"
     },
     "SwedenSurvivor_outfit_01_CV02": {
         "type": "outfit",
@@ -84185,7 +86045,7 @@
             "SwedenSurvivor_Torso01_CV02",
             "SwedenSurvivor_Legs01_CV02"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_01_CV02.png"
     },
     "SwedenSurvivor_outfit_01_CV03": {
         "type": "outfit",
@@ -84202,7 +86062,7 @@
             "SwedenSurvivor_Torso01_CV03",
             "SwedenSurvivor_Legs01_CV03"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_01_CV03.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_01_CV03.png"
     },
     "SwedenSurvivor_outfit_01_CV04": {
         "type": "outfit",
@@ -84219,7 +86079,7 @@
             "SwedenSurvivor_Torso01_CV04",
             "SwedenSurvivor_Legs01_CV04"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_01_CV04.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_01_CV04.png"
     },
     "SwedenSurvivor_outfit_02": {
         "type": "outfit",
@@ -84236,7 +86096,7 @@
             "SwedenSurvivor_Torso02",
             "SwedenSurvivor_Legs02"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_02.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_02.png"
     },
     "SwedenSurvivor_outfit_020": {
         "type": "outfit",
@@ -84406,7 +86266,7 @@
             "SwedenSurvivor_Torso02_01",
             "SwedenSurvivor_Legs02_01"
         ],
-        "image": "UI/Icons/Customization/SwedenSurvivor_outfit_02_01.png"
+        "image": "UI/Icons/Customization/Yui/SwedenSurvivor_outfit_02_01.png"
     },
     "SwedenSurvivor_Torso006": {
         "type": "item",
@@ -85363,7 +87223,7 @@
             "TC_Legs009",
             "TC_W009"
         ],
-        "image": "UI/Icons/Customization/TC_outfit_009.png"
+        "image": "UI/Icons/Customization/Hillbilly/TC_outfit_009.png"
     },
     "TC_outfit_009_01": {
         "type": "outfit",
@@ -85380,7 +87240,7 @@
             "TC_Legs009_01",
             "TC_W06_02"
         ],
-        "image": "UI/Icons/Customization/TC_outfit_009_01.png"
+        "image": "UI/Icons/Customization/Hillbilly/TC_outfit_009_01.png"
     },
     "TC_outfit_010": {
         "type": "outfit",
@@ -85397,7 +87257,7 @@
             "TC_Legs010",
             "TC_W010"
         ],
-        "image": "UI/Icons/Customization/TC_outfit_010.png"
+        "image": "UI/Icons/Customization/Hillbilly/TC_outfit_010.png"
     },
     "TC_outfit_011": {
         "type": "outfit",
@@ -85414,7 +87274,7 @@
             "TC_Legs011",
             "TC_W011"
         ],
-        "image": "UI/Icons/Customization/TC_outfit_011.png"
+        "image": "UI/Icons/Customization/Hillbilly/TC_outfit_011.png"
     },
     "TC_outfit_012": {
         "type": "outfit",
@@ -85431,7 +87291,7 @@
             "TC_Legs012",
             "TC_W012"
         ],
-        "image": "UI/Icons/Customization/TC_outfit_012.png"
+        "image": "UI/Icons/Customization/Hillbilly/TC_outfit_012.png"
     },
     "TC_outfit_013": {
         "type": "outfit",
@@ -85448,7 +87308,7 @@
             "TC_Legs013",
             "TC_W013"
         ],
-        "image": "UI/Icons/Customization/TC_outfit_013.png"
+        "image": "UI/Icons/Customization/Hillbilly/TC_outfit_013.png"
     },
     "TC_outfit_015": {
         "type": "outfit",
@@ -85533,7 +87393,7 @@
             "TC_Legs01_03",
             "TC_W01_03"
         ],
-        "image": "UI/Icons/Customization/TC_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Hillbilly/TC_outfit_01_03.png"
     },
     "TC_outfit_020": {
         "type": "outfit",
@@ -85584,7 +87444,7 @@
             "TC_Legs05_03",
             "TC_W05_03"
         ],
-        "image": "UI/Icons/Customization/TC_outfit_05_03.png"
+        "image": "UI/Icons/Customization/Hillbilly/TC_outfit_05_03.png"
     },
     "TC_outfit_05_04": {
         "type": "outfit",
@@ -86253,6 +88113,19 @@
         "items": null,
         "image": "UI/Icons/Customization/Hillbilly/TC_W021.png"
     },
+    "TC_W022": {
+        "type": "item",
+        "category": "weapon",
+        "name": "Arctic Hammer",
+        "description": "He wrenched the instrument free from the ice and swung.",
+        "collection": "Bone Chill 2024",
+        "character": 268435458,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/Hillbilly/TC_W022.png"
+    },
     "TC_W03": {
         "type": "item",
         "category": "weapon",
@@ -86828,15 +88701,15 @@
     "TI_033": {
         "type": "charm",
         "category": null,
-        "name": "Beholder",
-        "description": "Fear is the eye of the beholder.",
-        "collection": "Dungeons & Dragons",
+        "name": "Voxel Meg",
+        "description": "A 3D representation of a hardened track athletes.",
+        "collection": "Voxel Dolls Collection",
         "character": null,
         "role": null,
         "rarity": "rare",
         "outfit": null,
         "items": null,
-        "image": "UI/Icons/Customization/CH_009.png"
+        "image": "UI/Icons/Customization/TI_033.png"
     },
     "TI_034": {
         "type": "charm",
@@ -87975,7 +89848,7 @@
             "TN_Body03_02",
             "TN_W007_01"
         ],
-        "image": "UI/Icons/Customization/TN_outfit_007_01.png"
+        "image": "UI/Icons/Customization/Nurse/TN_outfit_007_01.png"
     },
     "TN_outfit_008": {
         "type": "outfit",
@@ -87992,7 +89865,7 @@
             "TN_Body008",
             "TN_W008"
         ],
-        "image": "UI/Icons/Customization/TN_outfit_008.png"
+        "image": "UI/Icons/Customization/Nurse/TN_outfit_008.png"
     },
     "TN_outfit_008_01": {
         "type": "outfit",
@@ -88026,7 +89899,7 @@
             "TN_Body009",
             "TN_W009"
         ],
-        "image": "UI/Icons/Customization/TN_outfit_009.png"
+        "image": "UI/Icons/Customization/Nurse/TN_outfit_009.png"
     },
     "TN_outfit_010": {
         "type": "outfit",
@@ -88043,7 +89916,7 @@
             "TN_Body010",
             "TN_W010"
         ],
-        "image": "UI/Icons/Customization/TN_outfit_010.png"
+        "image": "UI/Icons/Customization/Nurse/TN_outfit_010.png"
     },
     "TN_outfit_012": {
         "type": "outfit",
@@ -88060,7 +89933,7 @@
             "TN_Body012",
             "TN_W012"
         ],
-        "image": "UI/Icons/Customization/TN_outfit_012.png"
+        "image": "UI/Icons/Customization/Nurse/TN_outfit_012.png"
     },
     "TN_outfit_013": {
         "type": "outfit",
@@ -88077,7 +89950,7 @@
             "TN_Body013",
             "TN_W013"
         ],
-        "image": "UI/Icons/Customization/TN_outfit_013.png"
+        "image": "UI/Icons/Customization/Nurse/TN_outfit_013.png"
     },
     "TN_outfit_014": {
         "type": "outfit",
@@ -89423,9 +91296,9 @@
     "TR_Body026": {
         "type": "item",
         "category": "body",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Wind-up Rage",
+        "description": "He wasn't expecting this round little boy with asthma to spin around and punch him hard in the face.",
+        "collection": "Modern Tales",
         "character": 268435456,
         "role": null,
         "rarity": "veryrare",
@@ -89943,9 +91816,9 @@
     "TR_Mask026": {
         "type": "item",
         "category": "head",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Brash Sneer",
+        "description": "He approached the boy's locker and could see the little piggy tense up as he got closer and closer.",
+        "collection": "Modern Tales",
         "character": 268435456,
         "role": null,
         "rarity": "veryrare",
@@ -90115,7 +91988,7 @@
             "TR_Body009",
             "TR_W009"
         ],
-        "image": "UI/Icons/Customization/TR_outfit_009.png"
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_009.png"
     },
     "TR_outfit_010": {
         "type": "outfit",
@@ -90132,7 +92005,7 @@
             "TR_Body010",
             "TR_W010"
         ],
-        "image": "UI/Icons/Customization/TR_outfit_010.png"
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_010.png"
     },
     "TR_outfit_011_01": {
         "type": "outfit",
@@ -90149,7 +92022,7 @@
             "TR_Body011_01",
             "TR_W011_01"
         ],
-        "image": "UI/Icons/Customization/TR_outfit_011_01.png"
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_011_01.png"
     },
     "TR_outfit_012": {
         "type": "outfit",
@@ -90166,7 +92039,7 @@
             "TR_Body012",
             "TR_W012"
         ],
-        "image": "UI/Icons/Customization/TR_outfit_012.png"
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_012.png"
     },
     "TR_outfit_013": {
         "type": "outfit",
@@ -90183,7 +92056,7 @@
             "TR_Body013",
             "TR_W013"
         ],
-        "image": "UI/Icons/Customization/TR_outfit_013.png"
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_013.png"
     },
     "TR_outfit_013_01": {
         "type": "outfit",
@@ -90251,7 +92124,7 @@
             "TR_Body01_03",
             "TR_W01_03"
         ],
-        "image": "UI/Icons/Customization/TR_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_01_03.png"
     },
     "TR_outfit_01_04": {
         "type": "outfit",
@@ -90268,7 +92141,7 @@
             "TR_Body02_03",
             "TR_W02_01"
         ],
-        "image": "UI/Icons/Customization/TR_outfit_01_04.png"
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_01_04.png"
     },
     "TR_outfit_022": {
         "type": "outfit",
@@ -90324,9 +92197,9 @@
     "TR_outfit_026": {
         "type": "outfit",
         "category": null,
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Big Baddie",
+        "description": "Evan saw the little piggy putting books in his locker at the end of the hallway. He wondered how much money that boy had on him today.",
+        "collection": "Modern Tales",
         "character": 268435456,
         "role": null,
         "rarity": "veryrare",
@@ -90353,7 +92226,7 @@
             "TR_Body09_02",
             "TR_W09_02"
         ],
-        "image": "UI/Icons/Customization/TR_outfit_09_02.png"
+        "image": "UI/Icons/Customization/Trapper/TR_outfit_09_02.png"
     },
     "TR_outfit_09_03": {
         "type": "outfit",
@@ -90674,9 +92547,9 @@
     "TR_W026": {
         "type": "item",
         "category": "weapon",
-        "name": null,
-        "description": null,
-        "collection": null,
+        "name": "Downright Machete",
+        "description": "Ashamed, he went to bed with a swollen face without seeing his father. In the morning, he found a knife on his nightstand with a note that said, \u201cfight harder.\u201d",
+        "collection": "Modern Tales",
         "character": 268435456,
         "role": null,
         "rarity": "veryrare",
@@ -91544,7 +93417,7 @@
             "TW_Body02_01",
             "TW_W03_03"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_007_01.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_007_01.png"
     },
     "TW_outfit_008": {
         "type": "outfit",
@@ -91561,7 +93434,7 @@
             "TW_Body008",
             "TW_W008"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_008.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_008.png"
     },
     "TW_outfit_009": {
         "type": "outfit",
@@ -91578,7 +93451,7 @@
             "TW_Body009",
             "TW_W009"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_009.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_009.png"
     },
     "TW_outfit_009_01": {
         "type": "outfit",
@@ -91612,7 +93485,7 @@
             "TW_Body010",
             "TW_W010"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_010.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_010.png"
     },
     "TW_outfit_011": {
         "type": "outfit",
@@ -91629,7 +93502,7 @@
             "TW_Body011",
             "TW_W011"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_011.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_011.png"
     },
     "TW_outfit_012": {
         "type": "outfit",
@@ -91646,7 +93519,7 @@
             "TW_Body012",
             "TW_W012"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_012.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_012.png"
     },
     "TW_outfit_013": {
         "type": "outfit",
@@ -91663,7 +93536,7 @@
             "TW_Body013",
             "TW_W013"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_013.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_013.png"
     },
     "TW_outfit_014": {
         "type": "outfit",
@@ -91765,7 +93638,7 @@
             "TW_Body01_03",
             "TW_W01_03"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_01_03.png"
     },
     "TW_outfit_01_04": {
         "type": "outfit",
@@ -91782,7 +93655,7 @@
             "TW_Body01_04",
             "TW_W01_04"
         ],
-        "image": "UI/Icons/Customization/TW_outfit_01_04.png"
+        "image": "UI/Icons/Customization/Wraith/TW_outfit_01_04.png"
     },
     "TW_outfit_021": {
         "type": "outfit",
@@ -92368,7 +94241,7 @@
         "type": "item",
         "category": "body",
         "name": "Fetid March",
-        "description": "The infestation melted his muscles and witheredhis skin. The transformation was complete.",
+        "description": "The infestation melted his muscles and withered his skin. The transformation was complete.",
         "collection": "Hallowed Blight",
         "character": 268435474,
         "role": null,
@@ -92860,7 +94733,7 @@
             "UK_Body006",
             "UK_W006"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_006.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_006.png"
     },
     "UK_outfit_007": {
         "type": "outfit",
@@ -92877,7 +94750,7 @@
             "UK_Body007",
             "UK_W007"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_007.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_007.png"
     },
     "UK_outfit_007_02": {
         "type": "outfit",
@@ -92911,7 +94784,7 @@
             "UK_Body008",
             "UK_W008"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_008.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_008.png"
     },
     "UK_outfit_009": {
         "type": "outfit",
@@ -92928,7 +94801,7 @@
             "UK_Body009",
             "UK_W009"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_009.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_009.png"
     },
     "UK_outfit_009_01": {
         "type": "outfit",
@@ -93081,7 +94954,7 @@
             "UK_Body01_01",
             "UK_W01_01"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_01_01.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_01_01.png"
     },
     "UK_outfit_01_02": {
         "type": "outfit",
@@ -93098,7 +94971,7 @@
             "UK_Body01_02",
             "UK_W01_02"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_01_02.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_01_02.png"
     },
     "UK_outfit_01_03": {
         "type": "outfit",
@@ -93115,7 +94988,7 @@
             "UK_Body01_03",
             "UK_W01_03"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_01_03.png"
     },
     "UK_outfit_01_04": {
         "type": "outfit",
@@ -93132,7 +95005,7 @@
             "UK_Body01_04",
             "UK_W01_04"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_01_04.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_01_04.png"
     },
     "UK_outfit_01_CV01": {
         "type": "outfit",
@@ -93148,7 +95021,7 @@
             "UK_Body01_CV01",
             "UK_W01_CV01"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_01_CV01.png"
     },
     "UK_outfit_01_CV02": {
         "type": "outfit",
@@ -93164,7 +95037,7 @@
             "UK_Body01_CV02",
             "UK_W01_CV02"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_01_CV02.png"
     },
     "UK_outfit_01_CV03": {
         "type": "outfit",
@@ -93180,7 +95053,7 @@
             "UK_Body01_CV03",
             "UK_W01_CV03"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_01_CV03.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_01_CV03.png"
     },
     "UK_outfit_01_CV04": {
         "type": "outfit",
@@ -93196,7 +95069,7 @@
             "UK_Body01_CV04",
             "UK_W01_CV04"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_01_CV04.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_01_CV04.png"
     },
     "UK_outfit_02": {
         "type": "outfit",
@@ -93213,7 +95086,7 @@
             "UK_Body02",
             "UK_W02"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_02.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_02.png"
     },
     "UK_outfit_02_01": {
         "type": "outfit",
@@ -93230,7 +95103,7 @@
             "UK_Body02_01",
             "UK_W02_01"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_02_01.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_02_01.png"
     },
     "UK_outfit_02_02": {
         "type": "outfit",
@@ -93247,7 +95120,7 @@
             "UK_Body02_02",
             "UK_W02_02"
         ],
-        "image": "UI/Icons/Customization/UK_outfit_02_02.png"
+        "image": "UI/Icons/Customization/Gunslinger/UK_outfit_02_02.png"
     },
     "UK_W006": {
         "type": "item",
@@ -94525,7 +96398,7 @@
             "US_Torso006",
             "US_Legs006"
         ],
-        "image": "UI/Icons/Customization/US_outfit_006.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_006.png"
     },
     "US_outfit_007": {
         "type": "outfit",
@@ -94542,7 +96415,7 @@
             "US_Torso007",
             "US_Legs007"
         ],
-        "image": "UI/Icons/Customization/US_outfit_007.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_007.png"
     },
     "US_outfit_007_01": {
         "type": "outfit",
@@ -94576,7 +96449,7 @@
             "US_Torso008",
             "US_Legs008"
         ],
-        "image": "UI/Icons/Customization/US_outfit_008.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_008.png"
     },
     "US_outfit_009": {
         "type": "outfit",
@@ -94593,7 +96466,7 @@
             "US_Torso009",
             "US_Legs009"
         ],
-        "image": "UI/Icons/Customization/US_outfit_009.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_009.png"
     },
     "US_outfit_009_01": {
         "type": "outfit",
@@ -94610,7 +96483,7 @@
             "US_Torso009_01",
             "US_Legs006_01"
         ],
-        "image": "UI/Icons/Customization/US_outfit_009_01.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_009_01.png"
     },
     "US_outfit_010": {
         "type": "outfit",
@@ -94627,7 +96500,7 @@
             "US_Torso010",
             "US_Legs010"
         ],
-        "image": "UI/Icons/Customization/US_outfit_010.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_010.png"
     },
     "US_outfit_012": {
         "type": "outfit",
@@ -94644,7 +96517,7 @@
             "US_Torso012",
             "US_Legs012"
         ],
-        "image": "UI/Icons/Customization/US_outfit_012.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_012.png"
     },
     "US_outfit_013": {
         "type": "outfit",
@@ -94661,7 +96534,7 @@
             "US_Torso013",
             "US_Legs013"
         ],
-        "image": "UI/Icons/Customization/US_outfit_013.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_013.png"
     },
     "US_outfit_014": {
         "type": "outfit",
@@ -94678,7 +96551,7 @@
             "US_Torso014",
             "US_Legs014"
         ],
-        "image": "UI/Icons/Customization/US_outfit_014.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_014.png"
     },
     "US_outfit_014_01": {
         "type": "outfit",
@@ -94780,7 +96653,7 @@
             "US_Torso01_02",
             "US_Legs01_02"
         ],
-        "image": "UI/Icons/Customization/US_outfit_01_02.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_01_02.png"
     },
     "US_outfit_01_03": {
         "type": "outfit",
@@ -94797,7 +96670,7 @@
             "US_Torso01_03",
             "US_Legs01_03"
         ],
-        "image": "UI/Icons/Customization/US_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_01_03.png"
     },
     "US_outfit_01_04": {
         "type": "outfit",
@@ -94814,7 +96687,7 @@
             "US_Torso01_04",
             "US_Legs01_04"
         ],
-        "image": "UI/Icons/Customization/US_outfit_01_04.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_01_04.png"
     },
     "US_outfit_01_CV01": {
         "type": "outfit",
@@ -94830,7 +96703,7 @@
             "US_Torso01_CV01",
             "US_Legs01_CV01"
         ],
-        "image": "UI/Icons/Customization/US_outfit_01_CV01.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_01_CV01.png"
     },
     "US_outfit_01_CV02": {
         "type": "outfit",
@@ -94846,7 +96719,7 @@
             "US_Torso01_CV02",
             "US_Legs01_CV02"
         ],
-        "image": "UI/Icons/Customization/US_outfit_01_CV02.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_01_CV02.png"
     },
     "US_outfit_01_CV03": {
         "type": "outfit",
@@ -94862,7 +96735,7 @@
             "US_Torso01_CV03",
             "US_Legs01_CV03"
         ],
-        "image": "UI/Icons/Customization/US_outfit_01_CV03.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_01_CV03.png"
     },
     "US_outfit_01_CV04": {
         "type": "outfit",
@@ -94878,7 +96751,7 @@
             "US_Torso01_CV04",
             "US_Legs01_CV04"
         ],
-        "image": "UI/Icons/Customization/US_outfit_01_CV04.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_01_CV04.png"
     },
     "US_outfit_02": {
         "type": "outfit",
@@ -94895,7 +96768,7 @@
             "US_Torso02",
             "US_Legs02"
         ],
-        "image": "UI/Icons/Customization/US_outfit_02.png"
+        "image": "UI/Icons/Customization/Zarina/US_outfit_02.png"
     },
     "US_outfit_020": {
         "type": "outfit",
@@ -95470,6 +97343,19 @@
         "outfit": "US_outfit_025",
         "items": null,
         "image": "UI/Icons/Customization/Zarina/US_Torso025.png"
+    },
+    "US_Torso027": {
+        "type": "item",
+        "category": "torso",
+        "name": "Celestial Lynx",
+        "description": "A sharp lynx made of stars.",
+        "collection": "Bone Chill 2024",
+        "character": 20,
+        "role": null,
+        "rarity": "specialevent",
+        "outfit": null,
+        "items": null,
+        "image": "UI/Icons/Customization/Zarina/US_Torso027.png"
     },
     "US_Torso02_01": {
         "type": "item",
@@ -96513,7 +98399,7 @@
             "WI_Body04",
             "WI_W04"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_001.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_001.png"
     },
     "Witch_outfit_002": {
         "type": "outfit",
@@ -96530,7 +98416,7 @@
             "WI_Body02",
             "WI_W02"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_002.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_002.png"
     },
     "Witch_outfit_003": {
         "type": "outfit",
@@ -96547,7 +98433,7 @@
             "WI_Body03",
             "WI_W03"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_003.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_003.png"
     },
     "Witch_outfit_004": {
         "type": "outfit",
@@ -96564,7 +98450,7 @@
             "WI_Body01_CV01",
             "WI_W01_CV01"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_004.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_004.png"
     },
     "Witch_outfit_005": {
         "type": "outfit",
@@ -96581,7 +98467,7 @@
             "WI_Body01_CV02",
             "WI_W01_CV02"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_005.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_005.png"
     },
     "Witch_outfit_006": {
         "type": "outfit",
@@ -96598,7 +98484,7 @@
             "WI_Body01_CV03",
             "WI_W01_CV03"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_006.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_006.png"
     },
     "Witch_outfit_006_01": {
         "type": "outfit",
@@ -96615,7 +98501,7 @@
             "WI_Body006",
             "WI_W006"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_006_01.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_006_01.png"
     },
     "Witch_outfit_007": {
         "type": "outfit",
@@ -96632,7 +98518,7 @@
             "WI_Body01_CV04",
             "WI_W01_CV04"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_007.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_007.png"
     },
     "Witch_outfit_008": {
         "type": "outfit",
@@ -96649,7 +98535,7 @@
             "WI_Body01_CV05",
             "WI_W01_CV05"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_008.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_008.png"
     },
     "Witch_outfit_009": {
         "type": "outfit",
@@ -96666,7 +98552,7 @@
             "WI_Body01_CV06",
             "WI_W01_CV06"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_009.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_009.png"
     },
     "Witch_outfit_010": {
         "type": "outfit",
@@ -96682,7 +98568,7 @@
             "WI_Hair01_01",
             "WI_Body01_01"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_010.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_010.png"
     },
     "Witch_outfit_011": {
         "type": "outfit",
@@ -96698,7 +98584,7 @@
             "WI_Hair01_02",
             "WI_Body01_02"
         ],
-        "image": "UI/Icons/Customization/Witch_outfit_011.png"
+        "image": "UI/Icons/Customization/Hag/Witch_outfit_011.png"
     },
     "WI_Body006": {
         "type": "item",
@@ -97434,7 +99320,7 @@
             "WI_Body007",
             "WI_W007"
         ],
-        "image": "UI/Icons/Customization/WI_outfit_007.png"
+        "image": "UI/Icons/Customization/Hag/WI_outfit_007.png"
     },
     "WI_outfit_008": {
         "type": "outfit",
@@ -97451,7 +99337,7 @@
             "WI_Body008",
             "WI_W008"
         ],
-        "image": "UI/Icons/Customization/WI_outfit_008.png"
+        "image": "UI/Icons/Customization/Hag/WI_outfit_008.png"
     },
     "WI_outfit_009": {
         "type": "outfit",
@@ -97468,7 +99354,7 @@
             "WI_Body009",
             "WI_W009"
         ],
-        "image": "UI/Icons/Customization/WI_outfit_009.png"
+        "image": "UI/Icons/Customization/Hag/WI_outfit_009.png"
     },
     "WI_outfit_010": {
         "type": "outfit",
@@ -97485,7 +99371,7 @@
             "WI_Body010",
             "WI_W010"
         ],
-        "image": "UI/Icons/Customization/WI_outfit_010.png"
+        "image": "UI/Icons/Customization/Hag/WI_outfit_010.png"
     },
     "WI_outfit_011": {
         "type": "outfit",
@@ -97587,7 +99473,7 @@
             "WI_Body01_03",
             "WI_W01_03"
         ],
-        "image": "UI/Icons/Customization/WI_outfit_01_03.png"
+        "image": "UI/Icons/Customization/Hag/WI_outfit_01_03.png"
     },
     "WI_outfit_03_01": {
         "type": "outfit",
@@ -97603,7 +99489,7 @@
             "WI_Body03_01",
             "WI_W03_01"
         ],
-        "image": "UI/Icons/Customization/WI_outfit_03_01.png"
+        "image": "UI/Icons/Customization/Hag/WI_outfit_03_01.png"
     },
     "WI_outfit_04_01": {
         "type": "outfit",
@@ -97620,7 +99506,7 @@
             "WI_Body04_01",
             "WI_W04_01"
         ],
-        "image": "UI/Icons/Customization/WI_outfit_04_01.png"
+        "image": "UI/Icons/Customization/Hag/WI_outfit_04_01.png"
     },
     "WI_W006": {
         "type": "item",

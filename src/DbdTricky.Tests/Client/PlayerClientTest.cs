@@ -259,6 +259,7 @@ public class PlayerClientTest
             Assert.That(stats.EscapedLastGenLastSurvivor, Is.EqualTo(56));
             Assert.That(stats.EscapedNewItem, Is.EqualTo(4685));
             Assert.That(stats.EscapedWithItemFrom, Is.EqualTo(801));
+            Assert.That(stats.EscapedBroken, Is.EqualTo(5));
             Assert.That(stats.ProtectionHitsUnhooked, Is.EqualTo(12271));
             Assert.That(stats.ProtectionHitsWhileCarried, Is.EqualTo(2713));
             Assert.That(stats.HealedDyingToInjured, Is.EqualTo(7778));
@@ -289,6 +290,7 @@ public class PlayerClientTest
             Assert.That(stats.ChestsSearchedBasement, Is.EqualTo(1642));
             Assert.That(stats.MysteryBoxesOpened, Is.EqualTo(39116));
             Assert.That(stats.Screams, Is.EqualTo(5680));
+            Assert.That(stats.UnhookedSafelyWhileBroken, Is.EqualTo(13));
             Assert.That(stats.SecondFloorGenDisturbedWard, Is.EqualTo(184));
             Assert.That(stats.SecondFloorGenFatherCampbellsChapel, Is.EqualTo(122));
             Assert.That(stats.SecondFloorGenMothersDwelling, Is.EqualTo(212));
@@ -351,6 +353,7 @@ public class PlayerClientTest
             Assert.That(stats.SurvivorsHitWhileCarrying, Is.EqualTo(7791));
             Assert.That(stats.SurvivorsHitBasicAttackUndetectable, Is.EqualTo(694));
             Assert.That(stats.SurvivorsHitScamper, Is.EqualTo(11));
+            Assert.That(stats.SurvivorsHitDetainedByDog, Is.EqualTo(74));
             Assert.That(stats.SurvivorsThreeHookedBasementSameTime, Is.EqualTo(1514));
             Assert.That(stats.HatchesClosed, Is.EqualTo(4917));
             Assert.That(stats.HookedWhileThreeInjured, Is.EqualTo(4903));

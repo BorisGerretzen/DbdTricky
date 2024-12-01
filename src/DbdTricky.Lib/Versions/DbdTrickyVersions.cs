@@ -20,17 +20,17 @@ public class DbdTrickyVersions
     /// </summary>
     public static readonly DbdTrickyVersions LastKnown = new()
     {
-        Addons = new DbdTrickyVersion { Version = "8.3.2", LastUpdate = 1731917505 },
+        Addons = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013731 },
         Archives = new DbdTrickyVersion { Version = "8.3.2", LastUpdate = 1731917159 },
-        Characters = new DbdTrickyVersion { Version = "8.3.2", LastUpdate = 1731917510 },
-        Customizations = new DbdTrickyVersion { Version = "8.3.2", LastUpdate = 1731917534 },
-        Dlc = new DbdTrickyVersion { Version = "8.3.0", LastUpdate = 1728555991 },
-        Gamemodes = new DbdTrickyVersion { Version = "8.3.2", LastUpdate = 1732005759 },
-        Items = new DbdTrickyVersion { Version = "8.3.2", LastUpdate = 1731917505 },
+        Characters = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013742 },
+        Customizations = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733014492 },
+        Dlc = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013322 },
+        Gamemodes = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013921 },
+        Items = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013893 },
         Journals = new DbdTrickyVersion { Version = "8.3.0", LastUpdate = 1728555869 },
-        Maps = new DbdTrickyVersion { Version = "8.3.0", LastUpdate = 1728555874 },
-        Offerings = new DbdTrickyVersion { Version = "8.3.0", LastUpdate = 1728557321 },
-        Perks = new DbdTrickyVersion { Version = "8.3.2", LastUpdate = 1731917506 },
+        Maps = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013905 },
+        Offerings = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013952 },
+        Perks = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013928 },
         Rift = new DbdTrickyVersion { Version = "8.3.0", LastUpdate = 1728555940 }
     };
 }

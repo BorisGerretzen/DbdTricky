@@ -36,7 +36,7 @@ public class CharactersClientTest
                 Assert.That(character.Tunables["MaxWalkSpeed"], Is.EqualTo(460));
                 Assert.That(character.Tunables["CarryingCamperMaxWalkSpeedPercent"], Is.EqualTo(0.800000011920929));
                 Assert.That(character.Tunables["TerrorRadius"], Is.EqualTo(3200));
-                Assert.That(character.Tunables["Addon_14_CooldownReductionOnBasicAttackSuccess"], Is.EqualTo(5));
+                Assert.That(character.Tunables["Addon_14_CooldownReductionOnBasicAttackSuccess"], Is.EqualTo(3.0f));
                 Assert.That(character.Tunables["Addon_15_SurvivorDistanceFromTreasureChest"], Is.EqualTo(600));
                 Assert.That(character.Tunables["Addon_15_EffectLifetime"], Is.EqualTo(3));
                 Assert.That(character.Tunables["Addon_16_MangledEffectLifetime"], Is.EqualTo(45));

@@ -207,7 +207,7 @@
         "role": "survivor",
         "modifiers": null,
         "bloodweb": 1,
-        "event": "Winter2023",
+        "event": "Winter2024",
         "rarity": "specialevent",
         "image": "UI/Icons/Items/WinterEvent/iconItems_winterEventFirecracker.png"
     },
@@ -1036,7 +1036,7 @@
         "type": "power",
         "item_type": null,
         "name": "Eyes In The Sky",
-        "description": "<i>Inspired by the dark mangas created by her father, The Skull Merchant relentlessly hunts her prey using the latest in surveillance technology.</i><br><br>The Skull Merchant begins the match with six Drones. Press the <i>Power button</i> to deploy a Drone. Deploying a Drone grants <b>Undetectable</b> for 8 seconds. Once detected by a scan line, a Survivor gains scan immunity and cannot be detected by other scan lines for a few seconds.<br><br>Survivors can attempt to hack Drones. Failure activates the Drone and partially fills their <b>Lock On</b> meter; Success disables the Drone for 45 seconds.<br><br><b>SPECIAL ABILITY: RADAR</b><br><br>Press the <i>Ability Button</i> to open a Radar to see the locations of Survivors detected by Drones and those with <b>Claw Traps</b>. The Radar can be used to change a Drone's rotation direction or to recall a Drone.<br><br>When a Survivor is detected by a Drone shortly after its deployment or change in rotation, The Skull Merchant gains bonus movement speed for a short duration.<br><br><b>SPECIAL EFFECT: LOCK ON</b><br><br>The <b>Lock On</b> meter fills when scanned by a Drone and when failing to disable a Drone. When the meter is full, the Survivor receives a <b>Claw Trap</b>, becomes Injured, and suffers from the <b>Broken</b> status effect. Additional scans briefly apply the <b>Hindered</b> status effect.<br><br>A <b>Claw Trap</b> broadcasts the Survivor\u2019s location to the Killer and is only removed when its battery dies.",
+        "description": "<i>Inspired by the dark mangas created by her father, The Skull Merchant relentlessly hunts her prey using the latest in surveillance technology.</i><br><br>The Skull Merchant begins the match with six Drones. Press the <i>Power button</i> to deploy a Drone. Deploying a Drone grants <b>Undetectable</b> for 8 seconds. Once detected by a scan line, a Survivor gains scan immunity and cannot be detected by other scan lines for a few seconds.<br><br>Survivors can attempt to hack Drones. Failure partially fills their <b>Lock On</b> meter; Success disables the Drone for 45 seconds.<br><br><b>SPECIAL ABILITY: RADAR</b><br><br>Press the <i>Ability Button</i> to open a Radar to see the locations of Survivors detected by Drones and those with <b>Claw Traps</b>. The Radar can be used to change a Drone's rotation direction or to recall a Drone.<br><br>When a Survivor is detected by a Drone shortly after its deployment or change in rotation, The Skull Merchant gains bonus movement speed for a short duration.<br><br><b>SPECIAL EFFECT: LOCK ON</b><br><br>The <b>Lock On</b> meter fills when scanned by a Drone and when failing to disable a Drone. When the meter is full, the Survivor receives a <b>Claw Trap</b>, becomes Injured, and suffers from the <b>Broken</b> status effect. Additional scans briefly apply the <b>Hindered</b> status effect.<br><br>A <b>Claw Trap</b> broadcasts the Survivor\u2019s location to the Killer and is only removed when its battery dies.",
         "role": "killer",
         "modifiers": null,
         "bloodweb": 0,
@@ -1115,6 +1115,18 @@
         "event": null,
         "rarity": "common",
         "image": "UI/Icons/Powers/Eclair/iconPowers_K37_Shapeshift.png"
+    },
+    "Item_Slasher_K38Power": {
+        "type": "power",
+        "item_type": null,
+        "name": "Scent of Blood",
+        "description": "The Houndmaster and her dog operate as one. Her commands are followed without question or delay.<br><br><b>SPECIAL ABILITY: CHASE</b><br><br>The Chase Command sends the dog out at high speed. Pressing the Power button again redirects the Chase, pivoting the dog's path. When the dog catches a Survivor, the dog starts a Grab. The Survivor becomes <b>Hindered</b> and is pulled toward The Houndmaster. The Survivor can get free by stunning the dog or can be rescued by another Survivor. Grabs that end without injury leave the Survivor <b>Hindered</b>. Grab duration is shorter for Survivors with the <b>Endurance</b> status effect.<br><br><b>SPECIAL ABILITY: SEARCH</b><br><br>The Search Command sends the dog to a target location, creating a Search Path. It has its own lullaby and, as it moves, its Houndsense radius rises over distance traveled. Survivors who enter the radius are affected by Houndsense and revealed by Killer Instinct. If The Houndmaster follows the dog\u2019s Search Path, she gains increased movement speed over time. Leaving the Search Path ends the bonus movement speed.<br><br><b>SPECIAL EFFECT: HOUNDSENSE</b><br><br>Healthy Survivors affected by Houndsense receive <b>Deep Wounds</b> when injured. Injured Survivors affected by Houndsense suffer from louder grunts of pain and longer pools of blood when put into the dying sta",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 0,
+        "event": null,
+        "rarity": "common",
+        "image": "UI/Icons/Powers/Gelato/iconPowers_DashCommand_K38.png"
     },
     "Item_Slasher_Kanobo": {
         "type": "power",

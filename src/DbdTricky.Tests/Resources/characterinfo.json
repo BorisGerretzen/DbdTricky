@@ -14,7 +14,7 @@
         "CarryingCamperMaxWalkSpeedPercent": 0.800000011920929,
         "TerrorRadius": 3200,
         "=====================ADDONS=====================": 3200,
-        "Addon_14_CooldownReductionOnBasicAttackSuccess": 5,
+        "Addon_14_CooldownReductionOnBasicAttackSuccess": 3,
         "Addon_15_SurvivorDistanceFromTreasureChest": 600,
         "Addon_15_EffectLifetime": 3,
         "Addon_16_MangledEffectLifetime": 45,
@@ -49,12 +49,12 @@
             "id": "K36P01",
             "categories": null,
             "name": "Weave Attunement",
-            "description": "You are so attuned to magical energies that you can sense even minor ripples around enchantments.<br><br>When an item becomes depleted for the first time, it is dropped. You see the auras of dropped items.<br><br>Survivors within {0} meters of dropped items have their auras revealed to you.<br><br>When a Survivor picks up a Survivor item, they suffer from the <b>Oblivious</b> status effect for {1} seconds.<br><br>Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.<br><br>\u201cNo number of novelties will protect you from me!\u201d - Vecna",
+            "description": "You are so attuned to magical energies that you can sense even minor ripples around enchantments.<br><br>When an item becomes depleted for the first time, it is dropped. You see the auras of dropped items.<br><br>Survivors within {0} meters of dropped items have their auras revealed to you. Affected Survivors see the item's aura.<br><br>When a Survivor picks up a Survivor item, they suffer from the <b>Oblivious</b> status effect for {1} seconds.<br><br>Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.<br><br>\u201cNo number of novelties will protect you from me!\u201d - Vecna",
             "role": "killer",
             "character": 268435491,
             "tunables": [
                 [
-                    "12"
+                    "8"
                 ],
                 [
                     "20",
@@ -82,7 +82,7 @@
                     "10"
                 ],
                 [
-                    "20"
+                    "5"
                 ]
             ],
             "teachable": 35,

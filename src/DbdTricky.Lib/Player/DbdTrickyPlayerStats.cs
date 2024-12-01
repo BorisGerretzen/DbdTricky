@@ -28,6 +28,7 @@ public class DbdTrickyPlayerStats
     [JsonPropertyName("escaped_lastgenlastsurvivor")] public required int EscapedLastGenLastSurvivor { get; init; }
     [JsonPropertyName("escaped_newitem")] public required int EscapedNewItem { get; init; }
     [JsonPropertyName("escaped_withitemfrom")] public required int EscapedWithItemFrom { get; init; }
+    [JsonPropertyName("escaped_broken")] public required int EscapedBroken { get; init; }
     [JsonPropertyName("protectionhits_unhooked")] public required int ProtectionHitsUnhooked { get; init; }
     [JsonPropertyName("protectionhits_whilecarried")] public required int ProtectionHitsWhileCarried { get; init; }
     [JsonPropertyName("healeddyingtoinjured")] public required int HealedDyingToInjured { get; init; }
@@ -58,6 +59,7 @@ public class DbdTrickyPlayerStats
     [JsonPropertyName("chestssearched_basement")] public required int ChestsSearchedBasement { get; init; }
     public required int MysteryBoxesOpened { get; init; }
     public required int Screams { get; init; }
+    [JsonPropertyName("unhookedsafely_whilebroken")] public required int UnhookedSafelyWhileBroken { get; init; }
     [JsonPropertyName("secondfloorgen_disturbedward")] public required int SecondFloorGenDisturbedWard { get; init; }
     [JsonPropertyName("secondfloorgen_fathercampbellschapel")] public required int SecondFloorGenFatherCampbellsChapel { get; init; }
     [JsonPropertyName("secondfloorgen_mothersdwelling")] public required int SecondFloorGenMothersDwelling { get; init; }
@@ -120,6 +122,7 @@ public class DbdTrickyPlayerStats
     [JsonPropertyName("survivorshit_whilecarrying")] public required int SurvivorsHitWhileCarrying { get; init; }
     [JsonPropertyName("survivorshit_basicattackundetectable")] public required int SurvivorsHitBasicAttackUndetectable { get; init; }
     [JsonPropertyName("survivorshit_scamper")] public required int SurvivorsHitScamper { get; init; } 
+    [JsonPropertyName("survivorshit_detainedbydog")] public required int SurvivorsHitDetainedByDog { get; init; }
     public required int SurvivorsThreeHookedBasementSameTime { get; init; }
     public required int HatchesClosed { get; init; }
     public required int HookedWhileThreeInjured { get; init; }

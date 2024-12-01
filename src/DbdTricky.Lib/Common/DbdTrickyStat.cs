@@ -30,6 +30,7 @@ public static class DbdTrickyStat
     public const string EscapedLastgenlastsurvivor = "escaped_lastgenlastsurvivor";
     public const string EscapedNewitem = "escaped_newitem";
     public const string EscapedWithitemfrom = "escaped_withitemfrom";
+    public const string EscapedBroken = "escaped_broken";
     public const string ProtectionhitsUnhooked = "protectionhits_unhooked";
     public const string ProtectionhitsWhilecarried = "protectionhits_whilecarried";
     public const string Healeddyingtoinjured = "healeddyingtoinjured";
@@ -60,6 +61,7 @@ public static class DbdTrickyStat
     public const string ChestssearchedBasement = "chestssearched_basement";
     public const string Mysteryboxesopened = "mysteryboxesopened";
     public const string Screams = "screams";
+    public const string UnhookedSafelyWhileBroken = "unhookedsafely_whilebroken";
     public const string SecondfloorgenDisturbedward = "secondfloorgen_disturbedward";
     public const string SecondfloorgenFathercampbellschapel = "secondfloorgen_fathercampbellschapel";
     public const string SecondfloorgenMothersdwelling = "secondfloorgen_mothersdwelling";
@@ -122,6 +124,7 @@ public static class DbdTrickyStat
     public const string SurvivorshitWhilecarrying = "survivorshit_whilecarrying";
     public const string SurvivorshitBasicattackundetectable = "survivorshit_basicattackundetectable";
     public const string SurvivorshitScamper = "survivorshit_scamper";
+    public const string SurvivorshitDetainedByDog = "survivorshit_detainedbydog";
     public const string Survivorsthreehookedbasementsametime = "survivorsthreehookedbasementsametime";
     public const string Hatchesclosed = "hatchesclosed";
     public const string Hookedwhilethreeinjured = "hookedwhilethreeinjured";

@@ -1185,7 +1185,7 @@
         "name": "Sacrificial Ward",
         "description": "Calls upon The Entity to reject all offerings that alter the chance of being sent to a specific realm.<br><br>This can only be canceled if four identical realm offerings are played.",
         "role": null,
-        "rarity": "rare",
+        "rarity": "common",
         "retired": 0,
         "image": "UI/Icons/Favors/Yemen/iconFavors_wardSacrificial.png"
     },
@@ -1622,6 +1622,20 @@
         "rarity": "veryrare",
         "retired": 0,
         "image": "UI/Icons/Favors/iconFavors_wardWhite.png"
+    },
+    "Winter2024Offering": {
+        "type": "points",
+        "tags": [
+            "notavailableinpartymode",
+            "personal",
+            "stack"
+        ],
+        "name": "MISTLE TOES",
+        "description": "If you see these things hanging over you, the last thing you'll want is a kiss.<br><br>Personal.Start the trial carrying <b>6 Snowskulls</b>.Provides a +<b>100%</b> Bloodpoints bonus to all Bone Chill score events.Create <b>1</b> more chest.<i>Only usable when playing <b>Event: Bone Chill</b>.</i>",
+        "role": null,
+        "rarity": "specialevent",
+        "retired": 0,
+        "image": "UI/Icons/Favors/Gelato/iconsFavors_Winter.png"
     },
     "WormholeThemeOffering": {
         "type": "world",

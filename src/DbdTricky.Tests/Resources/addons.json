@@ -1246,7 +1246,7 @@
             "Item_Slasher_QatarKillerPower"
         ],
         "name": "Lifeguard Whistle",
-        "description": "A rusty, metal whistle that once ruled the Hawkins public pool.<br><br>Survivors near activated Portals are indicated by Killer Instinct without having to charge <b>Of the Abyss</b>.<b>Reduces</b> the detection range from the portal by <b>1 meter</b>.",
+        "description": "A rusty, metal whistle that once ruled the Hawkins public pool.<br><br>Increases the number of available Portals by <b>2</b>.",
         "role": "killer",
         "modifiers": [
             {
@@ -1395,7 +1395,7 @@
             "Item_Slasher_QatarKillerPower"
         ],
         "name": "Thorny Vines",
-        "description": "Thick, thorny vines that stretch and reinforce the interdimensional tunnels.<br><br><b>Increases</b> time required for Survivors to seal Portals by <b>11%</b><b>Increases</b> the distance from Portals at which Survivors can be detected by <b>Of The Abyss</b> by <b>1 meter</b>.",
+        "description": "Thick, thorny vines that stretch and reinforce the interdimensional tunnels.<br><br><b>Increases</b> time required for Survivors to seal Portals by <b>8%</b><b>Increases</b> the distance from Portals at which Survivors can be detected by <b>Of The Abyss</b> by <b>1 meter</b>.",
         "role": "killer",
         "modifiers": [
             {
@@ -1433,7 +1433,7 @@
             "Item_Slasher_QatarKillerPower"
         ],
         "name": "Upside Down Resin",
-        "description": "A sticky, flammable sap that fortifies the gateway to the interdimensional tunnels.<b>Increases</b> time required for Survivors to seal Portals by <b>40%</b>.",
+        "description": "A sticky, flammable sap that fortifies the gateway to the interdimensional tunnels.<b>Increases</b> time required for Survivors to seal Portals by <b>20%</b>.",
         "role": "killer",
         "modifiers": null,
         "bloodweb": 1,
@@ -1485,7 +1485,7 @@
             "Item_Slasher_QatarKillerPower"
         ],
         "name": "Viscous Webbing",
-        "description": "Wet, elastic webs that broaden the interdimensional tunnels.<b>Increases</b> time required for Survivors to seal Portals by <b>16%</b>.",
+        "description": "Wet, elastic webs that broaden the interdimensional tunnels.<b>Increases</b> time required for Survivors to seal Portals by <b>10%</b>.",
         "role": "killer",
         "modifiers": null,
         "bloodweb": 1,
@@ -2987,7 +2987,7 @@
             "Item_Slasher_GhostPower"
         ],
         "name": "\u201cPhilly\u201d",
-        "description": "Stolen camera from a victim of Olsen\u2019s in Philadelphia, where he worked before. The film inside captured his last night in the city.<br><br><b>Decreases</b> time required to Mark a Survivor by <b>20%</b>.",
+        "description": "Stolen camera from a victim of Olsen\u2019s in Philadelphia, where he worked before. The film inside captured his last night in the city.<br><br><b>Decreases</b> time required to Mark a Survivor by <b>10%</b>.",
         "role": "killer",
         "modifiers": null,
         "bloodweb": 1,
@@ -3062,7 +3062,7 @@
             "Item_Slasher_GhostPower"
         ],
         "name": "Walleye's Matchbook",
-        "description": "A sheet of matches from Walleye's, a small bar in Northern Roseville. A victim\u2019s phone number is scribbled in blue. One of the incriminating pieces of evidence found.<br><br><b>Decreases Night Shroud</b> recovery time by <b>6 seconds</b>.",
+        "description": "A sheet of matches from Walleye's, a small bar in Northern Roseville. A victim\u2019s phone number is scribbled in blue. One of the incriminating pieces of evidence found.<br><br><b>Decreases Night Shroud</b> recovery time by <b>3 seconds</b>.",
         "role": "killer",
         "modifiers": [
             {
@@ -5758,7 +5758,7 @@
             "Item_Slasher_K29Power"
         ],
         "name": "Leather Gloves",
-        "description": "Gloves of a cold, calculating schemer. They impart an air of icy professionalism.<b>Decreases</b> the time to recharge <b>Virulent Bound</b> by <b>10%</b>.",
+        "description": "Gloves of a cold, calculating schemer. They impart an air of icy professionalism.<b>Decreases</b> the time to recharge <b>Virulent Bound</b> by <b>8%</b>.",
         "role": "killer",
         "modifiers": [
             {
@@ -7128,7 +7128,7 @@
             "Item_Slasher_K36Power"
         ],
         "name": "Ring of Spell Storing",
-        "description": "A magical ring that rewards those who are well-prepared.<br><br><b>Decreases</b> the cooldown of all spells by <b>4 seconds</b>.",
+        "description": "A magical ring that rewards those who are well-prepared.<br><br><b>Decreases</b> the cooldown of all spells by <b>2 seconds</b>.",
         "role": "killer",
         "modifiers": null,
         "bloodweb": 1,
@@ -7274,6 +7274,146 @@
         "bloodweb": 1,
         "rarity": "uncommon",
         "image": "UI/Icons/ItemAddons/Eclair/iconAddon_WingedBoots.png"
+    },
+    "Addon_K38": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Iridescent Wheel Handle",
+        "description": "Once used to guide a great vessel across the open seas, its remnants now serve as a memory of times past.<br><br><b>Increases</b> the time the Dog lingers at a Search destination by <b>20%</b>.While the Dog is running to and from the Search destination, The Houndmaster gains the <b>Undetectable</b> status effect.Standing on the Search Path removes the <b>Undetectable</b> status effect.<br><br><br>Undetectable hides the Killer's aura, Terror Radius, and Red Stain.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "ultrarare",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_IridescentWheelHandle.png"
+    },
+    "Addon_K38_01": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Young Coconut",
+        "description": "Her first meal as a castaway, she shared it with her loyal companion.<br><br><b>Increases</b> the Dog's Chase speed by <b>5%</b>.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "common",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_YoungCoconut.png"
+    },
+    "Addon_K38_02": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Sticky Pitch",
+        "description": "A vital commodity for keeping a ship in tip-top shape.<br><br><b>Increases</b> The Houndmaster's bonus movement speed gained while running on the Search Path by <b>2%</b>.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "common",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_StickyPitch.png"
+    },
+    "Addon_K38_03": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Creature's Bone",
+        "description": "It was unlike anything she'd ever seen, and the marrow in its bones was delectable.<br><br>The Dog's stun duration is <b>reduced</b> by <b>50%</b>.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "common",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_CreaturesBone.png"
+    },
+    "Addon_K38_04": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Trainer's Book",
+        "description": "Some of the advice contained within helped strengthen their bond.<br><br><b>Increases</b> Houndsense duration by <b>35%</b>.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "common",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_TrainersBook.png"
+    },
+    "Addon_K38_05": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Barley Meal",
+        "description": "The key ingredient for a bland but reinvigorating porridge.<br><br><b>Increases</b> the Dog's initial Chase distance by <b>20%</b>.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "uncommon",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_BarleyMeal.png"
+    },
+    "Addon_K38_06": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Belaying Pins",
+        "description": "Ideal for holding rope, securing knots, and rigging sails.<br><br>Survivors revealed by Killer Instinct when entering the Houdsense Radius also become <b>Oblivious</b> for <b>20 seconds</b>.<br><br>Oblivious prevents Survivors from hearing or being affected by the Killer's Terror Radius.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "uncommon",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_BelayingPins.png"
+    },
+    "Addon_K38_07": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Smoked Snapper",
+        "description": "A protein-packed foodstuff, preserved to ensure its quality over long expeditions.<br><br>Power cooldown is <b>reduced</b> by <b>5%</b>.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "uncommon",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_SmokedSnapper.png"
+    },
+    "Addon_K38_08": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Knotted Rope",
+        "description": "The dog's jaws tightened around the makeshift toy, and he thrashed it back and forth.<br><br><b>Reduces</b> the cooldown of basic attacks against Survivors injured while in the Dog's Grab by <b>10%</b>.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "uncommon",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_KnottedRope.png"
+    },
+    "Addon_K38_09": {
+        "type": "poweraddon",
+        "item_type": null,
+        "parents": [
+            "Item_Slasher_K38Power"
+        ],
+        "name": "Spyglass",
+        "description": "Used to spot what one is looking for, no matter how far away.<br><br>When Houndsense duration ends, the Survivor's aura is <b>revealed</b> for <b>3 seconds</b>.",
+        "role": "killer",
+        "modifiers": null,
+        "bloodweb": 1,
+        "rarity": "uncommon",
+        "image": "UI/Icons/ItemAddons/Gelato/T_UI_iconAddon_Spyglass.png"
     },
     "Addon_Kanobo_AkitosCrutch": {
         "type": "poweraddon",
@@ -10714,7 +10854,7 @@
             "Item_Slasher_Stalker"
         ],
         "name": "Fragrant Tuft of Hair",
-        "description": "A tuft of blond hair which was forcefully torn off someone's scalp. Releases hints of feminine floral fragrance.<br><br>Unlimited duration of <b>Evil Within III</b>.<b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>200%</b>.",
+        "description": "A tuft of blond hair which was forcefully torn off someone's scalp. Releases hints of feminine floral fragrance.<br><br>Unlimited duration of <b>Evil Within III</b>.<b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>400%</b>.",
         "role": "killer",
         "modifiers": [
             {
@@ -10869,7 +11009,7 @@
             "Item_Slasher_Stalker"
         ],
         "name": "Judith's Tombstone",
-        "description": "A large and heavy granite tombstone stolen from Mt. Sinclair cemetery, belonging to Judith Myers.<br><br>Unlocks the ability to kill healthy or injured Survivors with <b>Evil Within III</b>.<b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>200%</b>.<b>Decreases</b> movement speed by <b>9%</b> while <b>Evil Within III</b> is active.",
+        "description": "A large and heavy granite tombstone stolen from Mt. Sinclair cemetery, belonging to Judith Myers.<br><br>Unlocks the ability to kill healthy or injured Survivors with <b>Evil Within III</b>.<b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>400%</b>.<b>Decreases</b> movement speed by <b>9%</b> while <b>Evil Within III</b> is active.",
         "role": "killer",
         "modifiers": [
             {
@@ -10889,7 +11029,7 @@
             "Item_Slasher_Stalker"
         ],
         "name": "Lock of Hair",
-        "description": "A cut lock of blond hair bunched with a black elastic.<br><br><b>Increases</b> the duration of <b>Evil Within III</b> by <b>40 seconds</b>.<b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> for the first time by <b>100%</b>.",
+        "description": "A cut lock of blond hair bunched with a black elastic.<br><br><b>Increases</b> the duration of <b>Evil Within III</b> by <b>40 seconds</b>.<b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> for the first time by <b>50%</b>.",
         "role": "killer",
         "modifiers": [
             {
@@ -10967,7 +11107,7 @@
             "Item_Slasher_Stalker"
         ],
         "name": "Scratched Mirror",
-        "description": "A standing portable vanity mirror which has been violently scratched with a sharp metallic object.<br><br><b>Evil Within I</b> reveals Survivors' auras when stalking within a <b>32 meter</b> range.<b>Evil Within</b> cannot progress past <b>TIER I</b>.For each Hit score event, score <b>100% Bloodpoints</b> in the Brutality category and an additional <b>200% Bloodpoints</b> in the Deviousness category.",
+        "description": "A standing portable vanity mirror which has been violently scratched with a sharp metallic object.<br><br><b>Evil Within I</b> reveals Survivors' auras when stalking within a <b>32 meter</b> range.<b>Evil Within</b> cannot progress past <b>TIER I</b>.Decreases movement speed by <b>4.5%</b>.For each Hit score event, score <b>100% Bloodpoints</b> in the Brutality category and an additional <b>200% Bloodpoints</b> in the Deviousness category.",
         "role": "killer",
         "modifiers": [
             {
@@ -11006,7 +11146,7 @@
             "Item_Slasher_Stalker"
         ],
         "name": "Tombstone Piece",
-        "description": "A fist-sized granite piece taken from a broken tombstone.<br><br>Unlocks the ability to kill healthy or injured Survivors with <b>Evil Within III</b>.Killing a Survivor drains the power of <b>Evil Within</b>.<b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>150%</b>.",
+        "description": "A fist-sized granite piece taken from a broken tombstone.<br><br>Unlocks the ability to kill healthy or injured Survivors with <b>Evil Within III</b>.Killing a Survivor drains the power of <b>Evil Within</b>.<b>Increases</b> the amount of evil required to reach <b>Evil Within III</b> from <b>Evil Within II</b> by <b>300%</b>.",
         "role": "killer",
         "modifiers": [
             {
@@ -12834,7 +12974,7 @@
             "Item_Slasher_K34Power"
         ],
         "name": "Rat Poison",
-        "description": "The secret ingredient in a killer chili.<br><br>While performing a <b>Slice & Dice</b>, the auras of Survivors within <b>12 meters</b> of you are revealed for <b>5 seconds</b>.",
+        "description": "The secret ingredient in a killer chili.<br><br>While performing a <b>Slice & Dice</b>, the auras of Survivors within <b>6 meters</b> of you are revealed for <b>2.5 seconds</b>.",
         "role": "killer",
         "modifiers": null,
         "bloodweb": 1,

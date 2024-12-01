@@ -1,4 +1,4 @@
-﻿{
+{
   "steamid": 99999999999999999,
   "dwight_count": 1,
   "dwight_time": 1501827441,
@@ -88,6 +88,8 @@
   "lara_time": 1721151453,
   "trevor_count": 1,
   "trevor_time": 1724785894,
+  "taurie_count": 1,
+  "taurie_time": 1732834923,
   "trapper_count": 1,
   "trapper_time": 1505031901,
   "wraith_count": 1,
@@ -162,6 +164,8 @@
   "lich_time": 1717445828,
   "darklord_count": 1,
   "darklord_time": 1724777449,
+  "houndmaster_count": 1,
+  "houndmaster_time": 1732895703,
   "updated_at": 1731832503,
   "created_at": 0
 }

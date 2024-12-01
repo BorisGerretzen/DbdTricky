@@ -17267,7 +17267,7 @@
                     {
                         "name": "Spread the Sickness",
                         "role": "killer",
-                        "objective": "Injure a Survivor <b>6 time(s)</b> with Vile Purge or Corrupt Purge as <b>The Plague</b>.",
+                        "objective": "Injure or fully infect a Survivor <b>6 time(s)</b> with Vile Purge or Corrupt Purge as <b>The Plague</b>.",
                         "rewards": [
                             {
                                 "type": "currency",
@@ -39829,7 +39829,7 @@
                         ]
                     },
                     {
-                        "name": "Snow-where to Hide",
+                        "name": "Snowhere to Hide",
                         "role": "killer",
                         "objective": "<b>Hit 1 Survivor(s)</b> within 5 seconds of emerging from a snowman.",
                         "rewards": [
@@ -40214,9 +40214,9 @@
                         ]
                     },
                     {
-                        "name": "Snowskull war",
+                        "name": "Snowskull War",
                         "role": "shared",
-                        "objective": "Hit <b>10 Killer(s) or Survivor(s) that are not in the dying state or on a hook</b> with a Snowskull.",
+                        "objective": "Hit <b>10</b> Killer(s) or Survivor(s) that are not in the dying state or on a hook with a Snowskull.",
                         "rewards": [
                             {
                                 "type": "currency",
@@ -40405,7 +40405,7 @@
                     {
                         "name": "Unwanted Guest",
                         "role": "shared",
-                        "objective": "Destroy <b>1</b> Snowman Decoy(s) with a basic attack, a Killer power or a Snowskull.",
+                        "objective": "Destroy <b>1</b> Snowman Decoy(s) with a basic attack, a Killer power, or a Snowskull.",
                         "rewards": [
                             {
                                 "type": "currency",
@@ -40658,9 +40658,9 @@
                         ]
                     },
                     {
-                        "name": "Snowskull war",
+                        "name": "Snowskull War",
                         "role": "shared",
-                        "objective": "Hit <b>20 Killer(s) or Survivor(s) that are not in the dying state or on a hook</b> with a Snowskull.",
+                        "objective": "Hit <b>20</b> Killer(s) or Survivor(s) that are not in the dying state or on a hook with a Snowskull.",
                         "rewards": [
                             {
                                 "type": "currency",

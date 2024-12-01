@@ -143,6 +143,14 @@
         "dlc": null,
         "image": "UI/Icons/Maps/iconMap_Frm_Slaughterhouse.png"
     },
+    "Glo_Level_01": {
+        "alias": null,
+        "realm": "Ormond",
+        "name": "Ormond Lake Mine",
+        "description": "Tucked among the majestic slopes near Ormond there lies a deep scar running through the rock and roots. The promise of its vast natural resources drew unscrupulous surveyors to its ice-capped peaks. Upon discovering rich coal deposits, they set up shop, but a series of unexplainable mishaps forced them to close the mine before it was exhausted.<br><br>They abandoned the complex and left the nearby town to pick up the pieces. After laying silent for decades, rumors swirl that someone else has taken residence among the rusting machines... a group whose motivations are far darker, and far more mysterious.<br><br>At night, an uneasy silence falls over the complex, punctuated only by the groaning of decaying machines.",
+        "dlc": "Gelato",
+        "image": "UI/Icons/Maps/Gelato/iconMap_Glo_Level01.png"
+    },
     "hos_treatment": {
         "alias": "treatmenttheatre",
         "realm": "L\u00e9ry's Memorial Institute",

@@ -238,5 +238,11 @@
         "description": null,
         "steamid": 3103150,
         "time": 1724680800
+    },
+    "Gelato": {
+        "name": "Doomed Course",
+        "description": null,
+        "steamid": 3261720,
+        "time": 1732712400
     }
 }

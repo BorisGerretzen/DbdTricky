@@ -223,7 +223,8 @@
                 "Tinkerer",
                 "K30P01"
             ],
-            "AllowsUsingLastChocolateBox": false
+            "AllowsUsingLastChocolateBox": false,
+            "PerksAreMaximumLevel": true
         },
         "mutators": null,
         "limitedtime": 1
