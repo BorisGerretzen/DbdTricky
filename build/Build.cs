@@ -15,8 +15,7 @@ using static Nuke.Common.Tools.Git.GitTasks;
     InvokedTargets = [nameof(Pack), nameof(Push)],
     EnableGitHubToken = true,
     OnWorkflowDispatchRequiredInputs = [nameof(PackageVersion)],
-    ImportSecrets = [nameof(NugetApiKey)],
-    OnWorkflowDispatchOptionalInputs = [nameof(NugetSource)])]
+    ImportSecrets = [nameof(NugetApiKey)])]
 [GitHubActions(
     "Test",
     GitHubActionsImage.UbuntuLatest,
