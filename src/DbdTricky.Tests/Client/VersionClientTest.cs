@@ -19,8 +19,8 @@ public class VersionClientTest
             Assert.That(versions.Addons.Version, Is.EqualTo("8.4.0"));
             Assert.That(versions.Addons.LastUpdate, Is.EqualTo(1733013731));
             
-            Assert.That(versions.Archives.Version, Is.EqualTo("8.3.2"));
-            Assert.That(versions.Archives.LastUpdate, Is.EqualTo(1731917159));
+            Assert.That(versions.Archives.Version, Is.EqualTo("8.4.0"));
+            Assert.That(versions.Archives.LastUpdate, Is.EqualTo(1733907952));
             
             Assert.That(versions.Characters.Version, Is.EqualTo("8.4.0"));
             Assert.That(versions.Characters.LastUpdate, Is.EqualTo(1733013742));

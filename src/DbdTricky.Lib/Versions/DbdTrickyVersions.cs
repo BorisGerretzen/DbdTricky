@@ -21,7 +21,7 @@ public class DbdTrickyVersions
     public static readonly DbdTrickyVersions LastKnown = new()
     {
         Addons = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013731 },
-        Archives = new DbdTrickyVersion { Version = "8.3.2", LastUpdate = 1731917159 },
+        Archives = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733907952 },
         Characters = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013742 },
         Customizations = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733014492 },
         Dlc = new DbdTrickyVersion { Version = "8.4.0", LastUpdate = 1733013322 },
